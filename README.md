@@ -36,38 +36,6 @@ User Query → Embedding Model → FAISS Vector Search → Context Retrieval →
 - Python 3.8+
 - pip or conda for package management
 
-## 🚀 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/uw-course-rag-chatbot.git
-cd uw-course-rag-chatbot
-```
-
-2. Create a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-4. Set up environment variables:
-```bash
-cp .env.example .env
-# Edit .env with your API keys
-```
-
-## 💻 Usage
-
-### Running the Chatbot
-
-```bash
-python main.py
-```
 
 ### Example Queries
 
@@ -120,15 +88,6 @@ Key configuration options in `config.py`:
 - [ ] Support for additional query types (professor ratings, course prerequisites)
 - [ ] Historical trend analysis
 
-## 🤝 Contributing
-
-This is a collaborative project. Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Open a Pull Request
 
 ## 📊 Data Source
 
