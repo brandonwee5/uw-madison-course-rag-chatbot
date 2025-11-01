@@ -134,19 +134,6 @@ This is a collaborative project. Contributions are welcome!
 
 Course grade data is sourced from [UW-Madison's public grade distribution reports]. All data is anonymized and aggregated.
 
-## 📝 License
-
-MIT License - see LICENSE file for details
-
-## 👥 Authors
-
-- Brandon Wee - [GitHub](https://github.com/yourusername) | [LinkedIn](your-linkedin)
-- Collaborator Name
-
-## 🙏 Acknowledgments
-
-- UW-Madison for publicly available grade data
-- LlamaIndex, FAISS, and HuggingFace communities
 
 ## 📧 Contact
 
