@@ -17,7 +17,7 @@ The chatbot uses semantic search to retrieve relevant course data and generates 
 - **FAISS**: Vector similarity search for efficient retrieval
 - **HuggingFace**: Embedding models for semantic understanding
 - **Python**: Core development language
-- **LiquidCache** *(planned)*: Caching layer for optimized retrieval
+
 
 ## 🏗️ Architecture
 
@@ -117,8 +117,6 @@ Key configuration options in `config.py`:
 - [x] Data preprocessing pipeline
 - [x] FAISS vector indexing
 - [x] Basic query functionality
-- [ ] LiquidCache integration for performance optimization
-- [ ] Web interface using Streamlit/Gradio
 - [ ] Support for additional query types (professor ratings, course prerequisites)
 - [ ] Historical trend analysis
 
