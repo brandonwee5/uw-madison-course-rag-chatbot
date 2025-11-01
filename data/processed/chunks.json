@@ -1,0 +1,152 @@
+[
+  {
+    "id": "course_0",
+    "text": "Course: Intro to Data Analysis\n\nAverage GPA: 3.693\n\nGrade Distribution:\n- A: 68.1%\n- AB: 20.3%\n- B: 3.8%\n- BC: 2.2%\n- C: 2.7%\n- D: 1.1%\n- F: 1.1%",
+    "metadata": {
+      "course_name": "Intro to Data Analysis",
+      "avg_gpa": 3.693,
+      "grade_a": 68.1,
+      "grade_ab": 20.3,
+      "grade_b": 3.8,
+      "grade_bc": 2.2,
+      "grade_c": 2.7,
+      "grade_d": 1.1,
+      "grade_f": 1.1
+    }
+  },
+  {
+    "id": "course_1",
+    "text": "Course: Global Health: Econ & Policy\n\nAverage GPA: 3.236\n\nGrade Distribution:\n- A: 32.6%\n- AB: 25.8%\n- B: 20.2%\n- BC: 10.1%\n- C: 6.7%\n- D: 3.4%\n- F: 1.1%",
+    "metadata": {
+      "course_name": "Global Health: Econ & Policy",
+      "avg_gpa": 3.236,
+      "grade_a": 32.6,
+      "grade_ab": 25.8,
+      "grade_b": 20.2,
+      "grade_bc": 10.1,
+      "grade_c": 6.7,
+      "grade_d": 3.4,
+      "grade_f": 1.1
+    }
+  },
+  {
+    "id": "course_2",
+    "text": "Course: Economic Decision Analysis\n\nAverage GPA: 3.438\n\nGrade Distribution:\n- A: 45.8%\n- AB: 25.0%\n- B: 16.7%\n- BC: 4.2%\n- C: 4.2%\n- D: 4.2%\n- F: 0.0%",
+    "metadata": {
+      "course_name": "Economic Decision Analysis",
+      "avg_gpa": 3.438,
+      "grade_a": 45.8,
+      "grade_ab": 25.0,
+      "grade_b": 16.7,
+      "grade_bc": 4.2,
+      "grade_c": 4.2,
+      "grade_d": 4.2,
+      "grade_f": 0.0
+    }
+  },
+  {
+    "id": "course_3",
+    "text": "Course: Applied Econometric Analysis I\n\nAverage GPA: 3.547\n\nGrade Distribution:\n- A: 51.5%\n- AB: 24.2%\n- B: 15.2%\n- BC: 3.0%\n- C: 3.0%\n- D: 3.0%\n- F: 0.0%",
+    "metadata": {
+      "course_name": "Applied Econometric Analysis I",
+      "avg_gpa": 3.547,
+      "grade_a": 51.5,
+      "grade_ab": 24.2,
+      "grade_b": 15.2,
+      "grade_bc": 3.0,
+      "grade_c": 3.0,
+      "grade_d": 3.0,
+      "grade_f": 0.0
+    }
+  },
+  {
+    "id": "course_4",
+    "text": "Course: Engr Principles-Biol Systms\n\nAverage GPA: 2.670\n\nGrade Distribution:\n- A: 2.1%\n- AB: 4.3%\n- B: 53.2%\n- BC: 10.6%\n- C: 27.7%\n- D: 2.1%\n- F: 0.0%",
+    "metadata": {
+      "course_name": "Engr Principles-Biol Systms",
+      "avg_gpa": 2.67,
+      "grade_a": 2.1,
+      "grade_ab": 4.3,
+      "grade_b": 53.2,
+      "grade_bc": 10.6,
+      "grade_c": 27.7,
+      "grade_d": 2.1,
+      "grade_f": 0.0
+    }
+  },
+  {
+    "id": "course_5",
+    "text": "Course: Food&Bioprocessing Operations\n\nAverage GPA: 2.577\n\nGrade Distribution:\n- A: 7.7%\n- AB: 7.7%\n- B: 23.1%\n- BC: 30.8%\n- C: 23.1%\n- D: 7.7%\n- F: 0.0%",
+    "metadata": {
+      "course_name": "Food&Bioprocessing Operations",
+      "avg_gpa": 2.577,
+      "grade_a": 7.7,
+      "grade_ab": 7.7,
+      "grade_b": 23.1,
+      "grade_bc": 30.8,
+      "grade_c": 23.1,
+      "grade_d": 7.7,
+      "grade_f": 0.0
+    }
+  },
+  {
+    "id": "course_6",
+    "text": "Course: Water Mgmt Systems\n\nAverage GPA: 3.447\n\nGrade Distribution:\n- A: 40.0%\n- AB: 25.0%\n- B: 15.0%\n- BC: 10.0%\n- C: 5.0%\n- D: 5.0%\n- F: 0.0%",
+    "metadata": {
+      "course_name": "Water Mgmt Systems",
+      "avg_gpa": 3.447,
+      "grade_a": 40.0,
+      "grade_ab": 25.0,
+      "grade_b": 15.0,
+      "grade_bc": 10.0,
+      "grade_c": 5.0,
+      "grade_d": 5.0,
+      "grade_f": 0.0
+    }
+  },
+  {
+    "id": "course_7",
+    "text": "Course: Science and Storytelling\n\nAverage GPA: 3.802\n\nGrade Distribution:\n- A: 84.4%\n- AB: 7.8%\n- B: 2.5%\n- BC: 1.2%\n- C: 2.1%\n- D: 0.8%\n- F: 1.2%",
+    "metadata": {
+      "course_name": "Science and Storytelling",
+      "avg_gpa": 3.802,
+      "grade_a": 84.4,
+      "grade_ab": 7.8,
+      "grade_b": 2.5,
+      "grade_bc": 1.2,
+      "grade_c": 2.1,
+      "grade_d": 0.8,
+      "grade_f": 1.2
+    }
+  },
+  {
+    "id": "course_8",
+    "text": "Course: Science, Media and Society\n\nAverage GPA: 1.000\n\nGrade Distribution:\n- A: 246.0%\n- AB: 3.339%\n- B: 40.2%\n- BC: 31.3%\n- C: 7.3%\n- D: 9.3%\n- F: 7.3%",
+    "metadata": {
+      "course_name": "Science, Media and Society",
+      "avg_gpa": 1.0,
+      "grade_a": 246.0,
+      "grade_ab": 3.339,
+      "grade_b": 40.2,
+      "grade_bc": 31.3,
+      "grade_c": 7.3,
+      "grade_d": 9.3,
+      "grade_f": 7.3
+    }
+  },
+  {
+    "id": "course_9",
+    "text": "Course: Visualizing Sci & Technology\n\nAverage GPA: 1.000\n\nGrade Distribution:\n- A: 94.0%\n- AB: 3.394%\n- B: 35.1%\n- BC: 28.7%\n- C: 21.3%\n- D: 9.6%\n- F: 5.3%",
+    "metadata": {
+      "course_name": "Visualizing Sci & Technology",
+      "avg_gpa": 1.0,
+      "grade_a": 94.0,
+      "grade_ab": 3.394,
+      "grade_b": 35.1,
+      "grade_bc": 28.7,
+      "grade_c": 21.3,
+      "grade_d": 9.6,
+      "grade_f": 5.3
+    }
+  }
+]

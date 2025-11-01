@@ -1,0 +1,150 @@
+--- Chunk 1 ---
+Course: Intro to Data Analysis
+
+Average GPA: 3.693
+
+Grade Distribution:
+- A: 68.1%
+- AB: 20.3%
+- B: 3.8%
+- BC: 2.2%
+- C: 2.7%
+- D: 1.1%
+- F: 1.1%
+================================================================================
+
+--- Chunk 2 ---
+Course: Global Health: Econ & Policy
+
+Average GPA: 3.236
+
+Grade Distribution:
+- A: 32.6%
+- AB: 25.8%
+- B: 20.2%
+- BC: 10.1%
+- C: 6.7%
+- D: 3.4%
+- F: 1.1%
+================================================================================
+
+--- Chunk 3 ---
+Course: Economic Decision Analysis
+
+Average GPA: 3.438
+
+Grade Distribution:
+- A: 45.8%
+- AB: 25.0%
+- B: 16.7%
+- BC: 4.2%
+- C: 4.2%
+- D: 4.2%
+- F: 0.0%
+================================================================================
+
+--- Chunk 4 ---
+Course: Applied Econometric Analysis I
+
+Average GPA: 3.547
+
+Grade Distribution:
+- A: 51.5%
+- AB: 24.2%
+- B: 15.2%
+- BC: 3.0%
+- C: 3.0%
+- D: 3.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 5 ---
+Course: Engr Principles-Biol Systms
+
+Average GPA: 2.670
+
+Grade Distribution:
+- A: 2.1%
+- AB: 4.3%
+- B: 53.2%
+- BC: 10.6%
+- C: 27.7%
+- D: 2.1%
+- F: 0.0%
+================================================================================
+
+--- Chunk 6 ---
+Course: Food&Bioprocessing Operations
+
+Average GPA: 2.577
+
+Grade Distribution:
+- A: 7.7%
+- AB: 7.7%
+- B: 23.1%
+- BC: 30.8%
+- C: 23.1%
+- D: 7.7%
+- F: 0.0%
+================================================================================
+
+--- Chunk 7 ---
+Course: Water Mgmt Systems
+
+Average GPA: 3.447
+
+Grade Distribution:
+- A: 40.0%
+- AB: 25.0%
+- B: 15.0%
+- BC: 10.0%
+- C: 5.0%
+- D: 5.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 8 ---
+Course: Science and Storytelling
+
+Average GPA: 3.802
+
+Grade Distribution:
+- A: 84.4%
+- AB: 7.8%
+- B: 2.5%
+- BC: 1.2%
+- C: 2.1%
+- D: 0.8%
+- F: 1.2%
+================================================================================
+
+--- Chunk 9 ---
+Course: Science, Media and Society
+
+Average GPA: 1.000
+
+Grade Distribution:
+- A: 246.0%
+- AB: 3.339%
+- B: 40.2%
+- BC: 31.3%
+- C: 7.3%
+- D: 9.3%
+- F: 7.3%
+================================================================================
+
+--- Chunk 10 ---
+Course: Visualizing Sci & Technology
+
+Average GPA: 1.000
+
+Grade Distribution:
+- A: 94.0%
+- AB: 3.394%
+- B: 35.1%
+- BC: 28.7%
+- C: 21.3%
+- D: 9.6%
+- F: 5.3%
+================================================================================
+
