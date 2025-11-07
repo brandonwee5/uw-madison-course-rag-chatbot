@@ -1,7 +1,7 @@
 import json
 import numpy as np
 from sentence_transformers import SentenceTransformer
-import faiss
+import faiss_index
 
 with open("chunks.json", "r") as f:
     data = json.load(f)
@@ -16,7 +16,7 @@ sentence_embeddings = model.encode(sentences)
 sentence_embeddings = np.array(sentence_embeddings).astype('float32')
 
 d = sentence_embeddings.shape[1]
-index = faiss.IndexFlatL2(d)
+index = faiss_index.IndexFlatL2(d)
 index.add(sentence_embeddings)
 
 print("Number of vectors in index:", index.ntotal)
