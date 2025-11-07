@@ -10,17 +10,21 @@ parser = LlamaParse(
    result_type="markdown",  # "markdown" and "text" are available
    )
 
-file_name = "gradedistribution_first5pages.pdf"
+file_name = "report-gradedistribution-2024-2025spring.pdf"
 extra_info = {"file_name": file_name}
 
 with open(f"./{file_name}", "rb") as f:
    # must provide extra_info with file_name key with passing file object
    documents = parser.load_data(f, extra_info=extra_info)
+   print(f"Total chunks parsed: {len(documents)}")
 
-with open('output.md', 'w') as f:
-   print(documents, file=f)
+output_file = "fullgrades.md"
+with open(output_file, "w", encoding="utf-8") as f:
+    total = len(documents)
+    for i, doc in enumerate(documents, 1):
+        f.write(doc.text + "\n\n")  # add spacing between chunks
+        # Print progress every 10 chunks or at the end
+        if i % 10 == 0 or i == total:
+            print(f"Processed {i}/{total} chunks ({i/total*100:.1f}%)")
 
-# Write the output to a file
-with open("output.md", "w", encoding="utf-8") as f:
-   for doc in documents:
-       f.write(doc.text)
+print(f"\n✅ Parsing complete! Output saved to {output_file}")
