@@ -3,7 +3,7 @@ UW-Madison Course Analytics RAG Chatbot
 Main entry point for the application
 """
 
-from src.chatbot import run_chatbot
+from formatraw import run_chatbot
 
 def main():
     print("=" * 50)

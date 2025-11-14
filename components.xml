@@ -1,0 +1,29 @@
+<Packages>
+    <ApplicationName>GPT4All</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>gpt4all</Name>
+        <Title>gpt4all</Title>
+        <Description></Description>
+        <SortingPriority>0</SortingPriority>
+        <TreeName moveChildren="false"></TreeName>
+        <Version>3.10.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2025-11-07</InstallDate>
+        <Size>470540144</Size>
+        <ForcedInstallation>true</ForcedInstallation>
+    </Package>
+    <Package>
+        <Name>maintenancetool</Name>
+        <Title>maintenancetool</Title>
+        <Description></Description>
+        <SortingPriority>0</SortingPriority>
+        <TreeName moveChildren="false"></TreeName>
+        <Version>3.10.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2025-11-07</InstallDate>
+        <Size>38850185</Size>
+        <ForcedInstallation>true</ForcedInstallation>
+        <Virtual>true</Virtual>
+    </Package>
+</Packages>
