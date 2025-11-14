@@ -4,8 +4,8 @@ import json
 
 def parse_grades(input_file="../data/processed/fullgrades.md"):
     """
-    Enhanced parser for UW-Madison grade distribution data.
-    Handles complex table formats with multiple sections and naming patterns.
+    Parser for UW-Madison grade distribution data.
+    Extracts course names, GPA, and grade distributions.
     """
     
     with open(input_file, 'r', encoding='utf-8') as f:
@@ -14,46 +14,26 @@ def parse_grades(input_file="../data/processed/fullgrades.md"):
     chunks = []
     lines = content.split('\n')
     
-    # State tracking
-    current_dept = None
-    current_dept_code = None
+    # Track current course name
     current_course_name = None
     
-    i = 0
-    while i < len(lines):
-        line = lines[i].strip()
+    for line in lines:
+        line = line.strip()
         
-        # Skip empty lines
+        # Skip empty lines and non-table rows
         if not line or '|' not in line:
-            i += 1
             continue
         
         # Parse table row
         parts = [p.strip() for p in line.split('|')]
         parts = [p for p in parts if p]  # Remove empty strings
         
-        if len(parts) < 3:
-            i += 1
+        if len(parts) < 5:
             continue
         
         first_col = parts[0]
         
-        # Pattern 1: Department header (e.g., "132 AGRONOMY", "130 AGROECOL")
-        dept_match = re.match(r'^(\d{3})\s+([A-Z\s&]+)$', first_col)
-        if dept_match:
-            current_dept_code = dept_match.group(1)
-            current_dept = dept_match.group(2).strip()
-            i += 1
-            continue
-        
-        # Pattern 2: Section header with no course name (e.g., "ALS", "BSE")
-        if len(first_col) <= 5 and first_col.isupper() and not any(char.isdigit() for char in first_col):
-            current_dept = first_col
-            current_dept_code = None
-            i += 1
-            continue
-        
-        # Pattern 3: Skip headers and summary rows
+        # Skip headers and summary rows
         skip_keywords = [
             'Section', 'Grades', 'Total', 'GPA', 'Ave', 'Avg', '#',
             'Percentage', 'Distribution', 'Office', 'Registrar',
@@ -61,84 +41,51 @@ def parse_grades(input_file="../data/processed/fullgrades.md"):
             'Freshmen', 'Sophomore', 'Junior', 'Senior',
             'Graduate', 'Special', 'Undergraduates', 'Professionals',
             'Summary by Level', 'Dept. Total', 'Course Total',
-            'Prof Yr', 'Please note'
+            'Prof Yr', 'Please note', 'ALS', 'BSE', 'LSC'
         ]
         
         if any(kw in first_col for kw in skip_keywords):
-            i += 1
             continue
         
         # Skip separator rows
         if set(first_col.replace('-', '').replace(' ', '')) == set():
-            i += 1
             continue
         
-        # Pattern 4: Course name only (no numbers, appears before course sections)
-        # e.g., "Independent Study", "Cropping Systems"
-        if not re.search(r'\d', first_col) and len(first_col) > 5:
-            current_course_name = first_col.replace('\\&', '&').strip()
-            i += 1
-            continue
-        
-        # Pattern 5: Course section row (contains course code and section)
-        # e.g., "299 019", "300 001", "108 A A E"
-        
-        # Check if this row has grade data
-        try:
-            # Find numeric columns (enrollment, GPA, grade percentages)
-            numeric_data = []
-            for idx in range(1, len(parts)):
-                val = parts[idx]
-                if val in ['***', '\\*\\*\\*', '.', '']:
-                    break
-                try:
-                    numeric_data.append((idx, float(val)))
-                except ValueError:
-                    pass
-            
-            if len(numeric_data) < 2:  # Need at least enrollment and GPA
-                i += 1
+        # Pattern: Course name (no numbers at start, longer than 5 chars)
+        # Examples: "Biology of Microorganisms", "Intro Disease Biology"
+        if not re.match(r'^\d', first_col) and len(first_col) > 5 and re.search(r'[a-zA-Z]{3,}', first_col):
+            # Clean up course name
+            clean_name = first_col.replace('\\&', '&').replace('\\*\\*\\*', '').strip()
+            if clean_name and not clean_name.isdigit():
+                current_course_name = clean_name
                 continue
-            
-            # Extract enrollment (first integer)
-            enrollment = None
+        
+        # Try to extract GPA and grades from this row
+        # Skip if no course name has been set
+        if not current_course_name:
+            continue
+        
+        try:
+            # Find GPA in the row (should be between 0 and 4.5)
             gpa = None
             gpa_idx = None
             
-            for idx, val in numeric_data:
-                if enrollment is None and val == int(val):
-                    enrollment = int(val)
-                elif enrollment is not None and gpa is None and 0 <= val <= 4.5:
-                    gpa = val
-                    gpa_idx = idx
-                    break
+            for idx, val in enumerate(parts):
+                if val in ['***', '\\*\\*\\*', '.', '']:
+                    continue
+                try:
+                    float_val = float(val)
+                    if 0 <= float_val <= 4.5 and float_val != int(float_val):
+                        gpa = float_val
+                        gpa_idx = idx
+                        break
+                except ValueError:
+                    continue
             
-            if gpa is None:
-                i += 1
+            if gpa is None or gpa_idx is None:
                 continue
             
-            # Extract course code from first column
-            course_code_match = re.search(r'(\d{3}(?:\s+[A-Z0-9\s]+)?)', first_col)
-            if course_code_match:
-                course_code = course_code_match.group(1).strip()
-            else:
-                course_code = first_col.strip()
-            
-            # Build full course identifier
-            if current_dept_code:
-                full_course_id = f"{current_dept_code} {current_dept} {course_code}"
-            elif current_dept:
-                full_course_id = f"{current_dept} {course_code}"
-            else:
-                full_course_id = course_code
-            
-            # Use stored course name or derive from data
-            if current_course_name:
-                course_name = current_course_name
-            else:
-                course_name = course_code
-            
-            # Extract grade percentages (7 grades after GPA)
+            # Extract grade percentages after GPA
             grades = []
             for idx in range(gpa_idx + 1, min(gpa_idx + 8, len(parts))):
                 val = parts[idx]
@@ -150,17 +97,15 @@ def parse_grades(input_file="../data/processed/fullgrades.md"):
                     except ValueError:
                         grades.append(0.0)
             
-            # Ensure we have exactly 7 grades
+            # Need at least 7 grade values
             while len(grades) < 7:
                 grades.append(0.0)
             grades = grades[:7]
             
-            # Only add if we have meaningful data
-            if enrollment and enrollment > 0 and gpa > 0:
+            # Only add if this looks valid (GPA > 0 and some grades present)
+            if gpa > 0 and sum(grades) > 0:
                 chunk = {
-                    "course_name": course_name,
-                    "course_code": full_course_id,
-                    "enrollment": enrollment,
+                    "course_name": current_course_name,
                     "avg_gpa": round(gpa, 3),
                     "grade_a": round(grades[0], 1),
                     "grade_ab": round(grades[1], 1),
@@ -172,12 +117,11 @@ def parse_grades(input_file="../data/processed/fullgrades.md"):
                 }
                 
                 chunks.append(chunk)
-            
-        except Exception as e:
-            # Skip problematic rows
-            pass
-        
-        i += 1
+                # Reset course name after extracting data
+                current_course_name = None
+                
+        except Exception:
+            continue
     
     return chunks
 
@@ -185,53 +129,48 @@ def parse_grades(input_file="../data/processed/fullgrades.md"):
 def save_chunks(chunks, text_file="chunks.txt", json_file="chunks.json"):
     """Save parsed chunks to text and JSON files."""
     
-    # Remove duplicates (same course code and GPA)
+    # Remove duplicates based on course name and GPA
     seen = set()
     unique_chunks = []
     for chunk in chunks:
-        key = (chunk['course_code'], chunk['avg_gpa'])
+        key = (chunk['course_name'], chunk['avg_gpa'])
         if key not in seen:
             seen.add(key)
             unique_chunks.append(chunk)
     
     chunks = unique_chunks
     
-    # Save text format
+    # Save text format (exactly as requested)
     with open(text_file, 'w', encoding='utf-8') as f:
-        for i, chunk in enumerate(chunks):
-            f.write(f"--- Chunk {i+1} ---\n")
-            f.write(f"Course: {chunk['course_code']}\n")
-            f.write(f"Name: {chunk['course_name']}\n")
-            f.write(f"Enrollment: {chunk['enrollment']}\n")
-            f.write(f"\nAverage GPA: {chunk['avg_gpa']:.3f}\n\n")
+        for i, chunk in enumerate(chunks, 1):
+            f.write(f"--- Chunk {i} ---\n")
+            f.write(f"Course: {chunk['course_name']}\n\n")
+            f.write(f"Average GPA: {chunk['avg_gpa']:.3f}\n\n")
             f.write("Grade Distribution:\n")
-            f.write(f"  A:  {chunk['grade_a']:>5.1f}%\n")
-            f.write(f"  AB: {chunk['grade_ab']:>5.1f}%\n")
-            f.write(f"  B:  {chunk['grade_b']:>5.1f}%\n")
-            f.write(f"  BC: {chunk['grade_bc']:>5.1f}%\n")
-            f.write(f"  C:  {chunk['grade_c']:>5.1f}%\n")
-            f.write(f"  D:  {chunk['grade_d']:>5.1f}%\n")
-            f.write(f"  F:  {chunk['grade_f']:>5.1f}%\n")
+            f.write(f"- A: {chunk['grade_a']:.1f}%\n")
+            f.write(f"- AB: {chunk['grade_ab']:.1f}%\n")
+            f.write(f"- B: {chunk['grade_b']:.1f}%\n")
+            f.write(f"- BC: {chunk['grade_bc']:.1f}%\n")
+            f.write(f"- C: {chunk['grade_c']:.1f}%\n")
+            f.write(f"- D: {chunk['grade_d']:.1f}%\n")
+            f.write(f"- F: {chunk['grade_f']:.1f}%\n")
             f.write("="*80 + "\n\n")
     
     # Save JSON format for RAG
     json_data = []
     for i, c in enumerate(chunks):
-        # Create rich text representation for embeddings
+        # Simple text representation for embeddings
         text_repr = (
-            f"{c['course_code']}: {c['course_name']}\n\n"
-            f"Course Details:\n"
-            f"- Average GPA: {c['avg_gpa']:.3f}\n"
-            f"- Enrollment: {c['enrollment']} students\n\n"
+            f"Course: {c['course_name']}\n\n"
+            f"Average GPA: {c['avg_gpa']:.3f}\n\n"
             f"Grade Distribution:\n"
-            f"- A: {c['grade_a']:.1f}% of students\n"
-            f"- AB: {c['grade_ab']:.1f}% of students\n"
-            f"- B: {c['grade_b']:.1f}% of students\n"
-            f"- BC: {c['grade_bc']:.1f}% of students\n"
-            f"- C: {c['grade_c']:.1f}% of students\n"
-            f"- D: {c['grade_d']:.1f}% of students\n"
-            f"- F: {c['grade_f']:.1f}% of students\n\n"
-            f"Pass rate: {c['grade_a'] + c['grade_ab'] + c['grade_b'] + c['grade_bc'] + c['grade_c']:.1f}%"
+            f"- A: {c['grade_a']:.1f}%\n"
+            f"- AB: {c['grade_ab']:.1f}%\n"
+            f"- B: {c['grade_b']:.1f}%\n"
+            f"- BC: {c['grade_bc']:.1f}%\n"
+            f"- C: {c['grade_c']:.1f}%\n"
+            f"- D: {c['grade_d']:.1f}%\n"
+            f"- F: {c['grade_f']:.1f}%"
         )
         
         json_data.append({
@@ -245,47 +184,50 @@ def save_chunks(chunks, text_file="chunks.txt", json_file="chunks.json"):
     
     print(f"\n✅ Created {len(chunks)} unique course chunks")
     print(f"✅ Saved to {text_file} and {json_file}")
-    
-    # Statistics
-    total_enrollment = sum(c['enrollment'] for c in chunks)
-    avg_gpa_overall = sum(c['avg_gpa'] * c['enrollment'] for c in chunks) / total_enrollment if total_enrollment > 0 else 0
-    
-    print(f"\n📊 Dataset Statistics:")
-    print(f"   Total courses: {len(chunks)}")
-    print(f"   Total enrollment: {total_enrollment:,}")
-    print(f"   Average GPA (weighted): {avg_gpa_overall:.3f}")
 
 
-def analyze_courses(chunks):
-    """Provide analysis of parsed courses."""
+def show_samples(chunks, n=5):
+    """Display sample parsed courses."""
+    print(f"\n📚 Sample of {min(n, len(chunks))} parsed courses:")
+    print("-" * 80)
+    
+    for i in range(min(n, len(chunks))):
+        c = chunks[i]
+        print(f"{i+1}. {c['course_name']}")
+        print(f"   GPA: {c['avg_gpa']:.3f}")
+        print(f"   Grade A: {c['grade_a']:.1f}%")
+        print()
+
+
+def analyze_gpas(chunks):
+    """Show GPA statistics."""
     if not chunks:
         return
     
-    # Highest and lowest GPA courses
-    sorted_by_gpa = sorted(chunks, key=lambda x: x['avg_gpa'], reverse=True)
+    gpas = [c['avg_gpa'] for c in chunks]
+    avg_gpa = sum(gpas) / len(gpas)
     
-    print("\n🎓 Top 5 Highest GPA Courses:")
-    for i, c in enumerate(sorted_by_gpa[:5], 1):
-        print(f"   {i}. {c['course_code']}: {c['course_name']}")
-        print(f"      GPA: {c['avg_gpa']:.3f} | A: {c['grade_a']:.1f}%")
+    print(f"\n📊 GPA Statistics:")
+    print(f"   Total courses: {len(chunks)}")
+    print(f"   Average GPA: {avg_gpa:.3f}")
+    print(f"   Highest GPA: {max(gpas):.3f}")
+    print(f"   Lowest GPA: {min(gpas):.3f}")
     
-    print("\n📚 Top 5 Lowest GPA Courses:")
-    for i, c in enumerate(sorted_by_gpa[-5:], 1):
-        print(f"   {i}. {c['course_code']}: {c['course_name']}")
-        print(f"      GPA: {c['avg_gpa']:.3f} | A: {c['grade_a']:.1f}%")
+    # Show highest and lowest GPA courses
+    sorted_chunks = sorted(chunks, key=lambda x: x['avg_gpa'], reverse=True)
     
-    # Largest courses
-    sorted_by_enrollment = sorted(chunks, key=lambda x: x['enrollment'], reverse=True)
+    print(f"\n🏆 Top 3 Highest GPA Courses:")
+    for i, c in enumerate(sorted_chunks[:3], 1):
+        print(f"   {i}. {c['course_name']}: {c['avg_gpa']:.3f}")
     
-    print("\n👥 Top 5 Largest Courses:")
-    for i, c in enumerate(sorted_by_enrollment[:5], 1):
-        print(f"   {i}. {c['course_code']}: {c['course_name']}")
-        print(f"      Enrollment: {c['enrollment']} | GPA: {c['avg_gpa']:.3f}")
+    print(f"\n📉 Top 3 Lowest GPA Courses:")
+    for i, c in enumerate(sorted_chunks[-3:], 1):
+        print(f"   {i}. {c['course_name']}: {c['avg_gpa']:.3f}")
 
 
 if __name__ == "__main__":
     print("=" * 80)
-    print("UW-Madison Grade Distribution Parser")
+    print("UW-Madison Grade Distribution Parser (Simple)")
     print("=" * 80)
     
     print("\n📖 Parsing grade distribution data...")
@@ -293,21 +235,11 @@ if __name__ == "__main__":
     
     if chunks:
         save_chunks(chunks)
-        analyze_courses(chunks)
-        
-        # Show sample of parsed courses
-        print(f"\n💡 Sample of parsed courses:")
-        print("-" * 80)
-        for i in range(min(5, len(chunks))):
-            c = chunks[i]
-            print(f"{i+1}. {c['course_code']}")
-            print(f"   Name: {c['course_name']}")
-            print(f"   GPA: {c['avg_gpa']:.3f} | Students: {c['enrollment']}")
-            print(f"   Grades: A={c['grade_a']:.1f}% AB={c['grade_ab']:.1f}% B={c['grade_b']:.1f}%")
-            print()
+        show_samples(chunks)
+        analyze_gpas(chunks)
     else:
-        print("❌ No chunks found! Check your input file format.")
+        print("\n❌ No chunks found!")
         print("\nTroubleshooting:")
-        print("1. Make sure 'fullgrades.md' exists in the current directory")
-        print("2. Check that the file has the expected table format")
-        print("3. Verify the file encoding is UTF-8")
+        print("1. Make sure 'fullgrades.md' exists")
+        print("2. Check that the file has course names followed by grade data")
+        print("3. Verify the file uses pipe-delimited tables")
