@@ -219,12 +219,13 @@ def generate_rag_response(query_text, k=3, model="llama3.2"):
         context += f"   Relevance Score: {1/(1+dist):.3f}\n\n"
     
     # Step 3: Create prompt for LLM
-    system_prompt = """You are a helpful course recommendation assistant. 
-Based on the retrieved course information, provide a helpful response to the user's query.
-Focus on explaining which courses are most relevant and why.
-Always include GPA and grade distribution information when available.
-When users ask about GPA, provide the specific average GPA values.
-Be extremely concise."""
+    system_prompt = """You are a course data assistant. 
+You have access to course metadata including average GPA and grade distributions (percentages of A, AB, B, BC, C, D, F). 
+Answer user questions using only this data, and do not give personal opinions. 
+Provide clear, concise answers. 
+If a user asks about a course's GPA, answer with the exact average GPA. 
+If a user asks about the percentage of a specific grade in a course, provide the exact percentage. 
+Always refer to the courses by their name and course ID as in the retrieved data."""
     
     user_prompt = f"""User Query: {query_text}
 

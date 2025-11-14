@@ -1,5 +1,5 @@
 --- Chunk 1 ---
-Course: Research Colloquium
+Course: Research and Thesis
 
 Average GPA: 3.596
 
@@ -14,21 +14,66 @@ Grade Distribution:
 ================================================================================
 
 --- Chunk 2 ---
-Course: BIOLOGICAL SYSTEMS ENGINE
+Course: Measrmt&Instrumntn-Biol Sys
 
-Average GPA: 3.938
+Average GPA: 3.857
 
 Grade Distribution:
-- A: 88.1%
-- AB: 6.0%
+- A: 74.3%
+- AB: 18.8%
 - B: 3.0%
-- BC: 3.0%
-- C: 0.0%
+- BC: 1.0%
+- C: 3.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
 --- Chunk 3 ---
+Course: Renewable Energy Systems
+
+Average GPA: 3.714
+
+Grade Distribution:
+- A: 66.7%
+- AB: 23.8%
+- B: 4.8%
+- BC: 4.8%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 4 ---
+Course: Sedmnt & Bio-Nutr Engr&Mgmt
+
+Average GPA: 3.773
+
+Grade Distribution:
+- A: 63.6%
+- AB: 27.3%
+- B: 9.1%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 5 ---
+Course: Research
+
+Average GPA: 3.577
+
+Grade Distribution:
+- A: 57.1%
+- AB: 7.1%
+- B: 21.4%
+- BC: 7.1%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 6 ---
 Course: Science and Storytelling
 
 Average GPA: 3.667
@@ -43,7 +88,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 4 ---
+--- Chunk 7 ---
 Course: Practicum-Agronomy Teaching
 
 Average GPA: 3.750
@@ -58,7 +103,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 5 ---
+--- Chunk 8 ---
 Course: Seminar
 
 Average GPA: 3.829
@@ -73,7 +118,7 @@ Grade Distribution:
 - F: 0.2%
 ================================================================================
 
---- Chunk 6 ---
+--- Chunk 9 ---
 Course: MICROBIOLOGY
 
 Average GPA: 3.564
@@ -88,7 +133,7 @@ Grade Distribution:
 - F: 1.2%
 ================================================================================
 
---- Chunk 7 ---
+--- Chunk 10 ---
 Course: General Microbiology
 
 Average GPA: 3.409
@@ -103,7 +148,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 8 ---
+--- Chunk 11 ---
 Course: General Microbiology Lab
 
 Average GPA: 3.857
@@ -118,7 +163,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 9 ---
+--- Chunk 12 ---
 Course: Biology of Microorganisms
 
 Average GPA: 3.091
@@ -133,7 +178,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 10 ---
+--- Chunk 13 ---
 Course: Topics in Biotechnology
 
 Average GPA: 3.750
@@ -148,37 +193,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 11 ---
-Course: Capstone Rsch Proj Microbio
+--- Chunk 14 ---
+Course: Research
 
-Average GPA: 3.959
-
-Grade Distribution:
-- A: 93.9%
-- AB: 4.1%
-- B: 2.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 12 ---
-Course: Independent Study
-
-Average GPA: 3.070
+Average GPA: 3.528
 
 Grade Distribution:
-- A: 26.8%
-- AB: 17.1%
-- B: 29.3%
-- BC: 14.6%
-- C: 7.3%
-- D: 2.4%
-- F: 0.0%
+- A: 55.1%
+- AB: 14.5%
+- B: 16.6%
+- BC: 5.3%
+- C: 4.1%
+- D: 0.5%
+- F: 0.6%
 ================================================================================
 
---- Chunk 13 ---
+--- Chunk 15 ---
 Course: Biochemistry Freshman Seminar
 
 Average GPA: 3.960
@@ -193,7 +223,7 @@ Grade Distribution:
 - F: 0.1%
 ================================================================================
 
---- Chunk 14 ---
+--- Chunk 16 ---
 Course: Survey of Biochemistry
 
 Average GPA: 3.496
@@ -208,7 +238,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 15 ---
+--- Chunk 17 ---
 Course: Research
 
 Average GPA: 3.649
@@ -223,7 +253,7 @@ Grade Distribution:
 - F: 0.4%
 ================================================================================
 
---- Chunk 16 ---
+--- Chunk 18 ---
 Course: Dairy Herd Management II
 
 Average GPA: 3.875
@@ -238,7 +268,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 17 ---
+--- Chunk 19 ---
 Course: Research
 
 Average GPA: 3.773
@@ -253,7 +283,22 @@ Grade Distribution:
 - F: 10.2%
 ================================================================================
 
---- Chunk 18 ---
+--- Chunk 20 ---
+Course: ENTOMOLOGY
+
+Average GPA: 3.680
+
+Grade Distribution:
+- A: 54.7%
+- AB: 31.3%
+- B: 9.4%
+- BC: 4.7%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 21 ---
 Course: Grad Research & Thesis
 
 Average GPA: 3.663
@@ -268,7 +313,7 @@ Grade Distribution:
 - F: 1.0%
 ================================================================================
 
---- Chunk 19 ---
+--- Chunk 22 ---
 Course: Research
 
 Average GPA: 3.223
@@ -283,7 +328,7 @@ Grade Distribution:
 - F: 0.7%
 ================================================================================
 
---- Chunk 20 ---
+--- Chunk 23 ---
 Course: Ornithology
 
 Average GPA: 3.357
@@ -298,7 +343,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 21 ---
+--- Chunk 24 ---
 Course: Research and Thesis
 
 Average GPA: 3.564
@@ -313,22 +358,7 @@ Grade Distribution:
 - F: 7.5%
 ================================================================================
 
---- Chunk 22 ---
-Course: GENETICS
-
-Average GPA: 3.762
-
-Grade Distribution:
-- A: 66.0%
-- AB: 24.6%
-- B: 5.7%
-- BC: 1.0%
-- C: 1.0%
-- D: 0.7%
-- F: 1.0%
-================================================================================
-
---- Chunk 23 ---
+--- Chunk 25 ---
 Course: Independent Study
 
 Average GPA: 3.950
@@ -343,22 +373,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 24 ---
-Course: Dev Gen for Conserv Regen
-
-Average GPA: 3.708
-
-Grade Distribution:
-- A: 58.3%
-- AB: 25.0%
-- B: 16.7%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 25 ---
+--- Chunk 26 ---
 Course: Cancer Genetics
 
 Average GPA: 3.438
@@ -373,8 +388,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 26 ---
-Course: GENETICS
+--- Chunk 27 ---
+Course: Genetics of Development
 
 Average GPA: 3.706
 
@@ -388,7 +403,7 @@ Grade Distribution:
 - F: 0.1%
 ================================================================================
 
---- Chunk 27 ---
+--- Chunk 28 ---
 Course: Greenhouse Cultivation
 
 Average GPA: 3.893
@@ -403,7 +418,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 28 ---
+--- Chunk 29 ---
 Course: Research
 
 Average GPA: 3.589
@@ -418,7 +433,22 @@ Grade Distribution:
 - F: 0.7%
 ================================================================================
 
---- Chunk 29 ---
+--- Chunk 30 ---
+Course: INTERDIS COURSES (C A L S)
+
+Average GPA: 3.896
+
+Grade Distribution:
+- A: 91.7%
+- AB: 4.2%
+- B: 4.2%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 31 ---
 Course: WISE Seminar
 
 Average GPA: 3.969
@@ -433,7 +463,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 30 ---
+--- Chunk 32 ---
 Course: Honors Research Seminar
 
 Average GPA: 3.977
@@ -442,13 +472,13 @@ Grade Distribution:
 - A: 96.5%
 - AB: 2.3%
 - B: 0.4%
-- BC: 0.4%
+- BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 31 ---
+--- Chunk 33 ---
 Course: Research
 
 Average GPA: 3.426
@@ -463,7 +493,7 @@ Grade Distribution:
 - F: 0.4%
 ================================================================================
 
---- Chunk 32 ---
+--- Chunk 34 ---
 Course: Clinical Nutrition Research
 
 Average GPA: 3.833
@@ -478,7 +508,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 33 ---
+--- Chunk 35 ---
 Course: Research Nutrition
 
 Average GPA: 3.752
@@ -493,8 +523,8 @@ Grade Distribution:
 - F: 0.3%
 ================================================================================
 
---- Chunk 34 ---
-Course: Research
+--- Chunk 36 ---
+Course: Seminar
 
 Average GPA: 3.838
 
@@ -508,7 +538,7 @@ Grade Distribution:
 - F: 0.4%
 ================================================================================
 
---- Chunk 35 ---
+--- Chunk 37 ---
 Course: Survey of Sociology
 
 Average GPA: 3.500
@@ -523,7 +553,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 36 ---
+--- Chunk 38 ---
 Course: Sociology of Agriculture
 
 Average GPA: 3.703
@@ -538,7 +568,7 @@ Grade Distribution:
 - F: 1.4%
 ================================================================================
 
---- Chunk 37 ---
+--- Chunk 39 ---
 Course: Colloquium: Envir Remed Mgmt
 
 Average GPA: 3.481
@@ -553,8 +583,23 @@ Grade Distribution:
 - F: 1.0%
 ================================================================================
 
---- Chunk 38 ---
-Course: Leadership Lab 4B
+--- Chunk 40 ---
+Course: Team, Leadrshp Fundamentals II
+
+Average GPA: 3.895
+
+Grade Distribution:
+- A: 89.5%
+- AB: 5.3%
+- B: 5.3%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 41 ---
+Course: Leadership and Teamwork
 
 Average GPA: 3.974
 
@@ -568,22 +613,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 39 ---
-Course: Skills for Business Analysis
-
-Average GPA: 3.350
-
-Grade Distribution:
-- A: 75.0%
-- AB: 5.0%
-- B: 5.0%
-- BC: 10.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 40 ---
+--- Chunk 42 ---
 Course: Data Analysis for Business II
 
 Average GPA: 3.343
@@ -598,22 +628,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 41 ---
-Course: Human-centered Design/Business
+--- Chunk 43 ---
+Course: Sustainable Capitalism
 
-Average GPA: 3.476
+Average GPA: 3.275
 
 Grade Distribution:
-- A: 40.7%
-- AB: 32.6%
-- B: 14.0%
-- BC: 5.8%
-- C: 4.7%
-- D: 1.2%
-- F: 1.2%
+- A: 15.4%
+- AB: 42.6%
+- B: 29.0%
+- BC: 10.1%
+- C: 2.2%
+- D: 0.7%
+- F: 0.0%
 ================================================================================
 
---- Chunk 42 ---
+--- Chunk 44 ---
 Course: Business Law
 
 Average GPA: 3.258
@@ -628,52 +658,37 @@ Grade Distribution:
 - F: 1.0%
 ================================================================================
 
---- Chunk 43 ---
+--- Chunk 45 ---
 Course: Business Analytics I
 
-Average GPA: 3.194
+Average GPA: 3.359
 
 Grade Distribution:
-- A: 19.4%
-- AB: 39.8%
-- B: 16.5%
+- A: 44.1%
+- AB: 13.5%
+- B: 19.8%
 - BC: 12.6%
-- C: 9.7%
-- D: 1.9%
+- C: 9.0%
+- D: 0.9%
 - F: 0.0%
-================================================================================
-
---- Chunk 44 ---
-Course: Business Analytics II
-
-Average GPA: 3.692
-
-Grade Distribution:
-- A: 69.2%
-- AB: 15.4%
-- B: 7.7%
-- BC: 7.7%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 45 ---
-Course: Acctg&Finance - Non-Bus Majors
-
-Average GPA: 3.497
-
-Grade Distribution:
-- A: 49.7%
-- AB: 28.3%
-- B: 7.6%
-- BC: 6.2%
-- C: 4.8%
-- D: 1.7%
-- F: 1.0%
 ================================================================================
 
 --- Chunk 46 ---
+Course: Business Analytics II
+
+Average GPA: 3.114
+
+Grade Distribution:
+- A: 22.9%
+- AB: 17.1%
+- B: 34.3%
+- BC: 17.1%
+- C: 5.7%
+- D: 2.9%
+- F: 0.0%
+================================================================================
+
+--- Chunk 47 ---
 Course: Intercultural Communctn in Bus
 
 Average GPA: 3.900
@@ -688,7 +703,67 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 47 ---
+--- Chunk 48 ---
+Course: GENERAL BUSINESS
+
+Average GPA: 3.875
+
+Grade Distribution:
+- A: 80.0%
+- AB: 15.0%
+- B: 5.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 49 ---
+Course: Data to Decisions
+
+Average GPA: 3.890
+
+Grade Distribution:
+- A: 87.8%
+- AB: 2.4%
+- B: 9.8%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 50 ---
+Course: Expmnts CausMthds-BusAnalytics
+
+Average GPA: 3.811
+
+Grade Distribution:
+- A: 81.8%
+- AB: 3.0%
+- B: 12.1%
+- BC: 1.5%
+- C: 1.5%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 51 ---
+Course: Robotic Process Automation
+
+Average GPA: 3.847
+
+Grade Distribution:
+- A: 78.7%
+- AB: 13.3%
+- B: 6.7%
+- BC: 1.3%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 52 ---
 Course: GENERAL BUSINESS
 
 Average GPA: 3.899
@@ -703,7 +778,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 48 ---
+--- Chunk 53 ---
 Course: Business Data Technology
 
 Average GPA: 3.815
@@ -718,7 +793,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 49 ---
+--- Chunk 54 ---
 Course: Consulting Skills Bootcamp
 
 Average GPA: 3.926
@@ -733,7 +808,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 50 ---
+--- Chunk 55 ---
 Course: Consulting Project Management
 
 Average GPA: 3.470
@@ -748,22 +823,7 @@ Grade Distribution:
 - F: 0.5%
 ================================================================================
 
---- Chunk 51 ---
-Course: ACCOUNTING AND INFO SYSTE
-
-Average GPA: 3.333
-
-Grade Distribution:
-- A: 42.4%
-- AB: 18.2%
-- B: 12.1%
-- BC: 18.2%
-- C: 9.1%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 52 ---
+--- Chunk 56 ---
 Course: Intro Financial Accounting
 
 Average GPA: 3.295
@@ -778,52 +838,67 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 53 ---
-Course: Intro Managerial Accounting
+--- Chunk 57 ---
+Course: Financial Reporting II
 
-Average GPA: 3.431
-
-Grade Distribution:
-- A: 48.8%
-- AB: 21.7%
-- B: 15.1%
-- BC: 7.8%
-- C: 2.4%
-- D: 2.4%
-- F: 1.8%
-================================================================================
-
---- Chunk 54 ---
-Course: Accounting Principles
-
-Average GPA: 3.375
+Average GPA: 3.389
 
 Grade Distribution:
-- A: 21.4%
-- AB: 42.9%
-- B: 28.6%
-- BC: 3.6%
-- C: 3.6%
+- A: 19.4%
+- AB: 50.0%
+- B: 27.8%
+- BC: 2.8%
+- C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 55 ---
-Course: Financial Reporting I
+--- Chunk 58 ---
+Course: Cost Management Systems
 
-Average GPA: 3.382
+Average GPA: 3.719
 
 Grade Distribution:
-- A: 41.2%
-- AB: 35.3%
-- B: 5.9%
-- BC: 5.9%
-- C: 5.9%
-- D: 5.9%
+- A: 54.2%
+- AB: 35.4%
+- B: 10.4%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 56 ---
+--- Chunk 59 ---
+Course: Accounting Information Systems
+
+Average GPA: 3.736
+
+Grade Distribution:
+- A: 61.1%
+- AB: 27.8%
+- B: 8.3%
+- BC: 2.8%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 60 ---
+Course: Bus Orgs&Negotiable Instrumnts
+
+Average GPA: 3.303
+
+Grade Distribution:
+- A: 30.3%
+- AB: 12.1%
+- B: 48.5%
+- BC: 6.1%
+- C: 3.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 61 ---
 Course: Pro Prac Iss-Acct, Audit & Tax
 
 Average GPA: 3.278
@@ -838,22 +913,82 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 57 ---
-Course: Financial Reporting II
+--- Chunk 62 ---
+Course: Fundamentals of Taxation
 
-Average GPA: 3.500
+Average GPA: 3.406
 
 Grade Distribution:
-- A: 32.1%
-- AB: 46.4%
-- B: 14.3%
-- BC: 3.6%
-- C: 3.6%
+- A: 18.8%
+- AB: 50.0%
+- B: 25.0%
+- BC: 6.3%
+- C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 58 ---
+--- Chunk 63 ---
+Course: Corporate & Advanced Taxation
+
+Average GPA: 3.741
+
+Grade Distribution:
+- A: 55.2%
+- AB: 37.9%
+- B: 6.9%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 64 ---
+Course: International Taxation
+
+Average GPA: 3.473
+
+Grade Distribution:
+- A: 35.1%
+- AB: 32.4%
+- B: 24.3%
+- BC: 8.1%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 65 ---
+Course: Advanced Auditing
+
+Average GPA: 3.766
+
+Grade Distribution:
+- A: 52.1%
+- AB: 45.8%
+- B: 2.1%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 66 ---
+Course: Info Risk, Contrl, & Forensics
+
+Average GPA: 3.986
+
+Grade Distribution:
+- A: 97.2%
+- AB: 2.8%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 67 ---
 Course: Analysis Taxes & Bus Decisions
 
 Average GPA: 3.436
@@ -868,7 +1003,22 @@ Grade Distribution:
 - F: 0.6%
 ================================================================================
 
---- Chunk 59 ---
+--- Chunk 68 ---
+Course: Financial Modeling in Excel
+
+Average GPA: 3.058
+
+Grade Distribution:
+- A: 8.3%
+- AB: 35.0%
+- B: 33.3%
+- BC: 13.3%
+- C: 6.7%
+- D: 3.3%
+- F: 0.0%
+================================================================================
+
+--- Chunk 69 ---
 Course: Introduction to Finance
 
 Average GPA: 3.474
@@ -883,7 +1033,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 60 ---
+--- Chunk 70 ---
 Course: Finc Mrkts,Instns&Econ Actv
 
 Average GPA: 3.386
@@ -893,12 +1043,12 @@ Grade Distribution:
 - AB: 50.0%
 - B: 12.5%
 - BC: 4.2%
-- C: 0.0%
+- C: 8.3%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 61 ---
+--- Chunk 71 ---
 Course: Investment Theory
 
 Average GPA: 3.348
@@ -913,7 +1063,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 62 ---
+--- Chunk 72 ---
 Course: Corporation Finance
 
 Average GPA: 3.400
@@ -928,7 +1078,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 63 ---
+--- Chunk 73 ---
 Course: Fixed Income Securities
 
 Average GPA: 3.464
@@ -943,7 +1093,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 64 ---
+--- Chunk 74 ---
 Course: Bank Management
 
 Average GPA: 3.682
@@ -958,7 +1108,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 65 ---
+--- Chunk 75 ---
 Course: Investmt Bankg & Capital Mrkts
 
 Average GPA: 3.121
@@ -973,7 +1123,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 66 ---
+--- Chunk 76 ---
 Course: Applied Equity Mkts Research 1
 
 Average GPA: 3.632
@@ -988,7 +1138,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 67 ---
+--- Chunk 77 ---
 Course: Intro to Applied Portfolio Mgt
 
 Average GPA: 3.478
@@ -1003,7 +1153,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 68 ---
+--- Chunk 78 ---
 Course: Intro to Financial Mgmnt
 
 Average GPA: 3.375
@@ -1013,12 +1163,12 @@ Grade Distribution:
 - AB: 14.3%
 - B: 38.1%
 - BC: 9.5%
-- C: 0.0%
+- C: 4.8%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 69 ---
+--- Chunk 79 ---
 Course: Smr-Corporate Finance (Ph.D.)
 
 Average GPA: 3.416
@@ -1033,7 +1183,7 @@ Grade Distribution:
 - F: 0.1%
 ================================================================================
 
---- Chunk 70 ---
+--- Chunk 80 ---
 Course: Introduction to Databases
 
 Average GPA: 3.212
@@ -1048,7 +1198,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 71 ---
+--- Chunk 81 ---
 Course: Digital Platform Analytics
 
 Average GPA: 3.705
@@ -1063,52 +1213,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 72 ---
-Course: INTERNATIONAL BUSINESS
-
-Average GPA: 3.500
-
-Grade Distribution:
-- A: 47.1%
-- AB: 32.9%
-- B: 12.9%
-- BC: 1.4%
-- C: 1.4%
-- D: 1.4%
-- F: 2.9%
-================================================================================
-
---- Chunk 73 ---
-Course: Study Abroad in Intl Bus
-
-Average GPA: 3.750
-
-Grade Distribution:
-- A: 66.7%
-- AB: 16.7%
-- B: 16.7%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 74 ---
-Course: Global Business Management
-
-Average GPA: 3.663
-
-Grade Distribution:
-- A: 63.6%
-- AB: 22.8%
-- B: 9.2%
-- BC: 0.5%
-- C: 2.2%
-- D: 0.5%
-- F: 1.1%
-================================================================================
-
---- Chunk 75 ---
+--- Chunk 82 ---
 Course: Managing Organizations
 
 Average GPA: 3.690
@@ -1123,7 +1228,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 76 ---
+--- Chunk 83 ---
 Course: Social Entrepreneurship
 
 Average GPA: 3.536
@@ -1138,7 +1243,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 77 ---
+--- Chunk 84 ---
 Course: Global Issues in Management
 
 Average GPA: 3.745
@@ -1153,7 +1258,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 78 ---
+--- Chunk 85 ---
 Course: Advanced Entrepreneurship
 
 Average GPA: 3.679
@@ -1168,7 +1273,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 79 ---
+--- Chunk 86 ---
 Course: Diversity in Organizations
 
 Average GPA: 3.900
@@ -1183,7 +1288,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 80 ---
+--- Chunk 87 ---
 Course: Entrepreneurial Management
 
 Average GPA: 3.500
@@ -1198,8 +1303,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 81 ---
-Course: Seminar in Business Strategy
+--- Chunk 88 ---
+Course: PhD Thesis-Management
 
 Average GPA: 3.573
 
@@ -1213,52 +1318,22 @@ Grade Distribution:
 - F: 0.2%
 ================================================================================
 
---- Chunk 82 ---
-Course: MARKETING
+--- Chunk 89 ---
+Course: Marketing Research
 
-Average GPA: 3.136
-
-Grade Distribution:
-- A: 14.1%
-- AB: 38.2%
-- B: 22.9%
-- BC: 16.4%
-- C: 5.7%
-- D: 1.1%
-- F: 1.1%
-================================================================================
-
---- Chunk 83 ---
-Course: Marketing Management
-
-Average GPA: 2.989
+Average GPA: 3.232
 
 Grade Distribution:
-- A: 20.5%
-- AB: 13.6%
-- B: 36.4%
-- BC: 6.8%
-- C: 20.5%
-- D: 2.3%
-- F: 0.0%
-================================================================================
-
---- Chunk 84 ---
-Course: Consumer Behavior
-
-Average GPA: 3.222
-
-Grade Distribution:
-- A: 11.1%
-- AB: 44.4%
-- B: 22.2%
+- A: 3.6%
+- AB: 39.3%
+- B: 57.1%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 85 ---
+--- Chunk 90 ---
 Course: Technology Product Marketing
 
 Average GPA: 3.383
@@ -1273,37 +1348,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 86 ---
-Course: Marketing in a Digital Age
-
-Average GPA: 2.607
-
-Grade Distribution:
-- A: 14.3%
-- AB: 14.3%
-- B: 21.4%
-- BC: 21.4%
-- C: 14.3%
-- D: 7.1%
-- F: 7.1%
-================================================================================
-
---- Chunk 87 ---
-Course: Sports Marketing
-
-Average GPA: 3.550
-
-Grade Distribution:
-- A: 50.0%
-- AB: 20.0%
-- B: 20.0%
-- BC: 10.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 88 ---
+--- Chunk 91 ---
 Course: Sales Strategy and Management
 
 Average GPA: 3.444
@@ -1318,37 +1363,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 89 ---
-Course: Info Tech in Supply Chains
+--- Chunk 92 ---
+Course: New Product Innovation
 
-Average GPA: 3.500
+Average GPA: 3.756
 
 Grade Distribution:
-- A: 26.7%
-- AB: 46.7%
-- B: 26.7%
+- A: 53.7%
+- AB: 43.9%
+- B: 2.4%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 90 ---
-Course: Strategic Pricing
-
-Average GPA: 3.850
-
-Grade Distribution:
-- A: 70.0%
-- AB: 30.0%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 91 ---
+--- Chunk 93 ---
 Course: Digital Marketing Analytics
 
 Average GPA: 3.583
@@ -1363,7 +1393,97 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 92 ---
+--- Chunk 94 ---
+Course: Marketing Analytics
+
+Average GPA: 3.643
+
+Grade Distribution:
+- A: 44.9%
+- AB: 38.8%
+- B: 16.3%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 95 ---
+Course: Digital Marketing Analytics
+
+Average GPA: 3.839
+
+Grade Distribution:
+- A: 71.4%
+- AB: 25.0%
+- B: 3.6%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 96 ---
+Course: Marketing in a Digital Age
+
+Average GPA: 3.324
+
+Grade Distribution:
+- A: 11.8%
+- AB: 41.2%
+- B: 47.1%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 97 ---
+Course: Growth Marketing Strategies
+
+Average GPA: 3.860
+
+Grade Distribution:
+- A: 80.0%
+- AB: 12.0%
+- B: 8.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 98 ---
+Course: Qual-Based Marketing Insights
+
+Average GPA: 3.333
+
+Grade Distribution:
+- A: 24.2%
+- AB: 30.3%
+- B: 36.4%
+- BC: 6.1%
+- C: 3.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 99 ---
+Course: Seminar-Research Methods
+
+Average GPA: 3.400
+
+Grade Distribution:
+- A: 35.7%
+- AB: 32.2%
+- B: 19.9%
+- BC: 6.5%
+- C: 3.3%
+- D: 1.3%
+- F: 0.5%
+================================================================================
+
+--- Chunk 100 ---
 Course: OPERATIONS & TECHNOLOGY
 
 Average GPA: 3.227
@@ -1378,7 +1498,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 93 ---
+--- Chunk 101 ---
 Course: Contemporary Topics
 
 Average GPA: 3.800
@@ -1393,8 +1513,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 94 ---
-Course: Fundamentals-Supply Chain Mgmt
+--- Chunk 102 ---
+Course: Procurement and Supply Mgmt
 
 Average GPA: 3.667
 
@@ -1408,7 +1528,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 95 ---
+--- Chunk 103 ---
 Course: Global Experience: Sply Chn Mg
 
 Average GPA: 3.700
@@ -1423,22 +1543,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 96 ---
-Course: Project Management
+--- Chunk 104 ---
+Course: Operations Analytics
 
-Average GPA: 3.483
+Average GPA: 3.531
 
 Grade Distribution:
-- A: 13.8%
-- AB: 72.4%
-- B: 10.3%
-- BC: 3.4%
-- C: 0.0%
+- A: 28.6%
+- AB: 55.1%
+- B: 12.2%
+- BC: 2.0%
+- C: 2.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 97 ---
+--- Chunk 105 ---
 Course: Product Management
 
 Average GPA: 3.741
@@ -1447,13 +1567,28 @@ Grade Distribution:
 - A: 50.0%
 - AB: 43.3%
 - B: 3.3%
+- BC: 3.3%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 106 ---
+Course: Supply Chain Analytics
+
+Average GPA: 3.389
+
+Grade Distribution:
+- A: 22.2%
+- AB: 33.3%
+- B: 44.4%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 98 ---
+--- Chunk 107 ---
 Course: Info Tech in Supply Chains
 
 Average GPA: 3.293
@@ -1468,8 +1603,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 99 ---
-Course: TSPM Applied Learning
+--- Chunk 108 ---
+Course: Rdg&Rsch-Operatns&Info Mgmt
 
 Average GPA: 3.480
 
@@ -1483,7 +1618,7 @@ Grade Distribution:
 - F: 0.4%
 ================================================================================
 
---- Chunk 100 ---
+--- Chunk 109 ---
 Course: REAL ESTATE & URBAN LAND
 
 Average GPA: 3.923
@@ -1498,7 +1633,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 101 ---
+--- Chunk 110 ---
 Course: The Real Estate Process
 
 Average GPA: 3.643
@@ -1513,7 +1648,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 102 ---
+--- Chunk 111 ---
 Course: Excel Modeling
 
 Average GPA: 3.685
@@ -1528,7 +1663,52 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 103 ---
+--- Chunk 112 ---
+Course: Valuation of Real Estate
+
+Average GPA: 3.250
+
+Grade Distribution:
+- A: 31.3%
+- AB: 18.8%
+- B: 25.0%
+- BC: 18.8%
+- C: 6.3%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 113 ---
+Course: Urban & Regional Economics
+
+Average GPA: 3.611
+
+Grade Distribution:
+- A: 40.7%
+- AB: 40.7%
+- B: 18.5%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 114 ---
+Course: Real Estate Law
+
+Average GPA: 3.738
+
+Grade Distribution:
+- A: 65.0%
+- AB: 22.5%
+- B: 7.5%
+- BC: 5.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 115 ---
 Course: Real Estate Equity Investment
 
 Average GPA: 3.659
@@ -1543,7 +1723,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 104 ---
+--- Chunk 116 ---
+Course: Residential Property Development
+
+Average GPA: 3.765
+
+Grade Distribution:
+- A: 64.7%
+- AB: 23.5%
+- B: 11.8%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 117 ---
 Course: Real Estate Law
 
 Average GPA: 3.813
@@ -1558,7 +1753,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 105 ---
+--- Chunk 118 ---
 Course: Adv Real Estate Finance Theory
 
 Average GPA: 3.723
@@ -1573,7 +1768,7 @@ Grade Distribution:
 - F: 0.1%
 ================================================================================
 
---- Chunk 106 ---
+--- Chunk 119 ---
 Course: Risk Financing Techniques
 
 Average GPA: 3.385
@@ -1588,8 +1783,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 107 ---
-Course: PhD Thesis-Risk&Insurance
+--- Chunk 120 ---
+Course: ACTUARIAL SCIENCE
 
 Average GPA: 3.343
 
@@ -1603,7 +1798,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 108 ---
+--- Chunk 121 ---
 Course: Risk Analytics
 
 Average GPA: 3.319
@@ -1618,22 +1813,22 @@ Grade Distribution:
 - F: 0.4%
 ================================================================================
 
---- Chunk 109 ---
-Course: ANATOMY & PHYSIOLOGY
+--- Chunk 122 ---
+Course: Human Physiology and Health
 
-Average GPA: 3.103
+Average GPA: 3.167
 
 Grade Distribution:
-- A: 17.6%
-- AB: 26.5%
-- B: 29.4%
-- BC: 11.8%
-- C: 14.7%
+- A: 38.9%
+- AB: 5.6%
+- B: 22.2%
+- BC: 16.7%
+- C: 16.7%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 110 ---
+--- Chunk 123 ---
 Course: Physiology
 
 Average GPA: 3.148
@@ -1648,7 +1843,7 @@ Grade Distribution:
 - F: 2.3%
 ================================================================================
 
---- Chunk 111 ---
+--- Chunk 124 ---
 Course: Human Anatomy
 
 Average GPA: 3.188
@@ -1663,7 +1858,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 112 ---
+--- Chunk 125 ---
 Course: Fund of Human Physiology
 
 Average GPA: 3.142
@@ -1678,7 +1873,7 @@ Grade Distribution:
 - F: 1.8%
 ================================================================================
 
---- Chunk 113 ---
+--- Chunk 126 ---
 Course: Introduction to Art
 
 Average GPA: 3.964
@@ -1693,7 +1888,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 114 ---
+--- Chunk 127 ---
 Course: Two-Dimensional Design
 
 Average GPA: 3.647
@@ -1708,7 +1903,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 115 ---
+--- Chunk 128 ---
 Course: Introduction to Digital Forms
 
 Average GPA: 3.955
@@ -1723,7 +1918,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 116 ---
+--- Chunk 129 ---
 Course: Drawing I
 
 Average GPA: 3.833
@@ -1738,7 +1933,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 117 ---
+--- Chunk 130 ---
 Course: Current Directions in Art
 
 Average GPA: 3.969
@@ -1753,7 +1948,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 118 ---
+--- Chunk 131 ---
 Course: Drawing Methods & Concepts
 
 Average GPA: 3.864
@@ -1761,14 +1956,14 @@ Average GPA: 3.864
 Grade Distribution:
 - A: 81.8%
 - AB: 9.1%
-- B: 0.0%
+- B: 9.1%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 119 ---
+--- Chunk 132 ---
 Course: Sculpture I
 
 Average GPA: 3.765
@@ -1776,14 +1971,14 @@ Average GPA: 3.765
 Grade Distribution:
 - A: 82.4%
 - AB: 11.8%
-- B: 5.9%
+- B: 0.0%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 120 ---
+--- Chunk 133 ---
 Course: Introduction to Painting
 
 Average GPA: 3.714
@@ -1798,7 +1993,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 121 ---
+--- Chunk 134 ---
 Course: Ceramics I
 
 Average GPA: 3.542
@@ -1813,7 +2008,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 122 ---
+--- Chunk 135 ---
 Course: Art Metal I
 
 Average GPA: 3.969
@@ -1828,7 +2023,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 123 ---
+--- Chunk 136 ---
 Course: Making Comics 1
 
 Average GPA: 3.889
@@ -1843,7 +2038,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 124 ---
+--- Chunk 137 ---
 Course: Service Learning in Art
 
 Average GPA: 3.607
@@ -1858,7 +2053,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 125 ---
+--- Chunk 138 ---
 Course: Glassworking
 
 Average GPA: 3.458
@@ -1873,7 +2068,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 126 ---
+--- Chunk 139 ---
 Course: Art Foundry
 
 Average GPA: 3.667
@@ -1888,7 +2083,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 127 ---
+--- Chunk 140 ---
 Course: Digital Imaging Studio
 
 Average GPA: 3.885
@@ -1903,7 +2098,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 128 ---
+--- Chunk 141 ---
 Course: Artists' Books
 
 Average GPA: 3.864
@@ -1918,7 +2113,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 129 ---
+--- Chunk 142 ---
 Course: Neon: Light as Sculpture
 
 Average GPA: 3.781
@@ -1933,8 +2128,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 130 ---
-Course: Advanced Photography
+--- Chunk 143 ---
+Course: Advanced Drawing II
 
 Average GPA: 3.773
 
@@ -1948,8 +2143,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 131 ---
-Course: Adv Undergrad Painting Workshp
+--- Chunk 144 ---
+Course: Advanced Ceramics II
 
 Average GPA: 3.938
 
@@ -1963,7 +2158,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 132 ---
+--- Chunk 145 ---
 Course: Independent Study
 
 Average GPA: 3.881
@@ -1978,22 +2173,7 @@ Grade Distribution:
 - F: 0.6%
 ================================================================================
 
---- Chunk 133 ---
-Course: ART EDUCATION (DEPT OF ART)
-
-Average GPA: 3.846
-
-Grade Distribution:
-- A: 76.9%
-- AB: 15.4%
-- B: 7.7%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 134 ---
+--- Chunk 146 ---
 Course: EDU REHAB PSYCH & SPECIAL EDUC
 
 Average GPA: 3.916
@@ -2008,8 +2188,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 135 ---
-Course: Disability & Criminal Justice System
+--- Chunk 147 ---
+Course: Disability & Crim Justice Syst
 
 Average GPA: 3.903
 
@@ -2018,13 +2198,13 @@ Grade Distribution:
 - AB: 1.6%
 - B: 1.6%
 - BC: 3.2%
-- C: 0.0%
+- C: 1.6%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 136 ---
-Course: Individuals with Disabilities
+--- Chunk 148 ---
+Course: Individls with Disabilities
 
 Average GPA: 3.959
 
@@ -2038,8 +2218,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 137 ---
-Course: Health Promotion Disability & Illness
+--- Chunk 149 ---
+Course: Health Prmtion Disab & Illness
 
 Average GPA: 3.867
 
@@ -2053,8 +2233,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 138 ---
-Course: Student Teaching Seminar - Dual Major
+--- Chunk 150 ---
+Course: Stdt Teaching Sem - Dual Major
 
 Average GPA: 3.942
 
@@ -2068,8 +2248,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 139 ---
-Course: Secondary Student Teaching Seminar
+--- Chunk 151 ---
+Course: Secondary Student Teaching Smr
 
 Average GPA: 3.786
 
@@ -2083,7 +2263,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 140 ---
+--- Chunk 152 ---
 Course: Rehab-Cnslg Psych: Applcatn
 
 Average GPA: 3.963
@@ -2098,7 +2278,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 141 ---
+--- Chunk 153 ---
 Course: Education Foundations
 
 Average GPA: 3.855
@@ -2113,7 +2293,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 142 ---
+--- Chunk 154 ---
 Course: Mixed Methods Inq Disability
 
 Average GPA: 3.600
@@ -2128,8 +2308,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 143 ---
-Course: Research or Thesis
+--- Chunk 155 ---
+Course: Reh Coun Ed - Diss Resrch Sem
 
 Average GPA: 3.918
 
@@ -2143,7 +2323,7 @@ Grade Distribution:
 - F: 0.3%
 ================================================================================
 
---- Chunk 144 ---
+--- Chunk 156 ---
 Course: Human Dev; Awareness Proc
 
 Average GPA: 3.591
@@ -2158,7 +2338,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 145 ---
+--- Chunk 157 ---
 Course: Human Dev: Ed Effectiveness
 
 Average GPA: 3.714
@@ -2173,7 +2353,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 146 ---
+--- Chunk 158 ---
 Course: Art/Sci of Human Flourishing
 
 Average GPA: 3.900
@@ -2188,7 +2368,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 147 ---
+--- Chunk 159 ---
+Course: Topics: Couns./Couns. Psych
+
+Average GPA: 3.958
+
+Grade Distribution:
+- A: 88.0%
+- AB: 8.0%
+- B: 4.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 160 ---
 Course: Research or Thesis
 
 Average GPA: 3.860
@@ -2203,7 +2398,7 @@ Grade Distribution:
 - F: 1.3%
 ================================================================================
 
---- Chunk 148 ---
+--- Chunk 161 ---
 Course: Digital Media and Literacy
 
 Average GPA: 3.917
@@ -2218,7 +2413,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 149 ---
+--- Chunk 162 ---
 Course: Tchg Rdg & Other Lang Arts
 
 Average GPA: 3.931
@@ -2233,7 +2428,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 150 ---
+--- Chunk 163 ---
 Course: Teaching Reading and Writing
 
 Average GPA: 3.742
@@ -2248,7 +2443,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 151 ---
+--- Chunk 164 ---
 Course: Cult Fndtns-Lrng & Dev
 
 Average GPA: 3.750
@@ -2263,7 +2458,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 152 ---
+--- Chunk 165 ---
 Course: Elementary Educ. Practicum II
 
 Average GPA: 3.969
@@ -2278,7 +2473,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 153 ---
+--- Chunk 166 ---
 Course: Teaching Science
 
 Average GPA: 3.944
@@ -2293,7 +2488,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 154 ---
+--- Chunk 167 ---
 Course: Game Design II
 
 Average GPA: 3.981
@@ -2308,8 +2503,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 155 ---
-Course: Seminar - Elementary Education
+--- Chunk 168 ---
+Course: CS Education
 
 Average GPA: 3.645
 
@@ -2323,7 +2518,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 156 ---
+--- Chunk 169 ---
 Course: Adv Prac-Tch Engl Secn Schl
 
 Average GPA: 3.792
@@ -2338,7 +2533,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 157 ---
+--- Chunk 170 ---
 Course: Adv Methods in Teaching ESL
 
 Average GPA: 3.900
@@ -2353,22 +2548,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 158 ---
-Course: Doctoral Ind. Study
+--- Chunk 171 ---
+Course: Qual Rsch Mthds-Educ: Field I
 
-Average GPA: 3.896
+Average GPA: 1.800
 
 Grade Distribution:
-- A: 89.5%
-- AB: 5.3%
-- B: 3.5%
-- BC: 1.8%
+- A: 9.1%
+- AB: 0.0%
+- B: 0.0%
+- BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 159 ---
+--- Chunk 172 ---
 Course: Field Experience-Ed Ldrship
 
 Average GPA: 3.281
@@ -2383,7 +2578,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 160 ---
+--- Chunk 173 ---
 Course: Psych and Coaching in Sports
 
 Average GPA: 3.964
@@ -2398,7 +2593,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 161 ---
+--- Chunk 174 ---
 Course: Community Opportunity Justice
 
 Average GPA: 3.882
@@ -2413,7 +2608,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 162 ---
+--- Chunk 175 ---
 Course: HPE Capstone Seminar
 
 Average GPA: 3.882
@@ -2428,7 +2623,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 163 ---
+--- Chunk 176 ---
 Course: Legal Foundations of Spec Ed
 
 Average GPA: 3.846
@@ -2443,7 +2638,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 164 ---
+--- Chunk 177 ---
 Course: Appl Rsch in Ed Admin
 
 Average GPA: 3.875
@@ -2458,7 +2653,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 165 ---
+--- Chunk 178 ---
 Course: Internship in Ed Admin
 
 Average GPA: 3.975
@@ -2473,7 +2668,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 166 ---
+--- Chunk 179 ---
 Course: Independent Reading
 
 Average GPA: 3.930
@@ -2488,7 +2683,7 @@ Grade Distribution:
 - F: 0.3%
 ================================================================================
 
---- Chunk 167 ---
+--- Chunk 180 ---
 Course: EDUCATIONAL POLICY STUDIES
 
 Average GPA: 3.591
@@ -2503,7 +2698,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 168 ---
+--- Chunk 181 ---
 Course: Media Literacy in Education
 
 Average GPA: 3.761
@@ -2518,7 +2713,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 169 ---
+--- Chunk 182 ---
 Course: Introduction to Education
 
 Average GPA: 3.717
@@ -2533,7 +2728,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 170 ---
+--- Chunk 183 ---
 Course: Education and Public Policy
 
 Average GPA: 3.850
@@ -2548,7 +2743,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 171 ---
+--- Chunk 184 ---
 Course: Race,Ethnicty&Inequal-Am Ed
 
 Average GPA: 3.864
@@ -2563,7 +2758,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 172 ---
+--- Chunk 185 ---
 Course: Youth, Education, and Society
 
 Average GPA: 3.862
@@ -2578,7 +2773,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 173 ---
+--- Chunk 186 ---
 Course: Education for Social Justice
 
 Average GPA: 3.804
@@ -2593,7 +2788,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 174 ---
+--- Chunk 187 ---
 Course: Human Rights and Education
 
 Average GPA: 3.796
@@ -2602,13 +2797,13 @@ Grade Distribution:
 - A: 73.5%
 - AB: 16.3%
 - B: 6.1%
-- BC: 0.0%
+- BC: 4.1%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 175 ---
+--- Chunk 188 ---
 Course: Comparative Education
 
 Average GPA: 3.750
@@ -2617,28 +2812,13 @@ Grade Distribution:
 - A: 71.4%
 - AB: 21.4%
 - B: 3.6%
-- BC: 0.0%
+- BC: 3.6%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 176 ---
-Course: EDUCATIONAL POLICY STUDIES
-
-Average GPA: 3.890
-
-Grade Distribution:
-- A: 87.2%
-- AB: 6.6%
-- B: 4.6%
-- BC: 1.0%
-- C: 0.5%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 177 ---
+--- Chunk 189 ---
 Course: Democracy and Education
 
 Average GPA: 3.765
@@ -2653,7 +2833,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 178 ---
+--- Chunk 190 ---
 Course: Globalization and Education
 
 Average GPA: 3.648
@@ -2668,7 +2848,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 179 ---
+--- Chunk 191 ---
 Course: Philos of Moral Education
 
 Average GPA: 3.833
@@ -2683,22 +2863,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 180 ---
-Course: Research or Thesis
+--- Chunk 192 ---
+Course: EDUCATIONAL POLICY STUDIES
 
-Average GPA: 3.685
+Average GPA: 2.400
 
 Grade Distribution:
-- A: 65.2%
-- AB: 19.6%
-- B: 6.5%
-- BC: 4.3%
-- C: 4.3%
+- A: 22.0%
+- AB: 4.9%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 181 ---
+--- Chunk 193 ---
 Course: EDUCATIONAL PSYCHOLOGY
 
 Average GPA: 3.571
@@ -2713,7 +2893,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 182 ---
+--- Chunk 194 ---
 Course: How to Think with Statistics
 
 Average GPA: 3.858
@@ -2728,7 +2908,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 183 ---
+--- Chunk 195 ---
 Course: Hum Devel Chldhood-Adolescn
 
 Average GPA: 3.909
@@ -2743,7 +2923,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 184 ---
+--- Chunk 196 ---
 Course: Research Experience Ed Psych
 
 Average GPA: 3.833
@@ -2751,14 +2931,14 @@ Average GPA: 3.833
 Grade Distribution:
 - A: 90.0%
 - AB: 6.7%
-- B: 0.0%
+- B: 3.3%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 185 ---
+--- Chunk 197 ---
 Course: Ind Reading-Undergrad
 
 Average GPA: 3.833
@@ -2766,14 +2946,14 @@ Average GPA: 3.833
 Grade Distribution:
 - A: 61.5%
 - AB: 30.8%
-- B: 0.0%
+- B: 7.7%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 186 ---
+--- Chunk 198 ---
 Course: Design/Manage Learning Env
 
 Average GPA: 3.974
@@ -2788,7 +2968,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 187 ---
+--- Chunk 199 ---
 Course: Sysms-Consltn in Schl Psych
 
 Average GPA: 3.778
@@ -2803,7 +2983,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 188 ---
+--- Chunk 200 ---
 Course: Hierarchical Linear Modeling
 
 Average GPA: 3.786
@@ -2818,8 +2998,8 @@ Grade Distribution:
 - F: 0.4%
 ================================================================================
 
---- Chunk 189 ---
-Course: INTEGRATED SCIENCE
+--- Chunk 201 ---
+Course: Entrepreneurship-Arts&CultOrgs
 
 Average GPA: 3.929
 
@@ -2833,7 +3013,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 190 ---
+--- Chunk 202 ---
 Course: Internship
 
 Average GPA: 3.981
@@ -2848,7 +3028,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 191 ---
+--- Chunk 203 ---
 Course: Capstone Project II
 
 Average GPA: 3.936
@@ -2863,37 +3043,37 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 192 ---
-Course: Workshop in Dance Activity
+--- Chunk 204 ---
+Course: Social Dance II
 
-Average GPA: 3.957
+Average GPA: 3.875
 
 Grade Distribution:
-- A: 91.7%
-- AB: 8.3%
-- B: 0.0%
+- A: 82.1%
+- AB: 10.7%
+- B: 7.1%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 193 ---
-Course: Relax Techs for Stress Mgmt
+--- Chunk 205 ---
+Course: Ballet II
 
-Average GPA: 3.800
+Average GPA: 3.944
 
 Grade Distribution:
-- A: 82.9%
-- AB: 4.9%
-- B: 7.3%
-- BC: 2.4%
-- C: 2.4%
+- A: 85.7%
+- AB: 10.7%
+- B: 3.6%
+- BC: 0.0%
+- C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 194 ---
+--- Chunk 206 ---
 Course: Pilates Mat I
 
 Average GPA: 3.846
@@ -2908,7 +3088,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 195 ---
+--- Chunk 207 ---
 Course: Dancing Gender
 
 Average GPA: 3.978
@@ -2923,7 +3103,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 196 ---
+--- Chunk 208 ---
 Course: Dance Production Laboratory
 
 Average GPA: 3.846
@@ -2938,7 +3118,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 197 ---
+--- Chunk 209 ---
 Course: Pol&Cult Perspectives in Dance
 
 Average GPA: 3.824
@@ -2953,7 +3133,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 198 ---
+--- Chunk 210 ---
 Course: Pilates Teaching Methods
 
 Average GPA: 3.972
@@ -2968,22 +3148,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 199 ---
+--- Chunk 211 ---
 Course: Dance Repertory Theater
 
-Average GPA: 3.833
+Average GPA: 3.841
 
 Grade Distribution:
-- A: 85.4%
-- AB: 6.6%
-- B: 4.1%
-- BC: 0.9%
-- C: 1.1%
-- D: 0.2%
-- F: 0.6%
+- A: 80.0%
+- AB: 13.7%
+- B: 3.2%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
 ================================================================================
 
---- Chunk 200 ---
+--- Chunk 212 ---
 Course: Intro to Clinical Anat Hum Mov
 
 Average GPA: 3.968
@@ -2998,7 +3178,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 201 ---
+--- Chunk 213 ---
 Course: Curr Topic-Outdoor Pursuits
 
 Average GPA: 3.980
@@ -3013,7 +3193,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 202 ---
+--- Chunk 214 ---
 Course: Sports Sci & Athlete Monitor
 
 Average GPA: 3.969
@@ -3028,7 +3208,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 203 ---
+--- Chunk 215 ---
 Course: Research or Thesis
 
 Average GPA: 3.757
@@ -3043,37 +3223,37 @@ Grade Distribution:
 - F: 0.2%
 ================================================================================
 
---- Chunk 204 ---
-Course: Experiencing Theatre
+--- Chunk 216 ---
+Course: Voice1 Effective Communication
 
-Average GPA: 3.604
+Average GPA: 3.688
 
 Grade Distribution:
-- A: 61.9%
-- AB: 22.4%
-- B: 5.2%
-- BC: 3.0%
-- C: 5.2%
-- D: 0.7%
-- F: 1.5%
+- A: 75.0%
+- AB: 6.3%
+- B: 6.3%
+- BC: 6.3%
+- C: 6.3%
+- D: 0.0%
+- F: 0.0%
 ================================================================================
 
---- Chunk 205 ---
-Course: Acting I: Intro to Acting
+--- Chunk 217 ---
+Course: Technical Theatre Fundamentals
 
-Average GPA: 3.810
+Average GPA: 3.779
 
 Grade Distribution:
-- A: 66.7%
-- AB: 26.7%
-- B: 3.3%
-- BC: 3.3%
+- A: 85.3%
+- AB: 5.9%
+- B: 2.9%
+- BC: 5.9%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 206 ---
+--- Chunk 218 ---
 Course: Acting Skills for Life
 
 Average GPA: 3.909
@@ -3088,52 +3268,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 207 ---
-Course: Undergrad Topics-
+--- Chunk 219 ---
+Course: Intermediate Voice Training
 
-Average GPA: 3.700
+Average GPA: 3.591
 
 Grade Distribution:
 - A: 63.6%
-- AB: 18.2%
-- B: 9.1%
+- AB: 9.1%
+- B: 18.2%
 - BC: 9.1%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 208 ---
-Course: Fundamentals of Acting
-
-Average GPA: 3.294
-
-Grade Distribution:
-- A: 44.4%
-- AB: 22.2%
-- B: 5.6%
-- BC: 11.1%
-- C: 5.6%
-- D: 5.6%
-- F: 0.0%
-================================================================================
-
---- Chunk 209 ---
-Course: Backstage Practicum
-
-Average GPA: 3.909
-
-Grade Distribution:
-- A: 81.8%
-- AB: 18.2%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 210 ---
+--- Chunk 220 ---
 Course: Advanced Production Practicum
 
 Average GPA: 3.747
@@ -3148,7 +3298,22 @@ Grade Distribution:
 - F: 1.0%
 ================================================================================
 
---- Chunk 211 ---
+--- Chunk 221 ---
+Course: Computers in Medicine
+
+Average GPA: 3.583
+
+Grade Distribution:
+- A: 38.9%
+- AB: 44.4%
+- B: 11.1%
+- BC: 5.6%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 222 ---
 Course: Advanced Independent Study
 
 Average GPA: 3.752
@@ -3163,7 +3328,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 212 ---
+--- Chunk 223 ---
 Course: Intro Transport Phenomena
 
 Average GPA: 3.625
@@ -3178,7 +3343,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 213 ---
+--- Chunk 224 ---
 Course: Seminar-Chem Engr Connections
 
 Average GPA: 3.800
@@ -3193,7 +3358,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 214 ---
+--- Chunk 225 ---
 Course: Pre-Dissertator's Research
 
 Average GPA: 3.235
@@ -3208,7 +3373,7 @@ Grade Distribution:
 - F: 1.5%
 ================================================================================
 
---- Chunk 215 ---
+--- Chunk 226 ---
 Course: Geometric Dsgn-Transprt Fac
 
 Average GPA: 3.981
@@ -3223,7 +3388,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 216 ---
+--- Chunk 227 ---
 Course: Seminar-Envir Engineering
 
 Average GPA: 3.567
@@ -3238,242 +3403,77 @@ Grade Distribution:
 - F: 0.7%
 ================================================================================
 
---- Chunk 217 ---
-Course: Signals, Information & Comp
-
-Average GPA: 3.455
-
-Grade Distribution:
-- A: 36.4%
-- AB: 45.5%
-- B: 9.1%
-- BC: 4.5%
-- C: 4.5%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 218 ---
-Course: Data Science & Engineering
-
-Average GPA: 3.968
-
-Grade Distribution:
-- A: 96.9%
-- AB: 1.0%
-- B: 2.1%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 219 ---
-Course: Intro Electrical Engr
-
-Average GPA: 2.867
-
-Grade Distribution:
-- A: 36.7%
-- AB: 20.4%
-- B: 4.1%
-- BC: 10.2%
-- C: 10.2%
-- D: 10.2%
-- F: 8.2%
-================================================================================
-
---- Chunk 220 ---
-Course: Electrodynamics I
-
-Average GPA: 3.355
-
-Grade Distribution:
-- A: 44.7%
-- AB: 20.2%
-- B: 13.2%
-- BC: 12.3%
-- C: 6.1%
-- D: 3.5%
-- F: 0.0%
-================================================================================
-
---- Chunk 221 ---
-Course: Intro-Solid State Electronics
-
-Average GPA: 3.374
-
-Grade Distribution:
-- A: 46.5%
-- AB: 22.2%
-- B: 11.1%
-- BC: 10.1%
-- C: 6.1%
-- D: 3.0%
-- F: 1.0%
-================================================================================
-
---- Chunk 222 ---
-Course: Intro to Computer Engineering
-
-Average GPA: 3.574
-
-Grade Distribution:
-- A: 42.6%
-- AB: 41.0%
-- B: 9.8%
-- BC: 1.6%
-- C: 4.9%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 223 ---
-Course: Circuits Laboratory I
-
-Average GPA: 3.440
-
-Grade Distribution:
-- A: 48.0%
-- AB: 16.0%
-- B: 12.0%
-- BC: 24.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 224 ---
-Course: Circuits Laboratory II
-
-Average GPA: 3.765
-
-Grade Distribution:
-- A: 52.9%
-- AB: 47.1%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 225 ---
-Course: Electric Machines Lab
-
-Average GPA: 3.917
-
-Grade Distribution:
-- A: 83.3%
-- AB: 16.7%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 226 ---
-Course: Semiconductr Properties Lab
-
-Average GPA: 3.917
-
-Grade Distribution:
-- A: 91.7%
-- AB: 8.3%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 227 ---
-Course: Optoelectronics Lab
-
-Average GPA: 3.969
-
-Grade Distribution:
-- A: 93.8%
-- AB: 6.3%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
 --- Chunk 228 ---
-Course: Sensors Laboratory
+Course: Course
 
-Average GPA: 3.317
+Average GPA: 3.900
 
 Grade Distribution:
-- A: 43.3%
-- AB: 18.9%
-- B: 15.6%
-- BC: 11.1%
-- C: 7.8%
-- D: 2.2%
-- F: 1.1%
+- A: 92.0%
+- AB: 4.0%
+- B: 4.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
 ================================================================================
 
 --- Chunk 229 ---
-Course: Electronic Circuits I
+Course: Microelectronic Devices
 
-Average GPA: 3.599
+Average GPA: 2.984
 
 Grade Distribution:
-- A: 64.8%
-- AB: 14.3%
-- B: 9.9%
-- BC: 4.4%
-- C: 4.4%
-- D: 1.1%
-- F: 1.1%
+- A: 16.1%
+- AB: 19.4%
+- B: 33.9%
+- BC: 12.9%
+- C: 16.1%
+- D: 1.6%
+- F: 0.0%
 ================================================================================
 
 --- Chunk 230 ---
-Course: Digital System Fundamentals
+Course: Electronic Circuits II
 
-Average GPA: 3.368
+Average GPA: 3.228
 
 Grade Distribution:
-- A: 42.7%
-- AB: 22.5%
-- B: 11.2%
-- BC: 11.2%
-- C: 7.9%
-- D: 2.2%
+- A: 26.7%
+- AB: 24.8%
+- B: 26.7%
+- BC: 14.9%
+- C: 5.9%
+- D: 1.0%
 - F: 0.0%
 ================================================================================
 
 --- Chunk 231 ---
-Course: Machine Organizatn&Progrmng
+Course: Intro to Microprocessor Sys
 
-Average GPA: 3.415
+Average GPA: 3.304
 
 Grade Distribution:
-- A: 33.0%
-- AB: 37.5%
-- B: 17.0%
-- BC: 6.8%
-- C: 4.5%
-- D: 1.1%
+- A: 28.6%
+- AB: 32.1%
+- B: 25.0%
+- BC: 7.1%
+- C: 3.6%
+- D: 3.6%
 - F: 0.0%
 ================================================================================
 
 --- Chunk 232 ---
-Course: Advanced Laboratory
+Course: Electromech Energy Conversn
 
-Average GPA: 2.931
+Average GPA: 3.971
 
 Grade Distribution:
-- A: 27.5%
-- AB: 19.6%
-- B: 5.9%
-- BC: 25.5%
-- C: 11.8%
+- A: 94.1%
+- AB: 5.9%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
@@ -3524,7 +3524,7 @@ Grade Distribution:
 ================================================================================
 
 --- Chunk 236 ---
-Course: ELECTRICAL AND COMPUTER E
+Course: Mtrx Mthds in Machine Learning
 
 Average GPA: 3.660
 
@@ -3539,7 +3539,7 @@ Grade Distribution:
 ================================================================================
 
 --- Chunk 237 ---
-Course: Grad Cooperative Educ Program
+Course: Advanced Independent Study
 
 Average GPA: 3.714
 
@@ -3554,21 +3554,36 @@ Grade Distribution:
 ================================================================================
 
 --- Chunk 238 ---
-Course: Trnsprt-Semicondctr Devices
+Course: Machine Learning
 
-Average GPA: 2.200
+Average GPA: 3.654
 
 Grade Distribution:
-- A: 12.4%
-- AB: 0.0%
-- B: 0.0%
-- BC: 0.0%
+- A: 61.5%
+- AB: 15.4%
+- B: 15.4%
+- BC: 7.7%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
 --- Chunk 239 ---
+Course: Cooperative Education Prog
+
+Average GPA: 3.230
+
+Grade Distribution:
+- A: 30.7%
+- AB: 28.7%
+- B: 20.7%
+- BC: 9.2%
+- C: 4.8%
+- D: 4.0%
+- F: 1.6%
+================================================================================
+
+--- Chunk 240 ---
 Course: Dynamics
 
 Average GPA: 2.678
@@ -3583,7 +3598,7 @@ Grade Distribution:
 - F: 1.9%
 ================================================================================
 
---- Chunk 240 ---
+--- Chunk 241 ---
 Course: Mechanics of Materials
 
 Average GPA: 3.944
@@ -3598,7 +3613,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 241 ---
+--- Chunk 242 ---
 Course: Theory of Elasticity
 
 Average GPA: 3.210
@@ -3613,7 +3628,7 @@ Grade Distribution:
 - F: 0.8%
 ================================================================================
 
---- Chunk 242 ---
+--- Chunk 243 ---
 Course: Intermed Problem Solving-Engrs
 
 Average GPA: 3.547
@@ -3628,7 +3643,7 @@ Grade Distribution:
 - F: 7.7%
 ================================================================================
 
---- Chunk 243 ---
+--- Chunk 244 ---
 Course: Change Management
 
 Average GPA: 3.820
@@ -3643,7 +3658,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 244 ---
+--- Chunk 245 ---
+Course: Seminar
+
+Average GPA: 3.639
+
+Grade Distribution:
+- A: 51.7%
+- AB: 18.0%
+- B: 11.2%
+- BC: 0.0%
+- C: 0.0%
+- D: 2.2%
+- F: 0.0%
+================================================================================
+
+--- Chunk 246 ---
 Course: Simulatn&Probablstc Modelng
 
 Average GPA: 3.533
@@ -3658,7 +3688,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 245 ---
+--- Chunk 247 ---
 Course: Industrial Engr Design I
 
 Average GPA: 3.596
@@ -3673,7 +3703,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 246 ---
+--- Chunk 248 ---
 Course: ML in Action for IEs
 
 Average GPA: 3.333
@@ -3688,7 +3718,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 247 ---
+--- Chunk 249 ---
 Course: Occupatnl Ergonics&Biomechancs
 
 Average GPA: 3.817
@@ -3703,7 +3733,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 248 ---
+--- Chunk 250 ---
 Course: Topics in Human Factors
 
 Average GPA: 3.661
@@ -3718,8 +3748,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 249 ---
-Course: Course
+--- Chunk 251 ---
+Course: Topics in Engr Anlytcs and OR
 
 Average GPA: 3.167
 
@@ -3733,22 +3763,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 250 ---
-Course: Integer Optimization
-
-Average GPA: 3.818
-
-Grade Distribution:
-- A: 90.9%
-- AB: 9.1%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 251 ---
+--- Chunk 252 ---
 Course: Grad Smr-Industrial Engr
 
 Average GPA: 3.727
@@ -3763,7 +3778,7 @@ Grade Distribution:
 - F: 0.1%
 ================================================================================
 
---- Chunk 252 ---
+--- Chunk 253 ---
 Course: Appl Leadership Cmptence in Eg
 
 Average GPA: 3.457
@@ -3778,7 +3793,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 253 ---
+--- Chunk 254 ---
 Course: Engineering Communication
 
 Average GPA: 3.813
@@ -3793,7 +3808,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 254 ---
+--- Chunk 255 ---
 Course: Collaborative Capstone II
 
 Average GPA: 3.758
@@ -3806,21 +3821,6 @@ Grade Distribution:
 - C: 0.5%
 - D: 0.1%
 - F: 0.3%
-================================================================================
-
---- Chunk 255 ---
-Course: Independent Study
-
-Average GPA: 3.929
-
-Grade Distribution:
-- A: 85.7%
-- AB: 14.3%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
 ================================================================================
 
 --- Chunk 256 ---
@@ -3974,7 +3974,7 @@ Grade Distribution:
 ================================================================================
 
 --- Chunk 266 ---
-Course: Research and Thesis
+Course: Adv Matls Sci-Phase Transfm
 
 Average GPA: 3.484
 
@@ -3989,14 +3989,14 @@ Grade Distribution:
 ================================================================================
 
 --- Chunk 267 ---
-Course: Nuclear Materials Laboratory
+Course: Nuclear Reactor Design
 
-Average GPA: 3.808
+Average GPA: 3.773
 
 Grade Distribution:
-- A: 76.9%
-- AB: 15.4%
-- B: 7.7%
+- A: 54.5%
+- AB: 45.5%
+- B: 0.0%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
@@ -4004,7 +4004,7 @@ Grade Distribution:
 ================================================================================
 
 --- Chunk 268 ---
-Course: Seminar in Plasma Physics
+Course: Research and Thesis
 
 Average GPA: 3.525
 
@@ -4253,7 +4253,7 @@ Grade Distribution:
 - AB: 10.0%
 - B: 30.0%
 - BC: 10.0%
-- C: 0.0%
+- C: 10.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
@@ -4274,36 +4274,51 @@ Grade Distribution:
 ================================================================================
 
 --- Chunk 286 ---
-Course: The Global Consumer
+Course: Retail Financial Analysis
 
-Average GPA: 3.134
+Average GPA: 2.623
 
 Grade Distribution:
-- A: 23.2%
-- AB: 28.6%
-- B: 23.2%
-- BC: 8.9%
-- C: 12.5%
-- D: 3.6%
+- A: 10.5%
+- AB: 17.5%
+- B: 15.8%
+- BC: 12.3%
+- C: 36.8%
+- D: 7.0%
 - F: 0.0%
 ================================================================================
 
 --- Chunk 287 ---
-Course: Retail Financial Analysis
+Course: Product Development Strategies
 
-Average GPA: 3.720
+Average GPA: 3.815
 
 Grade Distribution:
-- A: 60.0%
-- AB: 32.0%
-- B: 4.0%
-- BC: 4.0%
+- A: 75.4%
+- AB: 15.4%
+- B: 6.2%
+- BC: 3.1%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
 --- Chunk 288 ---
+Course: Consumer Policy
+
+Average GPA: 3.722
+
+Grade Distribution:
+- A: 74.1%
+- AB: 11.1%
+- B: 3.7%
+- BC: 7.4%
+- C: 3.7%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 289 ---
 Course: Retailing Internship
 
 Average GPA: 3.541
@@ -4318,32 +4333,17 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 289 ---
+--- Chunk 290 ---
 Course: Advanced Consumer Finance
 
-Average GPA: 3.196
+Average GPA: 3.467
 
 Grade Distribution:
-- A: 21.7%
-- AB: 34.8%
-- B: 21.7%
-- BC: 13.0%
-- C: 4.3%
-- D: 4.3%
-- F: 0.0%
-================================================================================
-
---- Chunk 290 ---
-Course: Estate Plng for Fincl Planners
-
-Average GPA: 3.488
-
-Grade Distribution:
-- A: 32.6%
-- AB: 39.5%
-- B: 23.3%
-- BC: 2.3%
-- C: 2.3%
+- A: 23.9%
+- AB: 54.3%
+- B: 15.2%
+- BC: 4.3%
+- C: 2.2%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
@@ -4351,46 +4351,46 @@ Grade Distribution:
 --- Chunk 291 ---
 Course: Consumer Behavior
 
-Average GPA: 3.829
+Average GPA: 3.945
 
 Grade Distribution:
-- A: 81.6%
-- AB: 7.9%
-- B: 7.9%
-- BC: 2.6%
+- A: 91.8%
+- AB: 6.8%
+- B: 1.4%
+- BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
 --- Chunk 292 ---
-Course: Household Risk Management
+Course: Family Financial Counseling
 
-Average GPA: 3.578
+Average GPA: 3.722
 
 Grade Distribution:
-- A: 42.2%
-- AB: 42.2%
-- B: 8.9%
-- BC: 2.2%
-- C: 4.4%
+- A: 73.3%
+- AB: 11.1%
+- B: 4.4%
+- BC: 8.9%
+- C: 2.2%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
 --- Chunk 293 ---
-Course: Causal Models Hshld Cnsr Res
+Course: CONSUMER SCIENCE
 
-Average GPA: 3.596
+Average GPA: 3.846
 
 Grade Distribution:
-- A: 62.0%
-- AB: 20.1%
-- B: 7.9%
-- BC: 4.1%
-- C: 3.2%
-- D: 1.2%
-- F: 0.9%
+- A: 92.3%
+- AB: 7.7%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
 ================================================================================
 
 --- Chunk 294 ---
@@ -4514,21 +4514,6 @@ Grade Distribution:
 ================================================================================
 
 --- Chunk 302 ---
-Course: ENVIR ST - GAYLORD NELSON I
-
-Average GPA: 3.996
-
-Grade Distribution:
-- A: 99.1%
-- AB: 0.9%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 303 ---
 Course: Global Environmental Issues
 
 Average GPA: 3.927
@@ -4543,38 +4528,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 304 ---
-Course: Global Chg: Atmospheric Iss
-
-Average GPA: 3.727
-
-Grade Distribution:
-- A: 45.5%
-- AB: 54.5%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 305 ---
-Course: People, Land and Food
-
-Average GPA: 3.944
-
-Grade Distribution:
-- A: 88.9%
-- AB: 11.1%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 306 ---
-Course: Sustainability Cmty Engagement
+--- Chunk 303 ---
+Course: Intro to Geog Info Systems
 
 Average GPA: 3.971
 
@@ -4588,7 +4543,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 307 ---
+--- Chunk 304 ---
 Course: Topics: Biol Aspects-Envir St
 
 Average GPA: 3.960
@@ -4603,7 +4558,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 308 ---
+--- Chunk 305 ---
 Course: Ecology of Fishes
 
 Average GPA: 3.429
@@ -4618,7 +4573,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 309 ---
+--- Chunk 306 ---
 Course: Ecology of Fishes Lab
 
 Average GPA: 3.857
@@ -4633,7 +4588,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 310 ---
+--- Chunk 307 ---
 Course: Assessment-Environ Impact
 
 Average GPA: 3.955
@@ -4648,7 +4603,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 311 ---
+--- Chunk 308 ---
 Course: Prescribed Fire Implementation
 
 Average GPA: 3.750
@@ -4663,7 +4618,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 312 ---
+--- Chunk 309 ---
 Course: ENVIR ST - GAYLORD NELSON I
 
 Average GPA: 3.714
@@ -4678,7 +4633,37 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 313 ---
+--- Chunk 310 ---
+Course: Seminar
+
+Average GPA: 3.929
+
+Grade Distribution:
+- A: 85.7%
+- AB: 14.3%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 311 ---
+Course: Envir Cons Tools Modules
+
+Average GPA: 3.810
+
+Grade Distribution:
+- A: 71.4%
+- AB: 19.0%
+- B: 9.5%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 312 ---
 Course: Intro African Lit
 
 Average GPA: 3.750
@@ -4693,7 +4678,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 314 ---
+--- Chunk 313 ---
 Course: Intro Topics African Languages
 
 Average GPA: 3.667
@@ -4708,7 +4693,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 315 ---
+--- Chunk 314 ---
 Course: African Lit and Visual Culture
 
 Average GPA: 3.794
@@ -4717,13 +4702,13 @@ Grade Distribution:
 - A: 76.5%
 - AB: 11.8%
 - B: 5.9%
-- BC: 5.9%
+- BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 316 ---
+--- Chunk 315 ---
 Course: Second Semester Yoruba
 
 Average GPA: 3.833
@@ -4738,7 +4723,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 317 ---
+--- Chunk 316 ---
 Course: Smr-Mod Afr Lit
 
 Average GPA: 3.833
@@ -4753,7 +4738,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 318 ---
+--- Chunk 317 ---
 Course: Thesis
 
 Average GPA: 3.754
@@ -4768,7 +4753,7 @@ Grade Distribution:
 - F: 0.2%
 ================================================================================
 
---- Chunk 319 ---
+--- Chunk 318 ---
 Course: Topics in African Amer Studies
 
 Average GPA: 3.750
@@ -4783,7 +4768,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 320 ---
+--- Chunk 319 ---
 Course: Selected Topics:Afro-Am Lit
 
 Average GPA: 3.778
@@ -4798,7 +4783,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 321 ---
+--- Chunk 320 ---
 Course: Topics in Afro-Am Society
 
 Average GPA: 3.804
@@ -4813,7 +4798,7 @@ Grade Distribution:
 - F: 0.7%
 ================================================================================
 
---- Chunk 322 ---
+--- Chunk 321 ---
 Course: AMERICAN INDIAN STUDIES
 
 Average GPA: 3.673
@@ -4828,7 +4813,7 @@ Grade Distribution:
 - F: 0.6%
 ================================================================================
 
---- Chunk 323 ---
+--- Chunk 322 ---
 Course: Soc Work in Am Indian Communit
 
 Average GPA: 3.709
@@ -4843,7 +4828,7 @@ Grade Distribution:
 - F: 0.9%
 ================================================================================
 
---- Chunk 324 ---
+--- Chunk 323 ---
 Course: Cult Anthro&Human Diversity
 
 Average GPA: 3.317
@@ -4858,7 +4843,7 @@ Grade Distribution:
 - F: 1.4%
 ================================================================================
 
---- Chunk 325 ---
+--- Chunk 324 ---
 Course: Heredity,Envr&Human Popultn
 
 Average GPA: 3.067
@@ -4873,7 +4858,7 @@ Grade Distribution:
 - F: 6.3%
 ================================================================================
 
---- Chunk 326 ---
+--- Chunk 325 ---
 Course: Topics in Archaeology
 
 Average GPA: 3.792
@@ -4888,7 +4873,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 327 ---
+--- Chunk 326 ---
 Course: Reading and Research
 
 Average GPA: 3.549
@@ -4903,7 +4888,7 @@ Grade Distribution:
 - F: 1.3%
 ================================================================================
 
---- Chunk 328 ---
+--- Chunk 327 ---
 Course: ART HISTORY
 
 Average GPA: 3.748
@@ -4918,23 +4903,23 @@ Grade Distribution:
 - F: 5.7%
 ================================================================================
 
---- Chunk 329 ---
-Course: Intro to Afro-American Art
+--- Chunk 328 ---
+Course: Topics in Art History
 
-Average GPA: 3.727
+Average GPA: 3.468
 
 Grade Distribution:
-- A: 44.6%
-- AB: 28.6%
-- B: 1.8%
-- BC: 3.6%
-- C: 21.4%
-- D: 0.0%
+- A: 41.8%
+- AB: 25.5%
+- B: 12.7%
+- BC: 1.8%
+- C: 3.6%
+- D: 14.5%
 - F: 0.0%
 ================================================================================
 
---- Chunk 330 ---
-Course: Vis Cult: Topics in Vis Cult
+--- Chunk 329 ---
+Course: Research and Thesis
 
 Average GPA: 3.703
 
@@ -4948,7 +4933,7 @@ Grade Distribution:
 - F: 0.7%
 ================================================================================
 
---- Chunk 331 ---
+--- Chunk 330 ---
 Course: Ethnic Movements in U.S.
 
 Average GPA: 3.851
@@ -4963,7 +4948,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 332 ---
+--- Chunk 331 ---
 Course: Asian Amer Women Writers
 
 Average GPA: 3.677
@@ -4978,7 +4963,7 @@ Grade Distribution:
 - F: 0.6%
 ================================================================================
 
---- Chunk 333 ---
+--- Chunk 332 ---
 Course: Directed Study
 
 Average GPA: 3.269
@@ -4993,7 +4978,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 334 ---
+--- Chunk 333 ---
 Course: Survey of Modern Chinese Lit
 
 Average GPA: 3.604
@@ -5004,11 +4989,11 @@ Grade Distribution:
 - B: 11.1%
 - BC: 9.3%
 - C: 1.9%
-- D: 0.0%
+- D: 1.9%
 - F: 0.0%
 ================================================================================
 
---- Chunk 335 ---
+--- Chunk 334 ---
 Course: Rdgs Modern Japanese Lit
 
 Average GPA: 3.833
@@ -5023,7 +5008,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 336 ---
+--- Chunk 335 ---
 Course: Thesis Research
 
 Average GPA: 3.688
@@ -5038,8 +5023,68 @@ Grade Distribution:
 - F: 1.2%
 ================================================================================
 
+--- Chunk 336 ---
+Course: Second Semester Chinese
+
+Average GPA: 3.692
+
+Grade Distribution:
+- A: 53.8%
+- AB: 30.8%
+- B: 15.4%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
 --- Chunk 337 ---
-Course: Second Semester Urdu
+Course: Second Semester Japanese
+
+Average GPA: 3.786
+
+Grade Distribution:
+- A: 71.4%
+- AB: 14.3%
+- B: 14.3%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 338 ---
+Course: Second Semester Hmong
+
+Average GPA: 3.286
+
+Grade Distribution:
+- A: 42.9%
+- AB: 28.6%
+- B: 28.6%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 339 ---
+Course: Second Semester Indonesian
+
+Average GPA: 3.333
+
+Grade Distribution:
+- A: 33.3%
+- AB: 33.3%
+- B: 11.1%
+- BC: 11.1%
+- C: 11.1%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 340 ---
+Course: Second Semester Hindi
 
 Average GPA: 3.769
 
@@ -5053,7 +5098,37 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 338 ---
+--- Chunk 341 ---
+Course: Fourth Semester Chinese
+
+Average GPA: 3.500
+
+Grade Distribution:
+- A: 53.8%
+- AB: 23.1%
+- B: 7.7%
+- BC: 15.4%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 342 ---
+Course: Fourth Semester Japanese
+
+Average GPA: 3.767
+
+Grade Distribution:
+- A: 66.7%
+- AB: 20.0%
+- B: 13.3%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 343 ---
 Course: Fourth Semester Hmong
 
 Average GPA: 3.425
@@ -5068,7 +5143,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 339 ---
+--- Chunk 344 ---
 Course: Classical Japanese
 
 Average GPA: 3.833
@@ -5083,7 +5158,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 340 ---
+--- Chunk 345 ---
 Course: Second Semester Asian
 
 Average GPA: 0.350
@@ -5098,53 +5173,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 341 ---
-Course: Bus Japanese Communication
-
-Average GPA: 3.857
-
-Grade Distribution:
-- A: 76.2%
-- AB: 19.0%
-- B: 4.8%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 342 ---
-Course: Business Chinese
-
-Average GPA: 3.875
-
-Grade Distribution:
-- A: 75.0%
-- AB: 25.0%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 343 ---
-Course: Advanced Korean Through Media
-
-Average GPA: 3.717
-
-Grade Distribution:
-- A: 70.4%
-- AB: 12.9%
-- B: 9.2%
-- BC: 2.1%
-- C: 2.5%
-- D: 0.6%
-- F: 0.5%
-================================================================================
-
---- Chunk 344 ---
-Course: ASTRONOM
+--- Chunk 346 ---
+Course: ASTRON
 
 Average GPA: 3.232
 
@@ -5158,7 +5188,7 @@ Grade Distribution:
 - F: 1.9%
 ================================================================================
 
---- Chunk 345 ---
+--- Chunk 347 ---
 Course: Seminar in Astrophysics
 
 Average GPA: 3.505
@@ -5173,7 +5203,7 @@ Grade Distribution:
 - F: 0.4%
 ================================================================================
 
---- Chunk 346 ---
+--- Chunk 348 ---
 Course: Introductory Biology
 
 Average GPA: 3.438
@@ -5188,7 +5218,7 @@ Grade Distribution:
 - F: 0.3%
 ================================================================================
 
---- Chunk 347 ---
+--- Chunk 349 ---
 Course: Communicating Evolutionary Bio
 
 Average GPA: 3.165
@@ -5203,7 +5233,7 @@ Grade Distribution:
 - F: 1.6%
 ================================================================================
 
---- Chunk 348 ---
+--- Chunk 350 ---
 Course: Directed Study
 
 Average GPA: 3.419
@@ -5218,7 +5248,22 @@ Grade Distribution:
 - F: 0.4%
 ================================================================================
 
---- Chunk 349 ---
+--- Chunk 351 ---
+Course: BOTANY
+
+Average GPA: 3.482
+
+Grade Distribution:
+- A: 48.2%
+- AB: 24.1%
+- B: 14.9%
+- BC: 7.1%
+- C: 3.5%
+- D: 1.4%
+- F: 0.7%
+================================================================================
+
+--- Chunk 352 ---
 Course: Plant Morphology & Evolution
 
 Average GPA: 3.526
@@ -5233,7 +5278,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 350 ---
+--- Chunk 353 ---
 Course: BOTANY
 
 Average GPA: 3.396
@@ -5248,22 +5293,7 @@ Grade Distribution:
 - F: 0.9%
 ================================================================================
 
---- Chunk 351 ---
-Course: General Chem II Laboratory
-
-Average GPA: 2.952
-
-Grade Distribution:
-- A: 12.5%
-- AB: 22.0%
-- B: 33.6%
-- BC: 17.1%
-- C: 10.9%
-- D: 3.0%
-- F: 1.0%
-================================================================================
-
---- Chunk 352 ---
+--- Chunk 354 ---
 Course: General Chemistry I
 
 Average GPA: 2.921
@@ -5278,7 +5308,7 @@ Grade Distribution:
 - F: 0.7%
 ================================================================================
 
---- Chunk 353 ---
+--- Chunk 355 ---
 Course: Fundamentals of Analytical Sci
 
 Average GPA: 3.457
@@ -5293,7 +5323,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 354 ---
+--- Chunk 356 ---
 Course: Fundamentals of Analytical Sci
 
 Average GPA: 3.179
@@ -5308,7 +5338,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 355 ---
+--- Chunk 357 ---
 Course: Elementary Organic Chem Lab
 
 Average GPA: 2.887
@@ -5323,7 +5353,7 @@ Grade Distribution:
 - F: 2.1%
 ================================================================================
 
---- Chunk 356 ---
+--- Chunk 358 ---
 Course: Organic Chemistry I
 
 Average GPA: 3.133
@@ -5338,53 +5368,83 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 357 ---
-Course: Physical Chemistry II
-
-Average GPA: 3.813
-
-Grade Distribution:
-- A: 75.0%
-- AB: 12.5%
-- B: 12.5%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 358 ---
-Course: Physical Chemistry Lab I
-
-Average GPA: 3.733
-
-Grade Distribution:
-- A: 66.7%
-- AB: 20.0%
-- B: 6.7%
-- BC: 6.7%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
 --- Chunk 359 ---
-Course: Biophysical Chemistry
+Course: Intro Organic Chemistry Lab
 
-Average GPA: 3.981
+Average GPA: 2.824
 
 Grade Distribution:
-- A: 96.9%
-- AB: 2.1%
-- B: 1.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
+- A: 26.9%
+- AB: 7.4%
+- B: 25.0%
+- BC: 11.1%
+- C: 20.4%
+- D: 5.6%
+- F: 3.7%
 ================================================================================
 
 --- Chunk 360 ---
 Course: CHEMISTRY
+
+Average GPA: 3.450
+
+Grade Distribution:
+- A: 10.0%
+- AB: 80.0%
+- B: 10.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 361 ---
+Course: Physical Chemistry Lab I
+
+Average GPA: 3.667
+
+Grade Distribution:
+- A: 50.0%
+- AB: 41.7%
+- B: 8.3%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 362 ---
+Course: Physical Chemistry Lab II
+
+Average GPA: 3.733
+
+Grade Distribution:
+- A: 60.0%
+- AB: 26.7%
+- B: 13.3%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 363 ---
+Course: Biophysical Chemistry
+
+Average GPA: 3.850
+
+Grade Distribution:
+- A: 87.5%
+- AB: 12.5%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 364 ---
+Course: Seminar: Review of Current Res
 
 Average GPA: 3.037
 
@@ -5398,7 +5458,7 @@ Grade Distribution:
 - F: 0.9%
 ================================================================================
 
---- Chunk 361 ---
+--- Chunk 365 ---
 Course: Immigration, Crime, Enforcement
 
 Average GPA: 3.813
@@ -5413,7 +5473,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 362 ---
+--- Chunk 366 ---
 Course: Latin@ Mental Health
 
 Average GPA: 3.660
@@ -5428,7 +5488,7 @@ Grade Distribution:
 - F: 0.7%
 ================================================================================
 
---- Chunk 363 ---
+--- Chunk 367 ---
 Course: Sex and Power
 
 Average GPA: 3.500
@@ -5443,7 +5503,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 364 ---
+--- Chunk 368 ---
 Course: Undergrad Smr:Classicl Wrld
 
 Average GPA: 3.679
@@ -5458,7 +5518,7 @@ Grade Distribution:
 - F: 0.7%
 ================================================================================
 
---- Chunk 365 ---
+--- Chunk 369 ---
 Course: Digital Studies Capstone
 
 Average GPA: 3.719
@@ -5473,7 +5533,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 366 ---
+--- Chunk 370 ---
 Course: Research and Thesis
 
 Average GPA: 3.542
@@ -5488,7 +5548,7 @@ Grade Distribution:
 - F: 0.8%
 ================================================================================
 
---- Chunk 367 ---
+--- Chunk 371 ---
 Course: Capstone in Comm Sci & Dis
 
 Average GPA: 3.992
@@ -5503,7 +5563,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 368 ---
+--- Chunk 372 ---
 Course: Independent Studies
 
 Average GPA: 3.764
@@ -5518,7 +5578,7 @@ Grade Distribution:
 - F: 0.3%
 ================================================================================
 
---- Chunk 369 ---
+--- Chunk 373 ---
 Course: Intro Cross-Cultrl Lit Form
 
 Average GPA: 3.671
@@ -5533,7 +5593,22 @@ Grade Distribution:
 - F: 2.5%
 ================================================================================
 
---- Chunk 370 ---
+--- Chunk 374 ---
+Course: Introduction to Computing
+
+Average GPA: 3.492
+
+Grade Distribution:
+- A: 57.7%
+- AB: 14.6%
+- B: 13.0%
+- BC: 7.3%
+- C: 3.3%
+- D: 3.3%
+- F: 0.8%
+================================================================================
+
+--- Chunk 375 ---
 Course: Programming I
 
 Average GPA: 3.188
@@ -5548,7 +5623,7 @@ Grade Distribution:
 - F: 3.3%
 ================================================================================
 
---- Chunk 371 ---
+--- Chunk 376 ---
 Course: Data Sci Programming I
 
 Average GPA: 3.122
@@ -5563,7 +5638,7 @@ Grade Distribution:
 - F: 2.2%
 ================================================================================
 
---- Chunk 372 ---
+--- Chunk 377 ---
 Course: Intro to Discrete Mathematics
 
 Average GPA: 3.426
@@ -5578,7 +5653,7 @@ Grade Distribution:
 - F: 0.9%
 ================================================================================
 
---- Chunk 373 ---
+--- Chunk 378 ---
 Course: Introduction to Web Dev
 
 Average GPA: 3.010
@@ -5593,7 +5668,7 @@ Grade Distribution:
 - F: 2.0%
 ================================================================================
 
---- Chunk 374 ---
+--- Chunk 379 ---
 Course: WES-CS Group Meeting
 
 Average GPA: 3.944
@@ -5608,7 +5683,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 375 ---
+--- Chunk 380 ---
 Course: Data Sci Prgmg I - Research
 
 Average GPA: 3.867
@@ -5623,7 +5698,7 @@ Grade Distribution:
 - F: 0.4%
 ================================================================================
 
---- Chunk 376 ---
+--- Chunk 381 ---
 Course: Data Sci Programming II
 
 Average GPA: 3.333
@@ -5638,7 +5713,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 377 ---
+--- Chunk 382 ---
 Course: Digital System Fundamentals
 
 Average GPA: 3.105
@@ -5653,7 +5728,7 @@ Grade Distribution:
 - F: 0.6%
 ================================================================================
 
---- Chunk 378 ---
+--- Chunk 383 ---
 Course: Learn a Programming Language
 
 Average GPA: 3.373
@@ -5668,7 +5743,7 @@ Grade Distribution:
 - F: 0.6%
 ================================================================================
 
---- Chunk 379 ---
+--- Chunk 384 ---
 Course: Intro to Web Development
 
 Average GPA: 3.269
@@ -5683,7 +5758,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 380 ---
+--- Chunk 385 ---
 Course: CS Education
 
 Average GPA: 3.606
@@ -5698,7 +5773,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 381 ---
+--- Chunk 386 ---
 Course: Intro to Theory of Computing
 
 Average GPA: 3.375
@@ -5713,7 +5788,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 382 ---
+--- Chunk 387 ---
 Course: Linear Optimization
 
 Average GPA: 3.667
@@ -5728,7 +5803,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 383 ---
+--- Chunk 388 ---
 Course: Mtrx Mthds in Machine Learning
 
 Average GPA: 3.172
@@ -5743,7 +5818,7 @@ Grade Distribution:
 - F: 4.1%
 ================================================================================
 
---- Chunk 384 ---
+--- Chunk 389 ---
 Course: Intro-Progm Langs&Compilers
 
 Average GPA: 3.415
@@ -5758,7 +5833,7 @@ Grade Distribution:
 - F: 0.6%
 ================================================================================
 
---- Chunk 385 ---
+--- Chunk 390 ---
 Course: COMPUTER SCIENCES
 
 Average GPA: 3.588
@@ -5767,13 +5842,13 @@ Grade Distribution:
 - A: 38.6%
 - AB: 43.9%
 - B: 14.0%
-- BC: 3.5%
+- BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 386 ---
+--- Chunk 391 ---
 Course: Theory & Algo for Data Sci
 
 Average GPA: 3.229
@@ -5788,7 +5863,7 @@ Grade Distribution:
 - F: 1.6%
 ================================================================================
 
---- Chunk 387 ---
+--- Chunk 392 ---
 Course: Para & Throughput Opt Programg
 
 Average GPA: 3.875
@@ -5803,7 +5878,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 388 ---
+--- Chunk 393 ---
 Course: Database Mgt Systems
 
 Average GPA: 3.591
@@ -5818,7 +5893,7 @@ Grade Distribution:
 - F: 1.7%
 ================================================================================
 
---- Chunk 389 ---
+--- Chunk 394 ---
 Course: Intro to Humn-Comp Interaction
 
 Average GPA: 3.369
@@ -5833,7 +5908,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 390 ---
+--- Chunk 395 ---
 Course: Building User Interfaces
 
 Average GPA: 3.034
@@ -5848,22 +5923,7 @@ Grade Distribution:
 - F: 1.3%
 ================================================================================
 
---- Chunk 391 ---
-Course: Computer Sciences Capstone
-
-Average GPA: 3.429
-
-Grade Distribution:
-- A: 85.7%
-- AB: 14.3%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 392 ---
+--- Chunk 396 ---
 Course: Undergrad Topics-Computing
 
 Average GPA: 3.634
@@ -5878,7 +5938,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 393 ---
+--- Chunk 397 ---
 Course: UG Elective Topic in Computing
 
 Average GPA: 3.449
@@ -5893,7 +5953,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 394 ---
+--- Chunk 398 ---
+Course: Intro to Computer Networks
+
+Average GPA: 3.407
+
+Grade Distribution:
+- A: 40.7%
+- AB: 22.2%
+- B: 22.2%
+- BC: 7.4%
+- C: 7.4%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 399 ---
 Course: Machine Learning
 
 Average GPA: 3.481
@@ -5908,7 +5983,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 395 ---
+--- Chunk 400 ---
 Course: Topics in Computing
 
 Average GPA: 3.882
@@ -5923,7 +5998,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 396 ---
+--- Chunk 401 ---
 Course: Computn&Informatcs in Biol&Med
 
 Average GPA: 3.397
@@ -5938,7 +6013,7 @@ Grade Distribution:
 - F: 0.9%
 ================================================================================
 
---- Chunk 397 ---
+--- Chunk 402 ---
 Course: Principles-Microeconomics
 
 Average GPA: 3.263
@@ -5953,7 +6028,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 398 ---
+--- Chunk 403 ---
 Course: Internship Economics
 
 Average GPA: 3.227
@@ -5968,7 +6043,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 399 ---
+--- Chunk 404 ---
 Course: Introduction to Finance
 
 Average GPA: 3.007
@@ -5983,7 +6058,7 @@ Grade Distribution:
 - F: 1.4%
 ================================================================================
 
---- Chunk 400 ---
+--- Chunk 405 ---
 Course: Intmed Microeconomic Theory
 
 Average GPA: 3.511
@@ -5998,7 +6073,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 401 ---
+--- Chunk 406 ---
 Course: Intmed Macroeconomic Theory
 
 Average GPA: 3.959
@@ -6013,7 +6088,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 402 ---
+--- Chunk 407 ---
 Course: The Real Estate Process
 
 Average GPA: 3.545
@@ -6028,7 +6103,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 403 ---
+--- Chunk 408 ---
 Course: Study Abroad-Intermed Econ
 
 Average GPA: 3.217
@@ -6043,7 +6118,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 404 ---
+--- Chunk 409 ---
 Course: Data Visualization for Econ
 
 Average GPA: 3.455
@@ -6058,7 +6133,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 405 ---
+--- Chunk 410 ---
 Course: Directed Study
 
 Average GPA: 3.500
@@ -6073,7 +6148,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 406 ---
+--- Chunk 411 ---
 Course: Econometrics II
 
 Average GPA: 3.865
@@ -6088,7 +6163,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 407 ---
+--- Chunk 412 ---
 Course: Wrkshp-Internatl Economics
 
 Average GPA: 3.318
@@ -6103,7 +6178,7 @@ Grade Distribution:
 - F: 0.5%
 ================================================================================
 
---- Chunk 408 ---
+--- Chunk 413 ---
 Course: Academic Writing II
 
 Average GPA: 3.753
@@ -6118,7 +6193,7 @@ Grade Distribution:
 - F: 41.4%
 ================================================================================
 
---- Chunk 409 ---
+--- Chunk 414 ---
 Course: ENGLISH
 
 Average GPA: 3.974
@@ -6133,7 +6208,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 410 ---
+--- Chunk 415 ---
 Course: ENGLISH
 
 Average GPA: 3.926
@@ -6148,97 +6223,112 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 411 ---
+--- Chunk 416 ---
 Course: Literature and Social Justice
 
-Average GPA: 3.883
+Average GPA: 3.275
 
 Grade Distribution:
-- A: 80.0%
-- AB: 16.7%
-- B: 3.3%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 412 ---
-Course: Topics in Literature and Film
-
-Average GPA: 3.950
-
-Grade Distribution:
-- A: 90.0%
-- AB: 10.0%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 413 ---
-Course: Literature and Popular Culture
-
-Average GPA: 3.534
-
-Grade Distribution:
-- A: 44.8%
-- AB: 44.8%
-- B: 3.4%
-- BC: 3.4%
-- C: 3.4%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 414 ---
-Course: Intermediate Composition
-
-Average GPA: 3.632
-
-Grade Distribution:
-- A: 84.2%
-- AB: 5.3%
-- B: 5.3%
-- BC: 5.3%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 415 ---
-Course: Intro to Creative Writing
-
-Average GPA: 3.885
-
-Grade Distribution:
-- A: 84.6%
-- AB: 7.7%
-- B: 7.7%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 416 ---
-Course: Literature and Culture II
-
-Average GPA: 3.929
-
-Grade Distribution:
-- A: 85.7%
-- AB: 14.3%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
+- A: 40.0%
+- AB: 25.0%
+- B: 15.0%
+- BC: 15.0%
+- C: 5.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
 --- Chunk 417 ---
+Course: Lit & the Other Disciplines
+
+Average GPA: 3.577
+
+Grade Distribution:
+- A: 25.6%
+- AB: 64.1%
+- B: 10.3%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 418 ---
+Course: Topics in Literature and Film
+
+Average GPA: 3.745
+
+Grade Distribution:
+- A: 80.2%
+- AB: 10.4%
+- B: 3.0%
+- BC: 2.0%
+- C: 0.5%
+- D: 2.5%
+- F: 1.5%
+================================================================================
+
+--- Chunk 419 ---
+Course: Literature and Popular Culture
+
+Average GPA: 3.980
+
+Grade Distribution:
+- A: 96.6%
+- AB: 2.9%
+- B: 0.5%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 420 ---
+Course: Writing Studio
+
+Average GPA: 3.861
+
+Grade Distribution:
+- A: 83.3%
+- AB: 5.6%
+- B: 11.1%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 421 ---
+Course: Intermediate Composition
+
+Average GPA: 3.917
+
+Grade Distribution:
+- A: 83.3%
+- AB: 16.7%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 422 ---
+Course: Intro to Creative Writing
+
+Average GPA: 3.734
+
+Grade Distribution:
+- A: 84.4%
+- AB: 2.8%
+- B: 3.7%
+- BC: 4.6%
+- C: 3.7%
+- D: 0.9%
+- F: 0.0%
+================================================================================
+
+--- Chunk 423 ---
 Course: Women in Ethnic Amer Lit
 
 Average GPA: 3.800
@@ -6253,7 +6343,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 418 ---
+--- Chunk 424 ---
 Course: The Sixteenth Century
 
 Average GPA: 3.588
@@ -6268,7 +6358,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 419 ---
+--- Chunk 425 ---
 Course: Topics-English Lang & Linguis
 
 Average GPA: 3.885
@@ -6283,7 +6373,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 420 ---
+--- Chunk 426 ---
 Course: Topic in 19th-Century Brit Lit
 
 Average GPA: 3.946
@@ -6298,7 +6388,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 421 ---
+--- Chunk 427 ---
 Course: Old English
 
 Average GPA: 3.957
@@ -6313,7 +6403,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 422 ---
+--- Chunk 428 ---
 Course: Selected Topics:Afro-Am Lit
 
 Average GPA: 3.875
@@ -6328,7 +6418,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 423 ---
+--- Chunk 429 ---
+Course: Directed Creative Writing
+
+Average GPA: 3.917
+
+Grade Distribution:
+- A: 85.7%
+- AB: 14.3%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 430 ---
 Course: Topics in Modernism
 
 Average GPA: 3.778
@@ -6343,7 +6448,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 424 ---
+--- Chunk 431 ---
 Course: ENGLISH
 
 Average GPA: 3.790
@@ -6358,7 +6463,7 @@ Grade Distribution:
 - F: 0.8%
 ================================================================================
 
---- Chunk 425 ---
+--- Chunk 432 ---
 Course: Intro-Mus Cult of the World
 
 Average GPA: 3.857
@@ -6373,7 +6478,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 426 ---
+--- Chunk 433 ---
 Course: The Nordic Storyteller
 
 Average GPA: 3.500
@@ -6388,8 +6493,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 427 ---
-Course: Folk Epics
+--- Chunk 434 ---
+Course: FOLKLORE PROGRAM
 
 Average GPA: 3.684
 
@@ -6403,7 +6508,7 @@ Grade Distribution:
 - F: 2.6%
 ================================================================================
 
---- Chunk 428 ---
+--- Chunk 435 ---
 Course: First Semester French
 
 Average GPA: 3.100
@@ -6418,7 +6523,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 429 ---
+--- Chunk 436 ---
 Course: Second Semester French
 
 Average GPA: 3.364
@@ -6433,7 +6538,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 430 ---
+--- Chunk 437 ---
 Course: Third Semester French
 
 Average GPA: 3.654
@@ -6448,7 +6553,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 431 ---
+--- Chunk 438 ---
 Course: Fourth Semester French
 
 Average GPA: 3.731
@@ -6463,7 +6568,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 432 ---
+--- Chunk 439 ---
 Course: French Lit & Interdis Studies
 
 Average GPA: 3.794
@@ -6478,7 +6583,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 433 ---
+--- Chunk 440 ---
 Course: Intermed Language & Culture
 
 Average GPA: 3.813
@@ -6493,7 +6598,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 434 ---
+--- Chunk 441 ---
 Course: Smr-Materials&Methods-Rsch
 
 Average GPA: 3.668
@@ -6508,7 +6613,7 @@ Grade Distribution:
 - F: 0.7%
 ================================================================================
 
---- Chunk 435 ---
+--- Chunk 442 ---
 Course: GEOGRAPHY
 
 Average GPA: 3.653
@@ -6523,7 +6628,7 @@ Grade Distribution:
 - F: 1.3%
 ================================================================================
 
---- Chunk 436 ---
+--- Chunk 443 ---
 Course: Intro Earth System
 
 Average GPA: 3.214
@@ -6538,7 +6643,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 437 ---
+--- Chunk 444 ---
 Course: Digital Globe:GIScience & Tech
 
 Average GPA: 2.188
@@ -6553,7 +6658,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 438 ---
+--- Chunk 445 ---
 Course: Africa: Introductory Survey
 
 Average GPA: 3.789
@@ -6568,7 +6673,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 439 ---
+--- Chunk 446 ---
 Course: Econ Geog: Locational Behav
 
 Average GPA: 3.620
@@ -6583,7 +6688,7 @@ Grade Distribution:
 - F: 2.1%
 ================================================================================
 
---- Chunk 440 ---
+--- Chunk 447 ---
 Course: People, Land and Food
 
 Average GPA: 3.722
@@ -6598,7 +6703,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 441 ---
+--- Chunk 448 ---
 Course: Green Urbanism
 
 Average GPA: 3.091
@@ -6613,7 +6718,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 442 ---
+--- Chunk 449 ---
 Course: Environmental Conservation
 
 Average GPA: 3.531
@@ -6628,7 +6733,7 @@ Grade Distribution:
 - F: 2.6%
 ================================================================================
 
---- Chunk 443 ---
+--- Chunk 450 ---
 Course: Introduction to Cartography
 
 Average GPA: 3.100
@@ -6643,7 +6748,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 444 ---
+--- Chunk 451 ---
 Course: Intro to Geog Info Systems
 
 Average GPA: 3.231
@@ -6658,8 +6763,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 445 ---
-Course: Spatial Web/Mobile Programming
+--- Chunk 452 ---
+Course: GEOGRAPHY
 
 Average GPA: 3.658
 
@@ -6673,8 +6778,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 446 ---
-Course: GEOGRAPHY
+--- Chunk 453 ---
+Course: Research and Thesis
 
 Average GPA: 3.627
 
@@ -6688,7 +6793,22 @@ Grade Distribution:
 - F: 1.6%
 ================================================================================
 
---- Chunk 447 ---
+--- Chunk 454 ---
+Course: GEOSCIENCE
+
+Average GPA: 3.813
+
+Grade Distribution:
+- A: 78.6%
+- AB: 12.4%
+- B: 6.5%
+- BC: 0.9%
+- C: 0.5%
+- D: 0.9%
+- F: 0.2%
+================================================================================
+
+--- Chunk 455 ---
 Course: Geomorphology
 
 Average GPA: 3.412
@@ -6703,8 +6823,8 @@ Grade Distribution:
 - F: 0.4%
 ================================================================================
 
---- Chunk 448 ---
-Course: Research
+--- Chunk 456 ---
+Course: Advanced Topics in Geology
 
 Average GPA: 3.594
 
@@ -6718,53 +6838,53 @@ Grade Distribution:
 - F: 0.8%
 ================================================================================
 
---- Chunk 449 ---
+--- Chunk 457 ---
 Course: First Semester German
 
-Average GPA: 2.800
+Average GPA: 3.045
 
 Grade Distribution:
-- A: 40.0%
-- AB: 13.3%
-- B: 13.3%
-- BC: 6.7%
-- C: 20.0%
-- D: 6.7%
+- A: 25.0%
+- AB: 33.3%
+- B: 8.3%
+- BC: 8.3%
+- C: 8.3%
+- D: 8.3%
 - F: 0.0%
 ================================================================================
 
---- Chunk 450 ---
+--- Chunk 458 ---
 Course: Second Semester German
 
-Average GPA: 3.889
+Average GPA: 3.341
 
 Grade Distribution:
-- A: 77.8%
-- AB: 22.2%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
+- A: 31.8%
+- AB: 36.4%
+- B: 18.2%
+- BC: 4.5%
+- C: 4.5%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 451 ---
+--- Chunk 459 ---
 Course: Third Semester German
 
-Average GPA: 3.750
+Average GPA: 3.556
 
 Grade Distribution:
-- A: 50.0%
-- AB: 50.0%
-- B: 0.0%
+- A: 44.4%
+- AB: 33.3%
+- B: 11.1%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 452 ---
-Course: Fourth Semester German
+--- Chunk 460 ---
+Course: Fourth Semester Dutch
 
 Average GPA: 3.636
 
@@ -6778,82 +6898,67 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 453 ---
-Course: Intermed German-Speak & Listen
-
-Average GPA: 3.944
-
-Grade Distribution:
-- A: 80.0%
-- AB: 10.0%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 454 ---
+--- Chunk 461 ---
 Course: Intermediate German-Reading
 
-Average GPA: 3.682
+Average GPA: 3.750
 
 Grade Distribution:
-- A: 72.7%
-- AB: 9.1%
-- B: 18.2%
+- A: 60.0%
+- AB: 30.0%
+- B: 10.0%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 455 ---
-Course: Intermediate German-Writing
+--- Chunk 462 ---
+Course: Nazi Culture
 
-Average GPA: 3.672
-
-Grade Distribution:
-- A: 58.8%
-- AB: 14.7%
-- B: 17.6%
-- BC: 2.9%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 456 ---
-Course: Spec Tops in Ger & World Lit/s
-
-Average GPA: 3.682
+Average GPA: 3.795
 
 Grade Distribution:
 - A: 63.6%
-- AB: 9.1%
-- B: 27.3%
+- AB: 31.8%
+- B: 4.5%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 457 ---
-Course: GERMAN
+--- Chunk 463 ---
+Course: Yiddish Lit & Culture, America
 
-Average GPA: 3.833
+Average GPA: 3.805
 
 Grade Distribution:
-- A: 77.8%
-- AB: 11.1%
-- B: 11.1%
+- A: 80.3%
+- AB: 7.6%
+- B: 6.1%
+- BC: 3.0%
+- C: 1.5%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 464 ---
+Course: Topics in German Literature
+
+Average GPA: 3.906
+
+Grade Distribution:
+- A: 87.5%
+- AB: 6.3%
+- B: 6.3%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 458 ---
+--- Chunk 465 ---
 Course: Interdis W Europ Studies Sm
 
 Average GPA: 3.671
@@ -6868,7 +6973,7 @@ Grade Distribution:
 - F: 0.8%
 ================================================================================
 
---- Chunk 459 ---
+--- Chunk 466 ---
 Course: Individual Research Thesis
 
 Average GPA: 3.841
@@ -6883,8 +6988,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 460 ---
-Course: Topics in Modern Hebrew Lit II
+--- Chunk 467 ---
+Course: Fourth Semester Hebrew
 
 Average GPA: 3.931
 
@@ -6898,7 +7003,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 461 ---
+--- Chunk 468 ---
 Course: HISTORY
 
 Average GPA: 3.806
@@ -6913,7 +7018,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 462 ---
+--- Chunk 469 ---
 Course: Historical Studies
 
 Average GPA: 3.538
@@ -6928,7 +7033,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 463 ---
+--- Chunk 470 ---
 Course: HISTORY
 
 Average GPA: 3.833
@@ -6943,7 +7048,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 464 ---
+--- Chunk 471 ---
 Course: Religion-Ancient Mediterranean
 
 Average GPA: 3.571
@@ -6958,8 +7063,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 465 ---
-Course: Independent Work
+--- Chunk 472 ---
+Course: Sem in Comparative History
 
 Average GPA: 3.671
 
@@ -6973,7 +7078,7 @@ Grade Distribution:
 - F: 1.0%
 ================================================================================
 
---- Chunk 466 ---
+--- Chunk 473 ---
 Course: Making of Modern Science
 
 Average GPA: 3.929
@@ -6988,7 +7093,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 467 ---
+--- Chunk 474 ---
 Course: Research and Thesis
 
 Average GPA: 3.723
@@ -7003,7 +7108,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 468 ---
+--- Chunk 475 ---
 Course: Interdis Studies Humanities
 
 Average GPA: 3.850
@@ -7018,7 +7123,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 469 ---
+--- Chunk 476 ---
 Course: Capstone Integration Seminar
 
 Average GPA: 3.638
@@ -7033,7 +7138,7 @@ Grade Distribution:
 - F: 1.0%
 ================================================================================
 
---- Chunk 470 ---
+--- Chunk 477 ---
 Course: Belong, Explore, Become
 
 Average GPA: 3.958
@@ -7048,7 +7153,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 471 ---
+--- Chunk 478 ---
 Course: How to Succeed in College
 
 Average GPA: 3.800
@@ -7063,7 +7168,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 472 ---
+--- Chunk 479 ---
 Course: L&S Career Development
 
 Average GPA: 3.767
@@ -7078,7 +7183,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 473 ---
+--- Chunk 480 ---
 Course: Communicating About Careers
 
 Average GPA: 3.811
@@ -7093,7 +7198,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 474 ---
+--- Chunk 481 ---
 Course: Intrnshp in Liberal Arts & Sci
 
 Average GPA: 3.837
@@ -7108,7 +7213,7 @@ Grade Distribution:
 - F: 0.4%
 ================================================================================
 
---- Chunk 475 ---
+--- Chunk 482 ---
 Course: A Global History of Now
 
 Average GPA: 3.714
@@ -7123,7 +7228,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 476 ---
+--- Chunk 483 ---
 Course: Growth&Develpmt Global Econ
 
 Average GPA: 3.952
@@ -7138,7 +7243,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 477 ---
+--- Chunk 484 ---
 Course: Topics in Global Security
 
 Average GPA: 3.688
@@ -7153,7 +7258,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 478 ---
+--- Chunk 485 ---
 Course: Topics:Culture-Age of Globlztn
 
 Average GPA: 3.786
@@ -7168,7 +7273,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 479 ---
+--- Chunk 486 ---
 Course: Topics-International Studies
 
 Average GPA: 3.664
@@ -7183,7 +7288,7 @@ Grade Distribution:
 - F: 0.3%
 ================================================================================
 
---- Chunk 480 ---
+--- Chunk 487 ---
 Course: First Semester Italian
 
 Average GPA: 3.750
@@ -7198,7 +7303,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 481 ---
+--- Chunk 488 ---
 Course: Second Semester Italian
 
 Average GPA: 3.773
@@ -7213,7 +7318,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 482 ---
+--- Chunk 489 ---
 Course: Muslims and Jews
 
 Average GPA: 3.759
@@ -7228,22 +7333,52 @@ Grade Distribution:
 - F: 6.2%
 ================================================================================
 
---- Chunk 483 ---
-Course: JOURN AND MASS COMMUNICA
+--- Chunk 490 ---
+Course: Information for Communication
 
-Average GPA: 3.672
+Average GPA: 3.946
 
 Grade Distribution:
-- A: 63.9%
-- AB: 14.3%
-- B: 16.8%
-- BC: 2.5%
-- C: 2.5%
+- A: 89.3%
+- AB: 10.7%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 484 ---
+--- Chunk 491 ---
+Course: Mass Media & Global Comm
+
+Average GPA: 2.833
+
+Grade Distribution:
+- A: 16.7%
+- AB: 33.3%
+- B: 16.7%
+- BC: 16.7%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 492 ---
+Course: Topics-Govt & Mass Media
+
+Average GPA: 3.889
+
+Grade Distribution:
+- A: 81.5%
+- AB: 14.8%
+- B: 3.7%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 493 ---
 Course: Thesis
 
 Average GPA: 3.748
@@ -7258,7 +7393,7 @@ Grade Distribution:
 - F: 0.4%
 ================================================================================
 
---- Chunk 485 ---
+--- Chunk 494 ---
 Course: Urban Design and Open Space
 
 Average GPA: 3.923
@@ -7273,7 +7408,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 486 ---
+--- Chunk 495 ---
 Course: Independent Studies
 
 Average GPA: 3.635
@@ -7288,7 +7423,7 @@ Grade Distribution:
 - F: 1.4%
 ================================================================================
 
---- Chunk 487 ---
+--- Chunk 496 ---
 Course: Latin Poetry
 
 Average GPA: 2.898
@@ -7303,7 +7438,7 @@ Grade Distribution:
 - F: 2.0%
 ================================================================================
 
---- Chunk 488 ---
+--- Chunk 497 ---
 Course: Topics in LACIS
 
 Average GPA: 3.830
@@ -7318,7 +7453,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 489 ---
+--- Chunk 498 ---
 Course: American Legal History to Pres
 
 Average GPA: 3.538
@@ -7333,7 +7468,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 490 ---
+--- Chunk 499 ---
 Course: Women and the Law
 
 Average GPA: 3.690
@@ -7348,7 +7483,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 491 ---
+--- Chunk 500 ---
 Course: Law and Public Education
 
 Average GPA: 3.880
@@ -7363,7 +7498,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 492 ---
+--- Chunk 501 ---
 Course: Directed Study
 
 Average GPA: 3.622
@@ -7378,7 +7513,7 @@ Grade Distribution:
 - F: 0.5%
 ================================================================================
 
---- Chunk 493 ---
+--- Chunk 502 ---
 Course: LIBRARY & INFORMATION STUD
 
 Average GPA: 3.869
@@ -7393,7 +7528,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 494 ---
+--- Chunk 503 ---
 Course: History and Future of Books
 
 Average GPA: 3.651
@@ -7408,7 +7543,7 @@ Grade Distribution:
 - F: 1.4%
 ================================================================================
 
---- Chunk 495 ---
+--- Chunk 504 ---
 Course: Independent Reading & Research
 
 Average GPA: 3.651
@@ -7423,7 +7558,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 496 ---
+--- Chunk 505 ---
+Course: Concepts of Data & Info Scienc
+
+Average GPA: 3.935
+
+Grade Distribution:
+- A: 92.9%
+- AB: 2.4%
+- B: 3.5%
+- BC: 1.2%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 506 ---
 Course: Intro to Web Development
 
 Average GPA: 3.833
@@ -7438,7 +7588,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 497 ---
+--- Chunk 507 ---
 Course: Code and Power
 
 Average GPA: 3.417
@@ -7453,7 +7603,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 498 ---
+--- Chunk 508 ---
 Course: Introduction to Text Mining
 
 Average GPA: 3.829
@@ -7465,10 +7615,10 @@ Grade Distribution:
 - BC: 2.8%
 - C: 2.8%
 - D: 1.4%
-- F: 0.0%
+- F: 1.4%
 ================================================================================
 
---- Chunk 499 ---
+--- Chunk 509 ---
 Course: Human Factors in Infosec
 
 Average GPA: 2.600
@@ -7483,22 +7633,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 500 ---
-Course: LIBRARY & INFORMATION STUD
-
-Average GPA: 2.100
-
-Grade Distribution:
-- A: 16.7%
-- AB: 16.7%
-- B: 16.7%
-- BC: 33.3%
-- C: 16.7%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 501 ---
+--- Chunk 510 ---
 Course: Digital Health
 
 Average GPA: 3.929
@@ -7513,7 +7648,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 502 ---
+--- Chunk 511 ---
+Course: Info Perspectives, Contexts
+
+Average GPA: 3.982
+
+Grade Distribution:
+- A: 96.4%
+- AB: 3.6%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 512 ---
 Course: User Experience Design 2
 
 Average GPA: 3.875
@@ -7528,14 +7678,14 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 503 ---
+--- Chunk 513 ---
 Course: Multicultural Lit for Youth
 
 Average GPA: 3.833
 
 Grade Distribution:
 - A: 83.3%
-- AB: 0.0%
+- AB: 16.7%
 - B: 0.0%
 - BC: 0.0%
 - C: 0.0%
@@ -7543,7 +7693,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 504 ---
+--- Chunk 514 ---
 Course: Reference & Info Service
 
 Average GPA: 3.925
@@ -7558,7 +7708,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 505 ---
+--- Chunk 515 ---
 Course: Digital Tools, Trends, Debates
 
 Average GPA: 3.750
@@ -7573,7 +7723,97 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 506 ---
+--- Chunk 516 ---
+Course: Cataloging & Classification
+
+Average GPA: 3.923
+
+Grade Distribution:
+- A: 84.6%
+- AB: 15.4%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 517 ---
+Course: Collection Management
+
+Average GPA: 3.692
+
+Grade Distribution:
+- A: 92.3%
+- AB: 7.7%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 518 ---
+Course: Preserv/Conserv-Lib Matls
+
+Average GPA: 3.731
+
+Grade Distribution:
+- A: 48.7%
+- AB: 48.7%
+- B: 2.6%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 519 ---
+Course: Data Management for Info Prof
+
+Average GPA: 3.806
+
+Grade Distribution:
+- A: 83.3%
+- AB: 5.6%
+- B: 5.6%
+- BC: 5.6%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 520 ---
+Course: College & Univ Libraries
+
+Average GPA: 3.813
+
+Grade Distribution:
+- A: 67.5%
+- AB: 30.0%
+- B: 2.5%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 521 ---
+Course: Digital Humanities Analytics
+
+Average GPA: 3.944
+
+Grade Distribution:
+- A: 88.9%
+- AB: 11.1%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 522 ---
 Course: Independent Reading & Rsch
 
 Average GPA: 3.780
@@ -7588,7 +7828,7 @@ Grade Distribution:
 - F: 0.7%
 ================================================================================
 
---- Chunk 507 ---
+--- Chunk 523 ---
 Course: Human Language
 
 Average GPA: 3.900
@@ -7603,7 +7843,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 508 ---
+--- Chunk 524 ---
 Course: American Sign Language 1
 
 Average GPA: 3.944
@@ -7618,7 +7858,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 509 ---
+--- Chunk 525 ---
 Course: American Sign Language 2
 
 Average GPA: 3.571
@@ -7633,7 +7873,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 510 ---
+--- Chunk 526 ---
 Course: Independent Reading
 
 Average GPA: 3.631
@@ -7648,7 +7888,22 @@ Grade Distribution:
 - F: 1.7%
 ================================================================================
 
---- Chunk 511 ---
+--- Chunk 527 ---
+Course: LITERATURE IN TRANSLATION
+
+Average GPA: 2.974
+
+Grade Distribution:
+- A: 45.0%
+- AB: 10.0%
+- B: 5.0%
+- BC: 5.0%
+- C: 15.0%
+- D: 10.0%
+- F: 5.0%
+================================================================================
+
+--- Chunk 528 ---
 Course: Dante's Divine Comedy
 
 Average GPA: 3.950
@@ -7663,7 +7918,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 512 ---
+--- Chunk 529 ---
 Course: Scand Lit in Tran-20th C
 
 Average GPA: 3.611
@@ -7678,7 +7933,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 513 ---
+--- Chunk 530 ---
 Course: Topics in French Lit&Cult
 
 Average GPA: 3.306
@@ -7693,7 +7948,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 514 ---
+--- Chunk 531 ---
 Course: In Trans:Topics-Italian Lit
 
 Average GPA: 3.606
@@ -7708,7 +7963,22 @@ Grade Distribution:
 - F: 1.5%
 ================================================================================
 
---- Chunk 515 ---
+--- Chunk 532 ---
+Course: MATHEMATICS
+
+Average GPA: 3.469
+
+Grade Distribution:
+- A: 50.0%
+- AB: 6.3%
+- B: 31.3%
+- BC: 12.5%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 533 ---
 Course: Tech-Ordinary Diff Equation
 
 Average GPA: 3.082
@@ -7723,7 +7993,22 @@ Grade Distribution:
 - F: 2.2%
 ================================================================================
 
---- Chunk 516 ---
+--- Chunk 534 ---
+Course: Appl Mathematical Analysis
+
+Average GPA: 2.880
+
+Grade Distribution:
+- A: 20.0%
+- AB: 32.0%
+- B: 20.0%
+- BC: 12.0%
+- C: 12.0%
+- D: 4.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 535 ---
 Course: Introductory Probability
 
 Average GPA: 2.959
@@ -7738,52 +8023,52 @@ Grade Distribution:
 - F: 2.5%
 ================================================================================
 
---- Chunk 517 ---
-Course: Elem Matrix & Linear Algebra
+--- Chunk 536 ---
+Course: Linear Algebra
 
-Average GPA: 3.485
+Average GPA: 2.759
 
 Grade Distribution:
-- A: 44.1%
-- AB: 26.5%
-- B: 20.6%
-- BC: 5.9%
-- C: 2.9%
+- A: 34.5%
+- AB: 6.9%
+- B: 17.2%
+- BC: 6.9%
+- C: 17.2%
+- D: 10.3%
+- F: 6.9%
+================================================================================
+
+--- Chunk 537 ---
+Course: Theory of Single Variable Calc
+
+Average GPA: 3.617
+
+Grade Distribution:
+- A: 54.8%
+- AB: 19.4%
+- B: 12.9%
+- BC: 9.7%
+- C: 3.2%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 518 ---
-Course: Topics-Multi-Var Calc&Diff Eq
+--- Chunk 538 ---
+Course: Intro-Theory of Probability
 
-Average GPA: 3.250
-
-Grade Distribution:
-- A: 36.8%
-- AB: 15.8%
-- B: 26.3%
-- BC: 7.9%
-- C: 10.5%
-- D: 2.6%
-- F: 0.0%
-================================================================================
-
---- Chunk 519 ---
-Course: Theory of Single Variable Calc
-
-Average GPA: 3.085
+Average GPA: 3.188
 
 Grade Distribution:
-- A: 34.1%
-- AB: 12.2%
-- B: 26.8%
-- BC: 9.8%
-- C: 9.8%
-- D: 4.9%
-- F: 2.4%
+- A: 43.8%
+- AB: 9.4%
+- B: 21.9%
+- BC: 9.4%
+- C: 9.4%
+- D: 3.1%
+- F: 3.1%
 ================================================================================
 
---- Chunk 520 ---
+--- Chunk 539 ---
 Course: Applied Linear Algebra
 
 Average GPA: 3.516
@@ -7798,7 +8083,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 521 ---
+--- Chunk 540 ---
 Course: Mathematics for Teachers
 
 Average GPA: 3.031
@@ -7813,7 +8098,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 522 ---
+--- Chunk 541 ---
 Course: Ordinary Differential Equations
 
 Average GPA: 3.238
@@ -7828,7 +8113,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 523 ---
+--- Chunk 542 ---
 Course: Math Methods in Data Science
 
 Average GPA: 3.250
@@ -7843,7 +8128,7 @@ Grade Distribution:
 - F: 2.7%
 ================================================================================
 
---- Chunk 524 ---
+--- Chunk 543 ---
 Course: Intro-Measure & Integration
 
 Average GPA: 3.407
@@ -7858,7 +8143,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 525 ---
+--- Chunk 544 ---
 Course: Topics in Math Data Science
 
 Average GPA: 3.958
@@ -7873,7 +8158,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 526 ---
+--- Chunk 545 ---
 Course: Seminar-Algebra
 
 Average GPA: 2.291
@@ -7888,7 +8173,7 @@ Grade Distribution:
 - F: 11.6%
 ================================================================================
 
---- Chunk 527 ---
+--- Chunk 546 ---
 Course: Seminar-Foundations of Math
 
 Average GPA: 2.990
@@ -7903,7 +8188,7 @@ Grade Distribution:
 - F: 2.3%
 ================================================================================
 
---- Chunk 528 ---
+--- Chunk 547 ---
 Course: Intro to Middle High German
 
 Average GPA: 3.694
@@ -7918,22 +8203,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 529 ---
-Course: ATMOSPHERIC & OCEANIC SCIE
+--- Chunk 548 ---
+Course: Mesoscale Meteorology
 
-Average GPA: 2.520
+Average GPA: 3.500
 
 Grade Distribution:
-- A: 13.3%
-- AB: 6.7%
-- B: 17.0%
-- BC: 22.2%
-- C: 21.5%
-- D: 8.9%
-- F: 3.7%
+- A: 16.7%
+- AB: 50.0%
+- B: 16.7%
+- BC: 16.7%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
 ================================================================================
 
---- Chunk 530 ---
+--- Chunk 549 ---
 Course: Advanced Independent Study
 
 Average GPA: 3.348
@@ -7948,7 +8233,22 @@ Grade Distribution:
 - F: 1.0%
 ================================================================================
 
---- Chunk 531 ---
+--- Chunk 550 ---
+Course: Directed Studies-Molec Biol
+
+Average GPA: 3.553
+
+Grade Distribution:
+- A: 61.7%
+- AB: 14.2%
+- B: 10.8%
+- BC: 2.5%
+- C: 0.8%
+- D: 0.8%
+- F: 4.2%
+================================================================================
+
+--- Chunk 551 ---
 Course: Intro-Mus Cult of the World
 
 Average GPA: 3.742
@@ -7963,52 +8263,52 @@ Grade Distribution:
 - F: 2.1%
 ================================================================================
 
---- Chunk 532 ---
-Course: Music in Performance
-
-Average GPA: 3.516
-
-Grade Distribution:
-- A: 48.4%
-- AB: 29.0%
-- B: 12.9%
-- BC: 3.2%
-- C: 3.2%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 533 ---
+--- Chunk 552 ---
 Course: Musica Practica 2
 
-Average GPA: 3.809
+Average GPA: 3.627
 
 Grade Distribution:
-- A: 82.4%
-- AB: 14.7%
-- B: 2.9%
-- BC: 0.0%
-- C: 0.0%
+- A: 56.9%
+- AB: 25.5%
+- B: 5.9%
+- BC: 9.8%
+- C: 2.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 534 ---
+--- Chunk 553 ---
 Course: Basic Concepts-Music Theory
 
-Average GPA: 3.765
+Average GPA: 3.411
 
 Grade Distribution:
-- A: 58.8%
-- AB: 35.3%
-- B: 0.0%
+- A: 49.2%
+- AB: 14.8%
+- B: 9.8%
+- BC: 8.2%
+- C: 4.9%
+- D: 4.9%
+- F: 1.6%
+================================================================================
+
+--- Chunk 554 ---
+Course: Musica Pract:Aural Skills 2
+
+Average GPA: 3.607
+
+Grade Distribution:
+- A: 71.4%
+- AB: 14.3%
+- B: 7.1%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 535 ---
+--- Chunk 555 ---
 Course: Intro. Conducting and Pedagogy
 
 Average GPA: 3.938
@@ -8023,7 +8323,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 536 ---
+--- Chunk 556 ---
 Course: Opera Workshop
 
 Average GPA: 3.923
@@ -8038,7 +8338,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 537 ---
+--- Chunk 557 ---
 Course: Musica Pract:Aural Skills 4
 
 Average GPA: 3.929
@@ -8053,7 +8353,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 538 ---
+--- Chunk 558 ---
 Course: Teaching Pop Inst Music 2
 
 Average GPA: 3.458
@@ -8062,13 +8362,13 @@ Grade Distribution:
 - A: 66.7%
 - AB: 16.7%
 - B: 8.3%
-- BC: 0.0%
+- BC: 8.3%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 539 ---
+--- Chunk 559 ---
 Course: Marching Band Techniques
 
 Average GPA: 3.947
@@ -8083,7 +8383,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 540 ---
+--- Chunk 560 ---
 Course: Concert Choir
 
 Average GPA: 3.952
@@ -8098,7 +8398,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 541 ---
+--- Chunk 561 ---
+Course: Independent Work
+
+Average GPA: 3.857
+
+Grade Distribution:
+- A: 71.4%
+- AB: 28.6%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 562 ---
 Course: Seminar in Composition
 
 Average GPA: 3.793
@@ -8113,7 +8428,7 @@ Grade Distribution:
 - F: 1.0%
 ================================================================================
 
---- Chunk 542 ---
+--- Chunk 563 ---
 Course: Intro to Performance: Voice
 
 Average GPA: 3.955
@@ -8128,7 +8443,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 543 ---
+--- Chunk 564 ---
 Course: Elem/Intmed Tuba
 
 Average GPA: 3.722
@@ -8143,7 +8458,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 544 ---
+--- Chunk 565 ---
 Course: Elem/Intermediate Viola
 
 Average GPA: 3.917
@@ -8158,8 +8473,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 545 ---
-Course: DMA Recital
+--- Chunk 566 ---
+Course: MUSIC-PERFORMANCE
 
 Average GPA: 3.958
 
@@ -8173,22 +8488,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 546 ---
-Course: Introduction to Philosophy
+--- Chunk 567 ---
+Course: Reason in Communication
 
-Average GPA: 3.325
+Average GPA: 3.331
 
 Grade Distribution:
-- A: 28.6%
-- AB: 30.2%
-- B: 25.4%
-- BC: 9.5%
-- C: 6.3%
-- D: 0.0%
+- A: 45.8%
+- AB: 11.9%
+- B: 23.7%
+- BC: 10.2%
+- C: 3.4%
+- D: 5.1%
 - F: 0.0%
 ================================================================================
 
---- Chunk 547 ---
+--- Chunk 568 ---
 Course: Elementary Logic
 
 Average GPA: 3.524
@@ -8200,10 +8515,55 @@ Grade Distribution:
 - BC: 2.4%
 - C: 1.6%
 - D: 0.8%
+- F: 1.6%
+================================================================================
+
+--- Chunk 569 ---
+Course: Introductory Ethics
+
+Average GPA: 3.907
+
+Grade Distribution:
+- A: 84.4%
+- AB: 13.3%
+- B: 1.5%
+- BC: 0.7%
+- C: 0.0%
+- D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 548 ---
+--- Chunk 570 ---
+Course: Ethics in Business
+
+Average GPA: 3.906
+
+Grade Distribution:
+- A: 90.9%
+- AB: 3.0%
+- B: 1.5%
+- BC: 1.5%
+- C: 3.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 571 ---
+Course: Topics-Feminism&Philosophy
+
+Average GPA: 3.714
+
+Grade Distribution:
+- A: 71.4%
+- AB: 19.0%
+- B: 4.8%
+- BC: 4.8%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 572 ---
 Course: Metaphysics
 
 Average GPA: 3.795
@@ -8218,7 +8578,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 549 ---
+--- Chunk 573 ---
 Course: Reading Seminar
 
 Average GPA: 3.833
@@ -8233,7 +8593,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 550 ---
+--- Chunk 574 ---
 Course: Seminar-Ethics
 
 Average GPA: 3.625
@@ -8248,7 +8608,7 @@ Grade Distribution:
 - F: 0.6%
 ================================================================================
 
---- Chunk 551 ---
+--- Chunk 575 ---
 Course: General Physics
 
 Average GPA: 2.896
@@ -8263,7 +8623,7 @@ Grade Distribution:
 - F: 1.3%
 ================================================================================
 
---- Chunk 552 ---
+--- Chunk 576 ---
 Course: General Physics
 
 Average GPA: 3.145
@@ -8278,37 +8638,37 @@ Grade Distribution:
 - F: 0.5%
 ================================================================================
 
---- Chunk 553 ---
-Course: Physics in the Arts
+--- Chunk 577 ---
+Course: Ideas of Modern Physics
 
-Average GPA: 3.667
+Average GPA: 3.722
 
 Grade Distribution:
-- A: 51.9%
-- AB: 32.7%
+- A: 62.2%
+- AB: 24.4%
 - B: 9.6%
-- BC: 1.9%
-- C: 1.9%
-- D: 1.9%
+- BC: 3.0%
+- C: 0.7%
+- D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 554 ---
+--- Chunk 578 ---
 Course: General Physics
 
-Average GPA: 2.903
+Average GPA: 2.874
 
 Grade Distribution:
-- A: 14.9%
-- AB: 23.1%
-- B: 23.5%
-- BC: 17.2%
-- C: 15.8%
+- A: 18.6%
+- AB: 16.6%
+- B: 22.6%
+- BC: 19.6%
+- C: 16.1%
 - D: 4.5%
-- F: 0.9%
+- F: 1.5%
 ================================================================================
 
---- Chunk 555 ---
+--- Chunk 579 ---
 Course: General Physics
 
 Average GPA: 3.034
@@ -8323,52 +8683,82 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 556 ---
-Course: Intmed Lab-Mech&Mod Physics
+--- Chunk 580 ---
+Course: General Physics
 
-Average GPA: 3.735
+Average GPA: 2.996
 
 Grade Distribution:
-- A: 47.1%
-- AB: 52.9%
-- B: 0.0%
+- A: 18.3%
+- AB: 19.1%
+- B: 29.8%
+- BC: 21.4%
+- C: 6.9%
+- D: 3.1%
+- F: 1.5%
+================================================================================
+
+--- Chunk 581 ---
+Course: Intro to Modern Physics
+
+Average GPA: 3.854
+
+Grade Distribution:
+- A: 86.2%
+- AB: 6.2%
+- B: 3.1%
+- BC: 1.5%
+- C: 3.1%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 582 ---
+Course: Physics Today
+
+Average GPA: 3.750
+
+Grade Distribution:
+- A: 56.3%
+- AB: 37.5%
+- B: 6.3%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 557 ---
-Course: Machine Learning in Physics
+--- Chunk 583 ---
+Course: Mechanics
 
-Average GPA: 3.950
+Average GPA: 3.500
 
 Grade Distribution:
-- A: 90.0%
-- AB: 10.0%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
+- A: 33.8%
+- AB: 38.0%
+- B: 19.7%
+- BC: 7.0%
+- C: 1.4%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 558 ---
-Course: Colloquium
+--- Chunk 584 ---
+Course: Research
 
-Average GPA: 3.121
+Average GPA: 3.191
 
 Grade Distribution:
-- A: 38.4%
-- AB: 16.8%
-- B: 16.0%
-- BC: 12.0%
-- C: 12.8%
-- D: 2.4%
-- F: 0.8%
+- A: 33.1%
+- AB: 20.4%
+- B: 19.0%
+- BC: 12.6%
+- C: 7.9%
+- D: 1.5%
+- F: 0.7%
 ================================================================================
 
---- Chunk 559 ---
+--- Chunk 585 ---
 Course: POLITICAL SCIENCE
 
 Average GPA: 3.434
@@ -8383,7 +8773,7 @@ Grade Distribution:
 - F: 0.5%
 ================================================================================
 
---- Chunk 560 ---
+--- Chunk 586 ---
 Course: Latin America-Introduction
 
 Average GPA: 3.654
@@ -8398,7 +8788,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 561 ---
+--- Chunk 587 ---
 Course: Islam and Politics
 
 Average GPA: 3.849
@@ -8413,7 +8803,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 562 ---
+--- Chunk 588 ---
 Course: Politics Gender Rights MidEast
 
 Average GPA: 3.595
@@ -8428,7 +8818,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 563 ---
+--- Chunk 589 ---
 Course: Sem-Adv Methodology
 
 Average GPA: 3.938
@@ -8443,8 +8833,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 564 ---
-Course: Comparative Politic Colloquium
+--- Chunk 590 ---
+Course: American Politics Workshop
 
 Average GPA: 3.632
 
@@ -8458,7 +8848,37 @@ Grade Distribution:
 - F: 0.6%
 ================================================================================
 
---- Chunk 565 ---
+--- Chunk 591 ---
+Course: Intro-Luso-Brazilian Lits
+
+Average GPA: 3.708
+
+Grade Distribution:
+- A: 75.0%
+- AB: 16.7%
+- B: 8.3%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 592 ---
+Course: Thesis
+
+Average GPA: 3.664
+
+Grade Distribution:
+- A: 67.4%
+- AB: 14.0%
+- B: 9.3%
+- BC: 2.3%
+- C: 2.3%
+- D: 2.3%
+- F: 2.3%
+================================================================================
+
+--- Chunk 593 ---
 Course: PSYCHOLOGY
 
 Average GPA: 3.650
@@ -8473,7 +8893,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 566 ---
+--- Chunk 594 ---
 Course: Introduction to Psychology
 
 Average GPA: 2.740
@@ -8488,7 +8908,7 @@ Grade Distribution:
 - F: 6.0%
 ================================================================================
 
---- Chunk 567 ---
+--- Chunk 595 ---
 Course: Basic Stats for Psychology
 
 Average GPA: 3.375
@@ -8503,7 +8923,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 568 ---
+--- Chunk 596 ---
 Course: Behavioral Neuroscience
 
 Average GPA: 3.156
@@ -8518,7 +8938,7 @@ Grade Distribution:
 - F: 0.6%
 ================================================================================
 
---- Chunk 569 ---
+--- Chunk 597 ---
 Course: Child Development
 
 Average GPA: 3.212
@@ -8533,7 +8953,7 @@ Grade Distribution:
 - F: 1.7%
 ================================================================================
 
---- Chunk 570 ---
+--- Chunk 598 ---
 Course: Psych Effects of the Internet
 
 Average GPA: 3.920
@@ -8548,7 +8968,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 571 ---
+--- Chunk 599 ---
 Course: Dsgn&Analys-Psych Exprmnts II
 
 Average GPA: 3.750
@@ -8563,7 +8983,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 572 ---
+--- Chunk 600 ---
 Course: Classic Iss in Social Psych
 
 Average GPA: 3.778
@@ -8578,8 +8998,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 573 ---
-Course: Computational Cognitive Sci
+--- Chunk 601 ---
+Course: Research
 
 Average GPA: 3.416
 
@@ -8593,22 +9013,22 @@ Grade Distribution:
 - F: 1.1%
 ================================================================================
 
---- Chunk 574 ---
+--- Chunk 602 ---
 Course: Adv Pub Pol in Divided America
 
-Average GPA: 3.810
+Average GPA: 3.800
 
 Grade Distribution:
-- A: 69.0%
-- AB: 24.1%
-- B: 6.9%
+- A: 60.0%
+- AB: 40.0%
+- B: 0.0%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 575 ---
+--- Chunk 603 ---
 Course: Workshop in Public Policy
 
 Average GPA: 3.750
@@ -8623,8 +9043,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 576 ---
-Course: Adv Stat Meths-Pub Pol Analys
+--- Chunk 604 ---
+Course: Workshop-Int'l Public Affairs
 
 Average GPA: 3.700
 
@@ -8638,7 +9058,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 577 ---
+--- Chunk 605 ---
 Course: Workshop in Public Affairs
 
 Average GPA: 3.706
@@ -8653,7 +9073,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 578 ---
+--- Chunk 606 ---
+Course: Intro to Policy Analysis
+
+Average GPA: 3.833
+
+Grade Distribution:
+- A: 66.7%
+- AB: 33.3%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 607 ---
 Course: Public Management
 
 Average GPA: 3.545
@@ -8668,7 +9103,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 579 ---
+--- Chunk 608 ---
 Course: Topics in Public Affairs
 
 Average GPA: 3.772
@@ -8683,7 +9118,7 @@ Grade Distribution:
 - F: 0.1%
 ================================================================================
 
---- Chunk 580 ---
+--- Chunk 609 ---
 Course: The Perfectible Body
 
 Average GPA: 3.652
@@ -8698,22 +9133,7 @@ Grade Distribution:
 - F: 0.4%
 ================================================================================
 
---- Chunk 581 ---
-Course: SCANDINAVIAN STUDIES
-
-Average GPA: 3.750
-
-Grade Distribution:
-- A: 66.7%
-- AB: 16.7%
-- B: 16.7%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 582 ---
+--- Chunk 610 ---
 Course: History-Scand Since 1815
 
 Average GPA: 3.938
@@ -8728,7 +9148,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 583 ---
+--- Chunk 611 ---
 Course: Scand Decadence-European Cntxt
 
 Average GPA: 3.785
@@ -8743,7 +9163,22 @@ Grade Distribution:
 - F: 1.0%
 ================================================================================
 
---- Chunk 584 ---
+--- Chunk 612 ---
+Course: Sci, Technol & Med in Society
+
+Average GPA: 3.698
+
+Grade Distribution:
+- A: 61.5%
+- AB: 20.8%
+- B: 7.3%
+- BC: 3.1%
+- C: 1.0%
+- D: 1.0%
+- F: 5.2%
+================================================================================
+
+--- Chunk 613 ---
 Course: Russia: An Interdis Survey
 
 Average GPA: 3.917
@@ -8758,7 +9193,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 585 ---
+--- Chunk 614 ---
 Course: Contemporary Russian Culture
 
 Average GPA: 3.833
@@ -8773,7 +9208,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 586 ---
+--- Chunk 615 ---
 Course: Seminar: Slavic Lit & Culture
 
 Average GPA: 3.626
@@ -8788,7 +9223,97 @@ Grade Distribution:
 - F: 3.2%
 ================================================================================
 
---- Chunk 587 ---
+--- Chunk 616 ---
+Course: SOCIAL WORK
+
+Average GPA: 3.973
+
+Grade Distribution:
+- A: 94.7%
+- AB: 5.3%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 617 ---
+Course: Cont Issues-Social Welfare
+
+Average GPA: 3.885
+
+Grade Distribution:
+- A: 76.9%
+- AB: 23.1%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 618 ---
+Course: Homelessness: Service Learning
+
+Average GPA: 3.929
+
+Grade Distribution:
+- A: 85.7%
+- AB: 14.3%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 619 ---
+Course: Ind&Comm
+
+Average GPA: 3.870
+
+Grade Distribution:
+- A: 82.6%
+- AB: 8.7%
+- B: 8.7%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 620 ---
+Course: Methods-Social Wrk Research
+
+Average GPA: 3.900
+
+Grade Distribution:
+- A: 92.0%
+- AB: 4.0%
+- B: 4.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 621 ---
+Course: Social Policy
+
+Average GPA: 3.944
+
+Grade Distribution:
+- A: 88.9%
+- AB: 11.1%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 622 ---
 Course: Intrdis Care-Chld/Spec Hlth Nd
 
 Average GPA: 3.938
@@ -8803,7 +9328,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 588 ---
+--- Chunk 623 ---
 Course: Soc Work Prac in Schools II
 
 Average GPA: 3.845
@@ -8818,7 +9343,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 589 ---
+--- Chunk 624 ---
 Course: Mental Hlth Policies&Services
 
 Average GPA: 3.933
@@ -8833,7 +9358,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 590 ---
+--- Chunk 625 ---
 Course: Advanced Macro Practice
 
 Average GPA: 3.900
@@ -8848,7 +9373,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 591 ---
+--- Chunk 626 ---
 Course: Cog & MH Treatments for Adults
 
 Average GPA: 3.735
@@ -8863,7 +9388,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 592 ---
+--- Chunk 627 ---
 Course: Independent Reading
 
 Average GPA: 3.789
@@ -8878,7 +9403,7 @@ Grade Distribution:
 - F: 0.2%
 ================================================================================
 
---- Chunk 593 ---
+--- Chunk 628 ---
 Course: SOCIOLOGY
 
 Average GPA: 3.467
@@ -8893,52 +9418,52 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 594 ---
-Course: Criminal Justice in America
+--- Chunk 629 ---
+Course: Soc of Race & Ethnicity in US
 
-Average GPA: 3.166
+Average GPA: 3.554
 
 Grade Distribution:
-- A: 26.8%
-- AB: 30.9%
-- B: 18.8%
-- BC: 8.7%
-- C: 8.7%
-- D: 3.4%
-- F: 2.0%
+- A: 47.6%
+- AB: 27.4%
+- B: 15.5%
+- BC: 6.0%
+- C: 1.2%
+- D: 1.2%
+- F: 1.2%
 ================================================================================
 
---- Chunk 595 ---
-Course: Survey of Sociology
+--- Chunk 630 ---
+Course: The Sociological Enterprise
 
-Average GPA: 3.794
+Average GPA: 3.840
 
 Grade Distribution:
-- A: 70.6%
-- AB: 17.6%
-- B: 11.8%
+- A: 79.2%
+- AB: 13.2%
+- B: 5.7%
+- BC: 1.9%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 631 ---
+Course: Research Practicum
+
+Average GPA: 3.800
+
+Grade Distribution:
+- A: 60.0%
+- AB: 40.0%
+- B: 0.0%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 596 ---
-Course: Modern Jewish Thought
-
-Average GPA: 3.050
-
-Grade Distribution:
-- A: 10.0%
-- AB: 50.0%
-- B: 30.0%
-- BC: 10.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 597 ---
+--- Chunk 632 ---
 Course: Classical Soc Theory
 
 Average GPA: 3.100
@@ -8953,7 +9478,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 598 ---
+--- Chunk 633 ---
 Course: Rsch-Demogrphy&Ecol Trainee
 
 Average GPA: 3.462
@@ -8968,7 +9493,7 @@ Grade Distribution:
 - F: 1.0%
 ================================================================================
 
---- Chunk 599 ---
+--- Chunk 634 ---
 Course: Linguistic Study of Spanish
 
 Average GPA: 3.694
@@ -8983,7 +9508,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 600 ---
+--- Chunk 635 ---
 Course: Spanish Rep & Visibility in US
 
 Average GPA: 3.962
@@ -8998,7 +9523,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 601 ---
+--- Chunk 636 ---
 Course: Spanish Phonetics
 
 Average GPA: 3.860
@@ -9013,7 +9538,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 602 ---
+--- Chunk 637 ---
 Course: Advanced Conversation
 
 Average GPA: 3.705
@@ -9028,7 +9553,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 603 ---
+--- Chunk 638 ---
 Course: Culture and the Environment
 
 Average GPA: 3.750
@@ -9043,7 +9568,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 604 ---
+--- Chunk 639 ---
 Course: Contemporary Mayas: Culture
 
 Average GPA: 3.804
@@ -9058,7 +9583,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 605 ---
+--- Chunk 640 ---
 Course: Topics in Hispanic Culture
 
 Average GPA: 3.969
@@ -9073,7 +9598,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 606 ---
+--- Chunk 641 ---
 Course: Independent Reading
 
 Average GPA: 3.601
@@ -9088,7 +9613,7 @@ Grade Distribution:
 - F: 0.5%
 ================================================================================
 
---- Chunk 607 ---
+--- Chunk 642 ---
 Course: STATISTICS
 
 Average GPA: 3.089
@@ -9103,7 +9628,7 @@ Grade Distribution:
 - F: 0.7%
 ================================================================================
 
---- Chunk 608 ---
+--- Chunk 643 ---
 Course: Data Science Modeling I
 
 Average GPA: 2.918
@@ -9118,7 +9643,7 @@ Grade Distribution:
 - F: 1.5%
 ================================================================================
 
---- Chunk 609 ---
+--- Chunk 644 ---
 Course: Intro-Statistical Methods
 
 Average GPA: 3.726
@@ -9133,7 +9658,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 610 ---
+--- Chunk 645 ---
 Course: R for Statistics I
 
 Average GPA: 3.740
@@ -9148,7 +9673,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 611 ---
+--- Chunk 646 ---
 Course: R for Statistics II
 
 Average GPA: 3.839
@@ -9163,23 +9688,23 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 612 ---
-Course: Intro to Prob & Math Stat
+--- Chunk 647 ---
+Course: Intro to Prob & Math Stat II
 
-Average GPA: 3.273
+Average GPA: 3.138
 
 Grade Distribution:
-- A: 43.6%
-- AB: 12.7%
-- B: 21.8%
-- BC: 5.5%
-- C: 12.7%
-- D: 3.6%
-- F: 0.0%
+- A: 33.8%
+- AB: 9.2%
+- B: 29.2%
+- BC: 15.4%
+- C: 9.2%
+- D: 1.5%
+- F: 1.5%
 ================================================================================
 
---- Chunk 613 ---
-Course: Intro Math Stat (Theo,Meth)
+--- Chunk 648 ---
+Course: Intro Math Stat (Theo,Meth) II
 
 Average GPA: 2.996
 
@@ -9193,7 +9718,7 @@ Grade Distribution:
 - F: 0.8%
 ================================================================================
 
---- Chunk 614 ---
+--- Chunk 649 ---
 Course: Applied Regression Analysis
 
 Average GPA: 2.705
@@ -9208,7 +9733,7 @@ Grade Distribution:
 - F: 2.7%
 ================================================================================
 
---- Chunk 615 ---
+--- Chunk 650 ---
 Course: Data Science Modeling II
 
 Average GPA: 3.457
@@ -9223,7 +9748,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 616 ---
+--- Chunk 651 ---
 Course: STATISTICS
 
 Average GPA: 2.893
@@ -9238,7 +9763,7 @@ Grade Distribution:
 - F: 1.9%
 ================================================================================
 
---- Chunk 617 ---
+--- Chunk 652 ---
 Course: Stat Expermntl Design
 
 Average GPA: 3.136
@@ -9253,7 +9778,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 618 ---
+--- Chunk 653 ---
 Course: Intro-Theory of Probability
 
 Average GPA: 3.479
@@ -9264,11 +9789,11 @@ Grade Distribution:
 - B: 21.9%
 - BC: 7.3%
 - C: 2.1%
-- D: 0.0%
+- D: 1.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 619 ---
+--- Chunk 654 ---
 Course: Statistical Data Visualization
 
 Average GPA: 3.488
@@ -9278,12 +9803,12 @@ Grade Distribution:
 - AB: 22.0%
 - B: 20.7%
 - BC: 12.2%
-- C: 0.0%
+- C: 2.4%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 620 ---
+--- Chunk 655 ---
 Course: Machine Learning
 
 Average GPA: 3.696
@@ -9293,12 +9818,12 @@ Grade Distribution:
 - AB: 36.0%
 - B: 9.3%
 - BC: 1.3%
-- C: 0.0%
+- C: 1.3%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 621 ---
+--- Chunk 656 ---
 Course: Deep Learning
 
 Average GPA: 3.645
@@ -9313,7 +9838,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 622 ---
+--- Chunk 657 ---
 Course: Intro-Combinatorics
 
 Average GPA: 3.883
@@ -9328,7 +9853,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 623 ---
+--- Chunk 658 ---
 Course: Computing in Data Sci & Stat
 
 Average GPA: 3.471
@@ -9338,12 +9863,12 @@ Grade Distribution:
 - AB: 33.3%
 - B: 16.7%
 - BC: 11.1%
-- C: 0.0%
+- C: 5.6%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 624 ---
+--- Chunk 659 ---
 Course: Stat Inference - Data Sci
 
 Average GPA: 3.435
@@ -9358,7 +9883,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 625 ---
+--- Chunk 660 ---
 Course: Thry&Appl-Regres&Analys Var II
 
 Average GPA: 3.947
@@ -9373,8 +9898,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 626 ---
-Course: STATISTICS
+--- Chunk 661 ---
+Course: Statistical Consulting
 
 Average GPA: 3.200
 
@@ -9388,22 +9913,7 @@ Grade Distribution:
 - F: 0.7%
 ================================================================================
 
---- Chunk 627 ---
-Course: URBAN AND REGIONAL PLANNI
-
-Average GPA: 3.906
-
-Grade Distribution:
-- A: 89.6%
-- AB: 6.3%
-- B: 0.7%
-- BC: 2.8%
-- C: 0.7%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 628 ---
+--- Chunk 662 ---
 Course: Independent Work
 
 Average GPA: 3.841
@@ -9418,7 +9928,7 @@ Grade Distribution:
 - F: 2.4%
 ================================================================================
 
---- Chunk 629 ---
+--- Chunk 663 ---
 Course: Gender, Women & Cultural Rep
 
 Average GPA: 3.872
@@ -9433,7 +9943,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 630 ---
+--- Chunk 664 ---
 Course: Narrating Queer Lives
 
 Average GPA: 3.850
@@ -9448,7 +9958,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 631 ---
+--- Chunk 665 ---
 Course: Topics in LGBTQ+ Health
 
 Average GPA: 3.196
@@ -9463,7 +9973,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 632 ---
+--- Chunk 666 ---
 Course: Intersectionality
 
 Average GPA: 3.962
@@ -9478,7 +9988,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 633 ---
+--- Chunk 667 ---
 Course: Smnr:Topic-Gen & Women Studies
 
 Average GPA: 3.742
@@ -9493,7 +10003,7 @@ Grade Distribution:
 - F: 0.6%
 ================================================================================
 
---- Chunk 634 ---
+--- Chunk 668 ---
 Course: Animal Biology
 
 Average GPA: 3.333
@@ -9508,7 +10018,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 635 ---
+--- Chunk 669 ---
+Course: Introductory Biology
+
+Average GPA: 3.490
+
+Grade Distribution:
+- A: 49.0%
+- AB: 18.0%
+- B: 24.0%
+- BC: 4.0%
+- C: 3.0%
+- D: 2.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 670 ---
 Course: Medical Entomology
 
 Average GPA: 3.813
@@ -9523,52 +10048,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 636 ---
+--- Chunk 671 ---
 Course: Ecology of Fishes
 
-Average GPA: 3.471
-
-Grade Distribution:
-- A: 41.2%
-- AB: 29.4%
-- B: 17.6%
-- BC: 5.9%
-- C: 5.9%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 637 ---
-Course: Ornithology
-
-Average GPA: 3.500
+Average GPA: 3.667
 
 Grade Distribution:
 - A: 50.0%
-- AB: 16.7%
-- B: 16.7%
-- BC: 16.7%
+- AB: 38.9%
+- B: 5.6%
+- BC: 5.6%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 638 ---
-Course: Comparatv&Evolutionry Physiol
-
-Average GPA: 3.905
-
-Grade Distribution:
-- A: 81.8%
-- AB: 9.1%
-- B: 4.5%
-- BC: 4.5%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 639 ---
+--- Chunk 672 ---
 Course: Seminar in Cellular Biology
 
 Average GPA: 3.273
@@ -9583,22 +10078,22 @@ Grade Distribution:
 - F: 1.1%
 ================================================================================
 
---- Chunk 640 ---
+--- Chunk 673 ---
 Course: SAB STDYABRD
 
-Average GPA: 0.500
+Average GPA: 3.447
 
 Grade Distribution:
-- A: 12.5%
-- AB: 0.0%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
+- A: 53.2%
+- AB: 15.9%
+- B: 13.2%
+- BC: 5.4%
+- C: 5.0%
+- D: 1.8%
+- F: 0.9%
 ================================================================================
 
---- Chunk 641 ---
+--- Chunk 674 ---
 Course: Legal Sources
 
 Average GPA: 1.043
@@ -9613,7 +10108,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 642 ---
+--- Chunk 675 ---
 Course: Legl Analysis, Advocacy &WtgII
 
 Average GPA: 1.429
@@ -9628,22 +10123,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 643 ---
-Course: Federal Law & Indian Tribes
+--- Chunk 676 ---
+Course: Property
 
-Average GPA: 0.901
+Average GPA: 1.162
 
 Grade Distribution:
-- A: 12.3%
-- AB: 8.6%
-- B: 7.4%
+- A: 12.8%
+- AB: 17.9%
+- B: 2.6%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 644 ---
+--- Chunk 677 ---
 Course: Constitutional Law
 
 Average GPA: 1.089
@@ -9658,7 +10153,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 645 ---
+--- Chunk 678 ---
+Course: Trusts and Estates
+
+Average GPA: 1.139
+
+Grade Distribution:
+- A: 13.2%
+- AB: 18.4%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 679 ---
 Course: Evidence
 
 Average GPA: 1.303
@@ -9673,7 +10183,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 646 ---
+--- Chunk 680 ---
 Course: Pre-Trial Advocacy
 
 Average GPA: 0.923
@@ -9688,7 +10198,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 647 ---
+--- Chunk 681 ---
 Course: Clinical Program
 
 Average GPA: 0.917
@@ -9703,14 +10213,14 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 648 ---
-Course: Securities Regulation
+--- Chunk 682 ---
+Course: Problems: Intl Law Seminar
 
-Average GPA: 1.154
+Average GPA: 1.556
 
 Grade Distribution:
-- A: 23.1%
-- AB: 7.7%
+- A: 22.2%
+- AB: 22.2%
 - B: 0.0%
 - BC: 0.0%
 - C: 0.0%
@@ -9718,37 +10228,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 649 ---
-Course: Probs-Criminal Justice Adm
-
-Average GPA: 1.813
-
-Grade Distribution:
-- A: 27.8%
-- AB: 16.7%
-- B: 11.1%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 650 ---
-Course: Health Law
-
-Average GPA: 1.318
-
-Grade Distribution:
-- A: 8.7%
-- AB: 30.4%
-- B: 4.3%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 651 ---
+--- Chunk 683 ---
 Course: Problems in Family Law-Smr
 
 Average GPA: 1.125
@@ -9763,7 +10243,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 652 ---
+--- Chunk 684 ---
 Course: Law & Contemporary Problems
 
 Average GPA: 0.364
@@ -9778,22 +10258,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 653 ---
-Course: Independent Study
-
-Average GPA: 3.875
-
-Grade Distribution:
-- A: 83.3%
-- AB: 8.3%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 654 ---
+--- Chunk 685 ---
 Course: Capstone
 
 Average GPA: 3.768
@@ -9808,14 +10273,14 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 655 ---
-Course: BIOSTATISTICS & MED INFORM
+--- Chunk 686 ---
+Course: Regression Methods-Pop Health
 
-Average GPA: 3.800
+Average GPA: 3.571
 
 Grade Distribution:
-- A: 60.0%
-- AB: 40.0%
+- A: 57.1%
+- AB: 42.9%
 - B: 0.0%
 - BC: 0.0%
 - C: 0.0%
@@ -9823,37 +10288,37 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 656 ---
-Course: Independent Study
+--- Chunk 687 ---
+Course: Biostats & Biomed Informatics
 
-Average GPA: 3.833
+Average GPA: 3.976
 
 Grade Distribution:
-- A: 60.0%
-- AB: 30.0%
-- B: 10.0%
+- A: 97.1%
+- AB: 2.9%
+- B: 0.0%
 - BC: 0.0%
 - C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 657 ---
-Course: Pre-dissertator Research
+--- Chunk 688 ---
+Course: Computn&Informatcs in Biol&Med
 
-Average GPA: 3.750
+Average GPA: 3.868
 
 Grade Distribution:
-- A: 66.7%
-- AB: 16.7%
-- B: 16.7%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
+- A: 75.7%
+- AB: 10.7%
+- B: 6.8%
+- BC: 0.6%
+- C: 2.3%
+- D: 4.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 658 ---
+--- Chunk 689 ---
 Course: Research and Thesis
 
 Average GPA: 3.850
@@ -9868,7 +10333,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 659 ---
+--- Chunk 690 ---
 Course: DERMATOLOGY
 
 Average GPA: 3.983
@@ -9883,7 +10348,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 660 ---
+--- Chunk 691 ---
 Course: Public Health in Dermatology
 
 Average GPA: 3.983
@@ -9898,22 +10363,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 661 ---
-Course: Independent Study
+--- Chunk 692 ---
+Course: Scientific Communication
 
-Average GPA: 3.912
+Average GPA: 3.854
 
 Grade Distribution:
-- A: 82.4%
-- AB: 17.6%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
+- A: 58.8%
+- AB: 7.1%
+- B: 5.9%
+- BC: 1.2%
+- C: 22.4%
+- D: 1.2%
+- F: 3.5%
 ================================================================================
 
---- Chunk 662 ---
+--- Chunk 693 ---
 Course: Family Medicine Elective
 
 Average GPA: 2.100
@@ -9928,7 +10393,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 663 ---
+--- Chunk 694 ---
 Course: Adv Pract-Genetic Counselng
 
 Average GPA: 3.857
@@ -9943,7 +10408,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 664 ---
+--- Chunk 695 ---
 Course: Research
 
 Average GPA: 3.977
@@ -9958,8 +10423,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 665 ---
-Course: MEDICAL MICROBIOL & IMMUN
+--- Chunk 696 ---
+Course: Research and Thesis
 
 Average GPA: 3.814
 
@@ -9973,7 +10438,7 @@ Grade Distribution:
 - F: 15.6%
 ================================================================================
 
---- Chunk 666 ---
+--- Chunk 697 ---
 Course: Topics-Medical Physics
 
 Average GPA: 3.917
@@ -9988,22 +10453,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 667 ---
-Course: Journal Club and Seminar
-
-Average GPA: 3.739
-
-Grade Distribution:
-- A: 56.5%
-- AB: 14.9%
-- B: 6.3%
-- BC: 0.4%
-- C: 14.9%
-- D: 7.1%
-- F: 0.0%
-================================================================================
-
---- Chunk 668 ---
+--- Chunk 698 ---
 Course: Acute Care
 
 Average GPA: 2.300
@@ -10018,7 +10468,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 669 ---
+--- Chunk 699 ---
 Course: Ambulatory Acting Internship
 
 Average GPA: 0.600
@@ -10033,7 +10483,7 @@ Grade Distribution:
 - F: 2.2%
 ================================================================================
 
---- Chunk 670 ---
+--- Chunk 700 ---
 Course: MEDICINE
 
 Average GPA: 3.994
@@ -10048,29 +10498,29 @@ Grade Distribution:
 - F: 0.1%
 ================================================================================
 
---- Chunk 671 ---
+--- Chunk 701 ---
 Course: Directed Research in Neurology
 
-Average GPA: 2.400
+Average GPA: 3.931
 
 Grade Distribution:
-- A: 3.5%
-- AB: 49.4%
-- B: 1.2%
-- BC: 0.0%
-- C: 0.0%
+- A: 43.5%
+- AB: 2.4%
+- B: 3.5%
+- BC: 49.4%
+- C: 1.2%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 672 ---
+--- Chunk 702 ---
 Course: Neurosurg-Directed Study
 
 Average GPA: 3.500
 
 Grade Distribution:
 - A: 50.0%
-- AB: 0.0%
+- AB: 50.0%
 - B: 0.0%
 - BC: 0.0%
 - C: 0.0%
@@ -10078,8 +10528,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 673 ---
-Course: Directed Study
+--- Chunk 703 ---
+Course: Research and Thesis
 
 Average GPA: 3.911
 
@@ -10093,22 +10543,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 674 ---
-Course: Research and Thesis
+--- Chunk 704 ---
+Course: NEUROSCIENCE TRAINING PRO
 
-Average GPA: 3.838
+Average GPA: 3.632
 
 Grade Distribution:
-- A: 33.5%
-- AB: 3.7%
-- B: 3.3%
-- BC: 0.4%
-- C: 57.6%
-- D: 0.4%
-- F: 0.4%
+- A: 57.9%
+- AB: 15.8%
+- B: 21.1%
+- BC: 5.3%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
 ================================================================================
 
---- Chunk 675 ---
+--- Chunk 705 ---
 Course: Seminar
 
 Average GPA: 3.856
@@ -10123,7 +10573,7 @@ Grade Distribution:
 - F: 0.5%
 ================================================================================
 
---- Chunk 676 ---
+--- Chunk 706 ---
 Course: Vision Science
 
 Average GPA: 3.970
@@ -10138,7 +10588,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 677 ---
+--- Chunk 707 ---
 Course: Moleculr Mechanisms of Disease
 
 Average GPA: 3.951
@@ -10153,7 +10603,7 @@ Grade Distribution:
 - F: 3.8%
 ================================================================================
 
---- Chunk 678 ---
+--- Chunk 708 ---
 Course: Seminar & Journal Club
 
 Average GPA: 3.958
@@ -10168,7 +10618,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 679 ---
+--- Chunk 709 ---
 Course: Independent Study
 
 Average GPA: 3.732
@@ -10183,7 +10633,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 680 ---
+--- Chunk 710 ---
 Course: Phy Asst Preceptorship: Elective
 
 Average GPA: 3.865
@@ -10198,7 +10648,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 681 ---
+--- Chunk 711 ---
+Course: BIOMOLECULAR CHEMISTRY
+
+Average GPA: 3.667
+
+Grade Distribution:
+- A: 55.6%
+- AB: 33.3%
+- B: 11.1%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 712 ---
 Course: Adv Biomoleclr Chem & Rsrch
 
 Average GPA: 3.847
@@ -10213,8 +10678,8 @@ Grade Distribution:
 - F: 39.0%
 ================================================================================
 
---- Chunk 682 ---
-Course: Preventive Medicine Elective
+--- Chunk 713 ---
+Course: Internl Hlth Systems & Policy
 
 Average GPA: 3.807
 
@@ -10228,7 +10693,7 @@ Grade Distribution:
 - F: 10.3%
 ================================================================================
 
---- Chunk 683 ---
+--- Chunk 714 ---
 Course: Public Health Leadership
 
 Average GPA: 3.830
@@ -10243,8 +10708,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 684 ---
-Course: Independent Study
+--- Chunk 715 ---
+Course: Upper Extrem Ortho-Marshfld
 
 Average GPA: 3.850
 
@@ -10258,7 +10723,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 685 ---
+--- Chunk 716 ---
 Course: College
 
 Average GPA: 3.906
@@ -10273,8 +10738,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 686 ---
-Course: COLLABORATIVE NURSING PRG
+--- Chunk 717 ---
+Course: Foundations Prof Nursing Pract
 
 Average GPA: 3.917
 
@@ -10288,7 +10753,37 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 687 ---
+--- Chunk 718 ---
+Course: Chronic Care Management
+
+Average GPA: 3.200
+
+Grade Distribution:
+- A: 50.0%
+- AB: 20.0%
+- B: 10.0%
+- BC: 10.0%
+- C: 10.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 719 ---
+Course: Nrsg Research & EB Practice
+
+Average GPA: 3.786
+
+Grade Distribution:
+- A: 85.7%
+- AB: 14.3%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 720 ---
 Course: Leadership and Management
 
 Average GPA: 3.833
@@ -10303,7 +10798,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 688 ---
+--- Chunk 721 ---
 Course: Capstone Practicum for RNs
 
 Average GPA: 3.675
@@ -10318,7 +10813,22 @@ Grade Distribution:
 - F: 0.9%
 ================================================================================
 
---- Chunk 689 ---
+--- Chunk 722 ---
+Course: Health Care: Intrdis Appr
+
+Average GPA: 3.968
+
+Grade Distribution:
+- A: 93.5%
+- AB: 6.5%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 723 ---
 Course: Hlth Ill Indiv & Fam: Exp Lrng
 
 Average GPA: 3.290
@@ -10333,7 +10843,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 690 ---
+--- Chunk 724 ---
 Course: Perinatal Nursing
 
 Average GPA: 3.555
@@ -10348,7 +10858,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 691 ---
+--- Chunk 725 ---
 Course: Nrsng Care - Children & Family
 
 Average GPA: 3.155
@@ -10363,7 +10873,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 692 ---
+--- Chunk 726 ---
 Course: Adv Cnpts in Cplx Nrsg Prac
 
 Average GPA: 3.904
@@ -10378,7 +10888,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 693 ---
+--- Chunk 727 ---
 Course: Transformative Nrsg Capstone
 
 Average GPA: 3.669
@@ -10393,14 +10903,14 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 694 ---
+--- Chunk 728 ---
 Course: Adv Health Sys Ldrshp & Innov
 
-Average GPA: 3.938
+Average GPA: 3.857
 
 Grade Distribution:
-- A: 87.5%
-- AB: 12.5%
+- A: 85.7%
+- AB: 14.3%
 - B: 0.0%
 - BC: 0.0%
 - C: 0.0%
@@ -10408,23 +10918,8 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 695 ---
-Course: Measurement in Health Research
-
-Average GPA: 3.958
-
-Grade Distribution:
-- A: 91.7%
-- AB: 8.3%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 696 ---
-Course: Patient-centered Research
+--- Chunk 729 ---
+Course: Eval & App Evidence-Based Prac
 
 Average GPA: 3.917
 
@@ -10438,7 +10933,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 697 ---
+--- Chunk 730 ---
+Course: Clinical Leadership IV
+
+Average GPA: 3.917
+
+Grade Distribution:
+- A: 83.3%
+- AB: 16.7%
+- B: 0.0%
+- BC: 0.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 731 ---
 Course: Advanced Independent Study
 
 Average GPA: 3.529
@@ -10453,7 +10963,7 @@ Grade Distribution:
 - F: 0.2%
 ================================================================================
 
---- Chunk 698 ---
+--- Chunk 732 ---
 Course: Introduction to Reg Practice
 
 Average GPA: 3.571
@@ -10468,7 +10978,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 699 ---
+--- Chunk 733 ---
 Course: GxP: Working in Reg Environmnt
 
 Average GPA: 3.881
@@ -10483,7 +10993,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 700 ---
+--- Chunk 734 ---
 Course: Lab and Instrumentation
 
 Average GPA: 3.778
@@ -10498,7 +11008,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 701 ---
+--- Chunk 735 ---
 Course: Trends in Drug Disc/Dev
 
 Average GPA: 3.900
@@ -10513,7 +11023,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 702 ---
+--- Chunk 736 ---
 Course: DrugDevI
 
 Average GPA: 3.647
@@ -10528,7 +11038,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 703 ---
+--- Chunk 737 ---
 Course: PHARMACY
 
 Average GPA: 3.939
@@ -10543,7 +11053,22 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 704 ---
+--- Chunk 738 ---
+Course: Pharmacokinetics
+
+Average GPA: 3.625
+
+Grade Distribution:
+- A: 55.0%
+- AB: 25.0%
+- B: 10.0%
+- BC: 10.0%
+- C: 0.0%
+- D: 0.0%
+- F: 0.0%
+================================================================================
+
+--- Chunk 739 ---
 Course: Neuroscience of Psychedelics
 
 Average GPA: 3.961
@@ -10558,22 +11083,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 705 ---
-Course: CNS Drug Principles II
-
-Average GPA: 3.896
-
-Grade Distribution:
-- A: 87.5%
-- AB: 8.3%
-- B: 4.2%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 706 ---
+--- Chunk 740 ---
 Course: Bioethics & Sci Integrity
 
 Average GPA: 3.607
@@ -10588,7 +11098,7 @@ Grade Distribution:
 - F: 0.2%
 ================================================================================
 
---- Chunk 707 ---
+--- Chunk 741 ---
 Course: PHARMACY PRACTICE
 
 Average GPA: 3.948
@@ -10603,7 +11113,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 708 ---
+--- Chunk 742 ---
 Course: Advanced Independent Study
 
 Average GPA: 3.929
@@ -10618,7 +11128,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 709 ---
+--- Chunk 743 ---
 Course: Acute Pharmaceut Care Clerkshp
 
 Average GPA: 3.962
@@ -10633,7 +11143,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 710 ---
+--- Chunk 744 ---
 Course: Ambulatry Phmceut Care Clrk
 
 Average GPA: 3.944
@@ -10648,7 +11158,7 @@ Grade Distribution:
 - F: 0.0%
 ================================================================================
 
---- Chunk 711 ---
+--- Chunk 745 ---
 Course: Community Pharmarcy Practice
 
 Average GPA: 3.837
@@ -10658,12 +11168,12 @@ Grade Distribution:
 - AB: 10.2%
 - B: 2.0%
 - BC: 2.0%
-- C: 2.0%
+- C: 0.0%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 712 ---
+--- Chunk 746 ---
 Course: Advanced Independent Study
 
 Average GPA: 3.803
@@ -10678,7 +11188,7 @@ Grade Distribution:
 - F: 0.1%
 ================================================================================
 
---- Chunk 713 ---
+--- Chunk 747 ---
 Course: Advanced Independent Study
 
 Average GPA: 3.761
@@ -10693,7 +11203,7 @@ Grade Distribution:
 - F: 2.2%
 ================================================================================
 
---- Chunk 714 ---
+--- Chunk 748 ---
 Course: SA WisCARES
 
 Average GPA: 3.663
@@ -10708,52 +11218,37 @@ Grade Distribution:
 - F: 0.1%
 ================================================================================
 
---- Chunk 715 ---
-Course: PATHO-BIOLOGICAL SCIENCES
+--- Chunk 749 ---
+Course: Advanced Seminar
 
-Average GPA: 3.889
+Average GPA: 3.244
 
 Grade Distribution:
-- A: 81.1%
-- AB: 15.6%
-- B: 3.3%
-- BC: 0.0%
-- C: 0.0%
+- A: 37.8%
+- AB: 10.0%
+- B: 32.2%
+- BC: 7.8%
+- C: 10.0%
+- D: 2.2%
+- F: 0.0%
+================================================================================
+
+--- Chunk 750 ---
+Course: SURGICAL SCIENCES
+
+Average GPA: 3.771
+
+Grade Distribution:
+- A: 73.4%
+- AB: 10.6%
+- B: 13.8%
+- BC: 1.1%
+- C: 1.1%
 - D: 0.0%
 - F: 0.0%
 ================================================================================
 
---- Chunk 716 ---
-Course: Directed Study
-
-Average GPA: 3.857
-
-Grade Distribution:
-- A: 85.7%
-- AB: 14.3%
-- B: 0.0%
-- BC: 0.0%
-- C: 0.0%
-- D: 0.0%
-- F: 0.0%
-================================================================================
-
---- Chunk 717 ---
-Course: Veterinary Pharmacology
-
-Average GPA: 3.529
-
-Grade Distribution:
-- A: 53.3%
-- AB: 18.2%
-- B: 18.5%
-- BC: 3.8%
-- C: 3.6%
-- D: 0.5%
-- F: 2.2%
-================================================================================
-
---- Chunk 718 ---
+--- Chunk 751 ---
 Course: Dentistry & Oral Surg Rotation
 
 Average GPA: 3.689

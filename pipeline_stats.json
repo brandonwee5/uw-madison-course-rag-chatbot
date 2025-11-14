@@ -1,0 +1,91 @@
+{
+  "stage1_pdf_to_markdown": {
+    "wall_time_seconds": 318.715,
+    "input_size_mb": 4.33,
+    "output_size_mb": 2.49,
+    "num_chunks": 486,
+    "throughput_mb_per_sec": 0.014
+  },
+  "stage2_markdown_to_chunks": {
+    "wall_time_seconds": 0.067,
+    "num_chunks": 751,
+    "output_size_mb": 0.5,
+    "avg_chunk_size_bytes": 458.35,
+    "throughput_chunks_per_sec": 11275.39
+  },
+  "stage3_chunks_to_embeddings": {
+    "total_wall_time_seconds": 3.119,
+    "model_load_time_seconds": 1.696,
+    "inference_time_seconds": 1.423,
+    "num_embeddings": 751,
+    "embedding_dimension": 384,
+    "output_size_mb": 5.66,
+    "throughput_embeddings_per_sec": 527.84
+  },
+  "total_offline_pipeline_seconds": 327.692,
+  "stage4_query_processing": {
+    "num_queries": 4,
+    "retrieval_ms": {
+      "mean": 293.82,
+      "median": 312.46,
+      "p95": 489.48,
+      "p99": 506.69,
+      "min": 39.37,
+      "max": 510.99
+    },
+    "generation_ms": {
+      "mean": 3410.29,
+      "median": 3167.12,
+      "p95": 5014.04,
+      "p99": 5174.54,
+      "min": 2092.26,
+      "max": 5214.67
+    },
+    "total_latency_ms": {
+      "mean": 3704.21,
+      "median": 3370.67,
+      "p95": 5503.66,
+      "p99": 5681.38,
+      "min": 2349.69,
+      "max": 5725.81
+    },
+    "individual_queries": [
+      {
+        "query_embedding_ms": 504.7157088993117,
+        "faiss_search_ms": 6.274666986428201,
+        "total_retrieval_ms": 510.9903758857399,
+        "llm_generation_ms": 5214.669374981895,
+        "total_query_latency_ms": 5725.814084056765,
+        "query": "what are some cs courses I can take",
+        "response_length": 639
+      },
+      {
+        "query_embedding_ms": 257.25208304356784,
+        "faiss_search_ms": 0.10425003711134195,
+        "total_retrieval_ms": 257.3563330806792,
+        "llm_generation_ms": 2092.255000025034,
+        "total_query_latency_ms": 2349.686208064668,
+        "query": "what about cs220?",
+        "response_length": 550
+      },
+      {
+        "query_embedding_ms": 39.3085420364514,
+        "faiss_search_ms": 0.06566592492163181,
+        "total_retrieval_ms": 39.37420796137303,
+        "llm_generation_ms": 2457.093207980506,
+        "total_query_latency_ms": 2496.526457951404,
+        "query": "list all computer science courses in the database",
+        "response_length": 353
+      },
+      {
+        "query_embedding_ms": 367.2750419937074,
+        "faiss_search_ms": 0.2805000403895974,
+        "total_retrieval_ms": 367.555542034097,
+        "llm_generation_ms": 3877.1507079945877,
+        "total_query_latency_ms": 4244.82004204765,
+        "query": "what can you tell me about biochem 104",
+        "response_length": 263
+      }
+    ]
+  }
+}
